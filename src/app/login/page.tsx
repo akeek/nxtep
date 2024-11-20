@@ -54,7 +54,7 @@ export default function LoginForm() {
       if (response.ok) {
         const data = await response.json();
         localStorage.setItem("user", JSON.stringify(data.user));
-        router.push("/statsforvalteren"); // Redirect on successful login
+        router.push("/statsforvalteren");
       } else {
         const err = await response.json();
         setError(err.error || "Login failed");
