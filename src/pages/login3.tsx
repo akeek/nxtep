@@ -27,29 +27,33 @@ const Login = () => {
   };
 
   return (
-    <div>
-      <h1>Login</h1>
-      {error && <p style={{ color: "red" }}>{error}</p>}
-      <form onSubmit={handleLogin}>
-        <label>
-          Username:
-          <input
-            type="text"
-            value={username}
-            onChange={(e) => setUsername(e.target.value)}
-          />
-        </label>
-        <label>
-          Password:
-          <input
-            type="password"
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
-          />
-        </label>
-        <button type="submit">Login</button>
-      </form>
-    </div>
+    <>
+      <div className="container mx-auto">
+        <h1 className="text-center">You need to log in mafakka</h1>
+        <div className="block">
+          {error && <p style={{ color: "red" }}>{error}</p>}
+          <form className="block" onSubmit={handleLogin}>
+            <label>
+              Username:
+              <input
+                type="text"
+                value={username}
+                onChange={(e) => setUsername(e.target.value)}
+              />
+            </label>
+            <label>
+              Password:
+              <input
+                type="password"
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+              />
+            </label>
+            <button type="submit">Login</button>
+          </form>
+        </div>
+      </div>
+    </>
   );
 };
 

@@ -6,7 +6,7 @@ import { Button } from "../components/ui/button";
 const HomePage = () => {
   return (
     <div className="container px-6">
-      <h1 className="text-center text-5xl py-6">Welcome to the Next Episode</h1>
+      <h1 className="text-center text-5xl py-6">Welcome to NxtEp</h1>
       <Button
         variant="outline"
         className="bg-green-50 hover:bg-green-500 hover:text-white font-semibold"

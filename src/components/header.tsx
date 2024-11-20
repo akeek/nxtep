@@ -46,7 +46,7 @@ function Header() {
       <div>
         <h2>
           <Link href="/" className="text-2xl font-bold">
-            The next episode
+            NxtEp
           </Link>
         </h2>
       </div>
