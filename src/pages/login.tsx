@@ -20,7 +20,7 @@ const Login = () => {
     if (response.ok) {
       const data = await response.json();
       localStorage.setItem("user", JSON.stringify(data.user));
-      router.push("/"); // Redirect on successful login
+      router.push("/statsforvalteren"); // Redirect on successful login
     } else {
       const err = await response.json();
       setError(err.error);

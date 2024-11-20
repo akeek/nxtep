@@ -2,16 +2,16 @@
   {
     "id": 1,
     "username": "admin",
-    "password": "$2b$10$fkLVegDWrfOgNK8bb8t6r.ok5ycukxfeGUZbQ8UgbzXjjumjoqcLm"
+    "password": "$2b$10$LhcqfKmQW8xqve9rpxbAR.D9epXLLBDj5g2Rv/tAH0yjLvFvgrrpS"
   },
   {
     "id": 2,
     "username": "simensjø",
-    "password": "$2b$10$bUDOh3H.BQNN556FwyGw6ebwe5LF/0Fb5H8nzAK6OKVdM6QrtU55K"
+    "password": "$2b$10$7nL4tYOBTNCi9I5z7eudP.HWRL7BpmI42eK3UsuixxHNzcFKrpD1e"
   },
   {
     "id": 3,
     "username": "sindrebeton",
-    "password": "$2b$10$Q7fHbOIsTSYO1cQ3kXeaIealalI8jg91NCkHG5WlZZDak4MP.PEt6"
+    "password": "$2b$10$Aa.hecFINeY.EV0YW5CF8OM4tKDW6lUd7o1Z6uOtlpEC2Aa/9LYRW"
   }
 ]
