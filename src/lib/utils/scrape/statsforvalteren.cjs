@@ -77,8 +77,7 @@ async function processPDF(pdfUrl) {
     const text = pdfData.text.replace(/[\n\r]+/g, " ").replace(/\s{2,}/g, " ");
 
     const patterns = {
-      squareCubicMeter:
-        /([^.]*\d{1,3}(?:\s?\d{3})*(?:[.,]?\d+)?\s?(m²|m³|am²)[^.]*\.)/g,
+      m2m3: /([^.]*\d{1,3}(?:\s?\d{3})*(?:[.,]?\d+)?\s?(m²|m³|am²)[^.]*\.)/g,
       mudring: /([^.]*\bmudring\b[^.]*\.)/gi,
       molo: /([^.]*\bmolo\b[^.]*\.)/gi,
       sjøarbeid: /([^.]*\bsjøarbeid\b[^.]*\.)/gi,

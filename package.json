@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "scrape": "node src/lib/utils/scrape/statsforvalteren.js",
+    "scrape": "node src/lib/utils/scrape/statsforvalteren.cjs",
     "scrape2": "node src/lib/utils/scrape/norskeutslipp.js"
   },
   "dependencies": {

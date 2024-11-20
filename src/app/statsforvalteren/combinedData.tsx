@@ -150,7 +150,7 @@ const CombinedData: React.FC = () => {
                   <div className="pb-5">
                     <ul>
                       {Object.entries(result.pdfData.wordsFound)
-                        .filter(([_, { found }]) => found) // Filter entries where "found" is true
+                        .filter(([_, { found }]) => found)
                         .map(([word, { count }]) => (
                           <li key={word}>
                             <span className="font-thin">{word} </span>
@@ -164,6 +164,12 @@ const CombinedData: React.FC = () => {
                       if (!Array.isArray(sentences) || sentences.length === 0) {
                         return null;
                       }
+                      const isVisible = isSentenceVisible(
+                        countyIndex,
+                        resultIndex,
+                        key
+                      );
+
                       return (
                         <div key={key} className="pb-4 flex-col">
                           <Button
@@ -177,27 +183,29 @@ const CombinedData: React.FC = () => {
                               )
                             }
                           >
-                            {isSentenceVisible(
-                              countyIndex,
-                              resultIndex,
-                              key
-                            ) ? (
-                              <p>Skjul setninger med ordet {key}</p>
+                            {isVisible ? (
+                              <p>Skjul setninger som inneholder {key}</p>
                             ) : (
-                              <p>Vis setninger med ordet {key}</p>
+                              <p>Vis setninger som inneholder {key}</p>
                             )}
                           </Button>
-                          {isSentenceVisible(countyIndex, resultIndex, key) && (
-                            <ul>
-                              {sentences.map(
-                                (sentence: string, idx: number) => (
-                                  <li className="py-3" key={idx}>
-                                    - {sentence}
-                                  </li>
-                                )
-                              )}
-                            </ul>
-                          )}
+                          <div
+                            className={`overflow-hidden ${
+                              isVisible ? "animate-expand" : "animate-collapse"
+                            }`}
+                          >
+                            {isVisible && (
+                              <ul>
+                                {sentences.map(
+                                  (sentence: string, idx: number) => (
+                                    <li className="py-3" key={idx}>
+                                      - {sentence}
+                                    </li>
+                                  )
+                                )}
+                              </ul>
+                            )}
+                          </div>
                         </div>
                       );
                     })}
