@@ -153,7 +153,7 @@ const CombinedData: React.FC = () => {
                         .filter(([_, { found }]) => found) // Filter entries where "found" is true
                         .map(([word, { count }]) => (
                           <li key={word}>
-                            <span className="font-thin">"{word}" </span>
+                            <span className="font-thin">{word} </span>
                             er funnet {count > 0 && `: ${count}`} ganger
                           </li>
                         ))}
