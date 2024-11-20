@@ -6,9 +6,7 @@ const nextConfig = {
     config.resolve.alias["@"] = path.resolve(".");
     return config;
   },
-  experimental: {
-    appDir: true, // Enables experimental App Directory (if applicable)
-  },
+  experimental: {},
   async rewrites() {
     return [
       {
