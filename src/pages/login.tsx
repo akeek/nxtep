@@ -9,7 +9,6 @@ const Login = () => {
 
   const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
-    console.log({ username, password });
 
     const response = await fetch("/api/login", {
       method: "POST",

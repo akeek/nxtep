@@ -9,10 +9,9 @@ function Nav() {
   const [user, setUser] = useState(null);
 
   useEffect(() => {
-    // Check if the user exists in localStorage on component mount
     const storedUser = localStorage.getItem("user");
     if (storedUser) {
-      setUser(JSON.parse(storedUser)); // Parse and set user info
+      setUser(JSON.parse(storedUser));
     }
   }, []);
 
@@ -27,8 +26,6 @@ function Nav() {
             <Link href="/">Hjem</Link>
           </Button>
         </li>
-
-        {/* Conditionally render logout button if there is a user */}
         {user && (
           <Button
             variant="ghost"
