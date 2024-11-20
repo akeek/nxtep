@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "$2b$10$fkLVegDWrfOgNK8bb8t6r.ok5ycukxfeGUZbQ8UgbzXjjumjoqcLm"
+  },
+  {
+    "id": 2,
+    "username": "simensjø",
+    "password": "$2b$10$bUDOh3H.BQNN556FwyGw6ebwe5LF/0Fb5H8nzAK6OKVdM6QrtU55K"
+  },
+  {
+    "id": 3,
+    "username": "sindrebeton",
+    "password": "$2b$10$Q7fHbOIsTSYO1cQ3kXeaIealalI8jg91NCkHG5WlZZDak4MP.PEt6"
+  }
+]
