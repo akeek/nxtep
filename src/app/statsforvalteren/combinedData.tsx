@@ -154,7 +154,7 @@ const CombinedData: React.FC = () => {
                         .map(([word, { count }]) => (
                           <li key={word}>
                             <span className="font-thin">{word} </span>
-                            er funnet {count > 0 && `: ${count}`} ganger
+                            er funnet{count > 0 && `: ${count}`} ganger
                           </li>
                         ))}
                     </ul>

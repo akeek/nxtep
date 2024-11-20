@@ -1413,9 +1413,7 @@
         "pageHeader": "Høringer",
         "summary": "Reno-Vest IKS søker, som eier av Plastterminalen AS, om utslippstillatelse etter forurensningsloven for etablering av ny aktivitet på avfallsanlegget på Bremnes i Sortland kommune.",
         "pdfData": {
-          "squareCubicMeter": [
-            "5.000m²) og rundt bygget/hallen."
-          ],
+          "squareCubicMeter": ["5.000m²) og rundt bygget/hallen."],
           "mudring": [],
           "molo": [],
           "sjøarbeid": [],
@@ -6746,9 +6744,7 @@
         "pageHeader": "Høyringar",
         "summary": "Stad kommune søkjer om løyve etter forureiningslova til anleggsarbeid i sjø for å utvide næringsarelaet for marine næringar.",
         "pdfData": {
-          "squareCubicMeter": [
-            "70 000 m²."
-          ],
+          "squareCubicMeter": ["70 000 m²."],
           "mudring": [
             "Mudring i sedimenter krever tillatelse fra Statsforvalteren før arbeidet kan starte, jf.",
             "Mudring kan også være aktuelt på grunn av stabiliteten til planlagt utfylling.",
@@ -7790,9 +7786,7 @@
           "molo": [],
           "sjøarbeid": [],
           "utdyping": [],
-          "tildekking": [
-            "Tildekking er derfor svært viktig."
-          ],
+          "tildekking": ["Tildekking er derfor svært viktig."],
           "utfylling": [],
           "dykking": [],
           "undervannsprenging": [],
