@@ -3,7 +3,7 @@
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import { useState } from "react";
-import { useRouter } from "next/navigation"; // Corrected router import
+import { useRouter } from "next/navigation";
 import { z } from "zod";
 
 import { Button } from "../../../@/components/ui/button";
@@ -17,7 +17,6 @@ import {
 } from "../../../@/components/ui/form";
 import { Input } from "../../../@/components/ui/input";
 
-// Define validation schema
 const formSchema = z.object({
   username: z.string().min(2, {
     message: "Username must be at least 2 characters.",
@@ -29,9 +28,8 @@ const formSchema = z.object({
 
 export default function LoginForm() {
   const [error, setError] = useState<string | null>(null);
-  const router = useRouter(); // Initialize Next.js router
+  const router = useRouter();
 
-  // Initialize form methods with zod validation
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
     defaultValues: {
@@ -40,9 +38,8 @@ export default function LoginForm() {
     },
   });
 
-  // Handle form submission
   const handleLogin = async (values: z.infer<typeof formSchema>) => {
-    setError(null); // Clear previous errors
+    setError(null);
 
     try {
       const response = await fetch("/api/login", {

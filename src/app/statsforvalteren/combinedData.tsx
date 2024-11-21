@@ -92,8 +92,6 @@ const CombinedData: React.FC = () => {
     });
   };
 
-  console.log(groupedResults);
-
   return (
     <div className="container mx-auto p-5">
       {groupedResults.map((countyData, countyIndex) => {
@@ -168,45 +166,6 @@ const CombinedData: React.FC = () => {
                         countyIndex,
                         resultIndex,
                         key
-                      );
-
-                      return (
-                        <div key={key} className="pb-4 flex-col">
-                          <Button
-                            variant="outline"
-                            className="bg-green-200 hover:bg-green-500 hover:text-white"
-                            onClick={() =>
-                              handleToggleSentences(
-                                countyIndex,
-                                resultIndex,
-                                key
-                              )
-                            }
-                          >
-                            {isVisible ? (
-                              <p>Skjul setninger som inneholder {key}</p>
-                            ) : (
-                              <p>Vis setninger som inneholder {key}</p>
-                            )}
-                          </Button>
-                          <div
-                            className={`overflow-hidden ${
-                              isVisible ? "animate-expand" : "animate-collapse"
-                            }`}
-                          >
-                            {isVisible && (
-                              <ul>
-                                {sentences.map(
-                                  (sentence: string, idx: number) => (
-                                    <li className="py-3" key={idx}>
-                                      - {sentence}
-                                    </li>
-                                  )
-                                )}
-                              </ul>
-                            )}
-                          </div>
-                        </div>
                       );
                     })}
                   </div>

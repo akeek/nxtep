@@ -68,41 +68,16 @@ export const UtslippCard = ({
         <h3 className="font-semibold">PDF data:</h3>
         <div className="mt-2">
           {Object.entries(PDFAnalysis).map(([keyword, analysis]) => {
-            // Ensure we check for analysis properties safely
             if (typeof analysis !== "object" || !analysis) return null;
 
             return (
-              <div key={keyword} className="mb-4">
-                <p className="pb-3">
+              <div key={keyword} className="">
+                <p className="">
                   <span>
                     {keyword.charAt(0).toUpperCase() + keyword.slice(1)}
                   </span>{" "}
                   funnet i {analysis.count ?? 0} setninger
                 </p>
-                <Button
-                  variant="outline"
-                  className="bg-green-200 hover:bg-green-500 hover:text-white"
-                  onClick={() =>
-                    setExpandedKeywords((prev) => ({
-                      ...prev,
-                      [keyword]: !prev[keyword],
-                    }))
-                  }
-                >
-                  {expandedKeywords[keyword]
-                    ? `Skjul setninger for "${keyword}"`
-                    : `Vis setninger for "${keyword}"`}
-                </Button>
-                {expandedKeywords[keyword] &&
-                  analysis.sentences?.length > 0 && (
-                    <ul className="list-disc list-inside mt-2">
-                      {analysis.sentences?.map(
-                        (sentence: string, idx: number) => (
-                          <li key={idx}>{sentence}</li>
-                        )
-                      )}
-                    </ul>
-                  )}
               </div>
             );
           })}
