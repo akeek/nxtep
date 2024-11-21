@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "scrape": "node src/lib/utils/scrape/statsforvalteren.cjs",
-    "scrape2": "node src/lib/utils/scrape/norskeutslipp.js"
+    "scrape2": "node src/lib/utils/scrape/norskeutslipp.cjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
