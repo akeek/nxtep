@@ -74,6 +74,7 @@ async function processPDF(pdfUrl) {
     }
 
     const pdfData = await pdf(response.data);
+    const metaData = pdfData.metadata;
     const text = pdfData.text.replace(/[\n\r]+/g, " ").replace(/\s{2,}/g, " ");
 
     const patterns = {
