@@ -6,8 +6,14 @@ let dataBuffer = fs.readFileSync(
 );
 
 pdf(dataBuffer).then(function (data) {
-  // PDF info
-  console.log(data.info);
+  // Access the metadata
+  const metadata = data.metadata._metadata;
 
-  console.log(data.metadata);
+  // Grab the 'xmp:createdate' value
+  const createdDate = metadata["xmp:createdate"];
+
+  // Convert the date string to a Date object and extract the year
+  const year = new Date(createdDate).getFullYear();
+
+  console.log("Year:", year);
 });
