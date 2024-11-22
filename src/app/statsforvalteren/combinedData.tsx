@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Button } from "../../components/ui/button";
 import Link from "next/link";
 
+// Interface for the result structure
 interface WordsFound {
   [key: string]: {
     found: boolean;
@@ -10,21 +11,13 @@ interface WordsFound {
 }
 
 interface PDFData {
-  squareCubicMeter: string[];
-  mudring: string[];
-  molo: string[];
-  sjøarbeid: string[];
-  utdyping: string[];
-  tildekking: string[];
-  utfylling: string[];
-  dykking: string[];
-  undervannsprenging: string[];
   wordsFound: WordsFound;
 }
 
 interface Result {
   county: string;
-  createdDate: Date; // Updated to Date
+  createdDate: Date;
+  høringsfrist: Date;
   hoeringUrl: string;
   pdfUrl: string;
   hoeringTitle: string;
@@ -34,13 +27,8 @@ interface Result {
   pdfData: PDFData;
 }
 
-interface CountyData {
-  county: string;
-  results: Result[];
-}
-
 const CombinedData: React.FC = () => {
-  const [groupedResults, setGroupedResults] = useState<CountyData[]>([]);
+  const [results, setResults] = useState<Result[]>([]);
   const [selectedYear, setSelectedYear] = useState<string>("");
   const [selectedCounty, setSelectedCounty] = useState<string>("");
 
@@ -48,21 +36,22 @@ const CombinedData: React.FC = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("/data/json/statsforvalteren.json");
-        const data: CountyData[] = await response.json();
+        const response = await fetch("/data/json/statsforvalteren1.json");
 
-        // Convert createdDate to Date object
-        const processedData = data.map((countyData) => ({
-          ...countyData,
-          results: countyData.results.map((result) => ({
-            ...result,
-            createdDate: new Date(result.createdDate),
-          })),
+        if (!response.ok) throw new Error("Failed to fetch data");
+
+        const data: Result[] = await response.json();
+
+        // Convert createdDate and høringsfrist to Date object
+        const processedData = data.map((result) => ({
+          ...result,
+          createdDate: new Date(result.createdDate),
+          høringsfrist: new Date(result.høringsfrist), // Convert to Date
         }));
 
-        setGroupedResults(processedData);
+        setResults(processedData);
       } catch (error) {
-        console.error("Error fetching the JSON data:", error);
+        console.error("Error fetching data:", error);
       }
     };
 
@@ -70,30 +59,48 @@ const CombinedData: React.FC = () => {
   }, []);
 
   // Filter results by year
-  const filterResults = (results: Result[]): Result[] =>
-    results.filter((result) =>
-      selectedYear
-        ? result.createdDate.getFullYear().toString() === selectedYear
-        : true
-    );
+  const filterResultsByYear = (result: Result): boolean =>
+    selectedYear
+      ? result.createdDate.getFullYear().toString() === selectedYear
+      : true;
 
-  // Generate year and county options
+  // Filter results by county
+  const filterResultsByCounty = (result: Result): boolean =>
+    selectedCounty ? result.county === selectedCounty : true;
+
+  // Group results by county
+  const groupByCounty = (results: Result[]) => {
+    return results.reduce((acc, result) => {
+      if (!acc[result.county]) {
+        acc[result.county] = [];
+      }
+      acc[result.county].push(result);
+      return acc;
+    }, {} as Record<string, Result[]>);
+  };
+
+  // Generate year options dynamically (2025-2010)
   const years = Array.from({ length: 2025 - 2010 + 1 }, (_, i) =>
     (2025 - i).toString()
   );
 
-  const counties = groupedResults.map((countyData) => countyData.county);
+  // Get unique counties from results
+  const counties = [...new Set(results.map((result) => result.county))];
 
-  // Filter grouped results
-  const filteredGroupedResults = groupedResults.filter((countyData) =>
-    selectedCounty ? countyData.county === selectedCounty : true
-  );
+  const filteredResults = results
+    .filter(filterResultsByYear)
+    .filter(filterResultsByCounty);
+
+  // Group filtered results by county
+  const groupedResults = groupByCounty(filteredResults);
 
   return (
     <div className="container mx-auto p-5">
       <h1 className="text-4xl text-center font-bold py-5">
         Høringssaker fra statsforvalteren
       </h1>
+
+      {/* Button for navigating to the latest cases */}
       <div className="text-center pb-3">
         <Button
           variant="outline"
@@ -104,6 +111,7 @@ const CombinedData: React.FC = () => {
         </Button>
       </div>
 
+      {/* Sorting Filters */}
       <div className="bg-slate-50 border rounded mb-6">
         <p className="text-center text-2xl font-semibold py-3">Sortering</p>
         <div className="grid grid-cols-2">
@@ -150,65 +158,71 @@ const CombinedData: React.FC = () => {
       </div>
 
       {/* Display Results */}
-      {filteredGroupedResults.map((countyData, countyIndex) => (
-        <div key={`county-${countyIndex}`} className="pb-5">
+      {Object.entries(groupedResults).map(([county, countyResults]) => (
+        <div key={county}>
           <h2 className="text-3xl font-semibold pb-3 text-center">
-            {countyData.county.charAt(0).toUpperCase() +
-              countyData.county.slice(1)}
+            {county.charAt(0).toUpperCase() + county.slice(1)}
           </h2>
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-            {filterResults(countyData.results).map((result, resultIndex) => (
-              <div
-                key={`result-${resultIndex}-${result.pdfUrl}`}
-                className="border p-3 rounded-lg bg-slate-50"
-              >
-                <h3 className="text-lg font-semibold pb-3">
-                  {result.hoeringTitle}
-                </h3>
-                <p className="pb-3">
-                  {result.createdDate.toLocaleDateString("nb-NO")}
-                </p>
-                <p className="pb-3">{result.summary}</p>
+          <div className="pb-5 grid grid-cols-3 gap-5">
+            {/* Iterate over the results for this county */}
+            {countyResults.map((result, index) => (
+              <div key={`result-${index}-${result.pdfUrl}`} className="pb-5">
+                <div className="border p-3 rounded-lg bg-slate-50 min-h-[500px]">
+                  <h3 className="text-lg font-semibold pb-3">
+                    {result.hoeringTitle}
+                  </h3>
+                  <p>
+                    Søknadsdato:{" "}
+                    {result.createdDate.toLocaleDateString("nb-NO")}
+                  </p>
+                  <p className="pb-3">
+                    Høringsfrist:{" "}
+                    {result.høringsfrist.toLocaleDateString("nb-NO")}
+                  </p>
+                  <p className="pb-3">{result.summary}</p>
 
-                <div className="pb-5">
-                  <Button
-                    variant="outline"
-                    className="bg-green-200 hover:bg-green-500 hover:text-white"
-                  >
-                    <Link
-                      href={result.pdfUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                  {/* PDF and hearing links */}
+                  <div className="pb-5">
+                    <Button
+                      variant="outline"
+                      className="bg-green-200 hover:bg-green-500 hover:text-white"
                     >
-                      Gå til PDF
-                    </Link>
-                  </Button>
-                  <Button
-                    variant="outline"
-                    className="bg-green-200 hover:bg-green-500 hover:text-white ml-2"
-                  >
-                    <Link
-                      href={result.hoeringUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                      <Link
+                        href={result.pdfUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Gå til PDF
+                      </Link>
+                    </Button>
+                    <Button
+                      variant="outline"
+                      className="bg-green-200 hover:bg-green-500 hover:text-white ml-2"
                     >
-                      Gå til høring
-                    </Link>
-                  </Button>
-                </div>
+                      <Link
+                        href={result.hoeringUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Gå til høring
+                      </Link>
+                    </Button>
+                  </div>
 
-                <h3 className="text-xl font-semibold pb-2">PDF data:</h3>
-                <div className="pb-5">
-                  <ul>
-                    {Object.entries(result.pdfData.wordsFound)
-                      .filter(([_, { count }]) => count > 0) // Filter out words with count 0
-                      .map(([word, { count }]) => (
-                        <li key={word}>
-                          <span className="font-thin">{word} </span>
-                          er funnet: {count} ganger
-                        </li>
-                      ))}
-                  </ul>
+                  {/* PDF Data */}
+                  <h3 className="text-xl font-semibold pb-2">PDF data:</h3>
+                  <div className="pb-5">
+                    <ul>
+                      {Object.entries(result.pdfData.wordsFound)
+                        .filter(([_, { count }]) => count > 0) // Filter out words with count 0
+                        .map(([word, { count }]) => (
+                          <li key={word}>
+                            <span className="font-thin">{word}</span> er funnet:{" "}
+                            {count} ganger
+                          </li>
+                        ))}
+                    </ul>
+                  </div>
                 </div>
               </div>
             ))}

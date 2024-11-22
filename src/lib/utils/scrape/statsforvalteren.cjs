@@ -157,10 +157,47 @@ async function processPDF(pdfUrl) {
   }
 }
 
+function parseHøringsfristToDate(data) {
+  // Mapping Norwegian month names to English
+  const monthMap = {
+    januar: "January",
+    februar: "February",
+    mars: "March",
+    april: "April",
+    mai: "May",
+    juni: "June",
+    juli: "July",
+    august: "August",
+    september: "September",
+    oktober: "October",
+    november: "November",
+    desember: "December",
+  };
+
+  // Preprocess the høringsfrist string
+  let høringsfrist = data.høringsfrist;
+  for (const [noMonth, enMonth] of Object.entries(monthMap)) {
+    if (høringsfrist.includes(noMonth)) {
+      høringsfrist = høringsfrist.replace(noMonth, enMonth);
+      break; // Replace only the first matching month
+    }
+  }
+
+  // Attempt to parse the date
+  const parsedDate = new Date(høringsfrist);
+  if (!isNaN(parsedDate)) {
+    data.høringsfrist = parsedDate.toISOString(); // Convert to ISO 8601 format
+  } else {
+    console.warn(`Invalid date format in høringsfrist: ${data.høringsfrist}`);
+    data.høringsfrist = null; // Set to null if parsing fails
+  }
+}
+
 async function scrapeAndParse(urls) {
   const browser = await puppeteer.launch();
   const results = [];
   const seenPdfUrls = new Set();
+  let idCounter = 1; // Initialize the id counter
 
   for (const url of urls) {
     console.log(`Scraping main page: ${url}`);
@@ -182,7 +219,8 @@ async function scrapeAndParse(urls) {
         console.log(`Processing PDF: ${pdfUrl}`);
         const pdfData = await processPDF(pdfUrl);
         if (pdfData) {
-          results.push({
+          const dataToSave = {
+            id: idCounter++,
             county,
             hoeringTitle,
             hoeringUrl: link,
@@ -192,10 +230,12 @@ async function scrapeAndParse(urls) {
             summary: nestedData.summary,
             createdDate: pdfData.createdDate,
             høringsfrist: nestedData.hearingDeadline,
-            pdfData: {
-              ...pdfData.textData,
-            },
-          });
+            pdfData: pdfData.textData,
+          };
+
+          parseHøringsfristToDate(dataToSave);
+
+          results.push(dataToSave);
           seenPdfUrls.add(pdfUrl);
         }
       }
@@ -203,31 +243,21 @@ async function scrapeAndParse(urls) {
   }
 
   await browser.close();
-
-  const groupedResults = results.reduce((acc, item) => {
-    const countyData = acc.find((c) => c.county === item.county);
-    if (!countyData) {
-      acc.push({ county: item.county, results: [item] });
-    } else {
-      countyData.results.push(item);
-    }
-    return acc;
-  }, []);
-
-  const outputFile = path.join(publicDir, "statsforvalteren.json");
-  await saveToFile(outputFile, groupedResults);
+  return results;
 }
 
-const urls = [
-  "https://www.statsforvalteren.no/nb/innlandet/horinger/",
-  "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/",
-  "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/",
-  "https://www.statsforvalteren.no/nn/Rogaland/Hoyringar/",
-  "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/",
-  "https://www.statsforvalteren.no/nb/Trondelag/Horinger/",
-  "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/",
-  "https://www.statsforvalteren.no/nn/vestland/hoyringar/",
-  "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/",
-];
-
-scrapeAndParse(urls).catch((err) => console.error("Error:", err.message));
+(async () => {
+  const urls = [
+    "https://www.statsforvalteren.no/nb/innlandet/horinger/",
+    "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/",
+    "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/",
+    "https://www.statsforvalteren.no/nn/Rogaland/Hoyringar/",
+    "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/",
+    "https://www.statsforvalteren.no/nb/Trondelag/Horinger/",
+    "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/",
+    "https://www.statsforvalteren.no/nn/vestland/hoyringar/",
+    "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/",
+  ];
+  const results = await scrapeAndParse(urls);
+  await saveToFile(path.join(publicDir, "statsforvalteren1.json"), results);
+})();
