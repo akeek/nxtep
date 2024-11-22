@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { Button } from "../../components/ui/button";
 import Link from "next/link";
 
-// Interface for the result structure
 interface WordsFound {
   [key: string]: {
     found: boolean;
@@ -32,7 +31,6 @@ const CombinedData: React.FC = () => {
   const [selectedYear, setSelectedYear] = useState<string>("");
   const [selectedCounty, setSelectedCounty] = useState<string>("");
 
-  // Fetch and process data
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -42,11 +40,10 @@ const CombinedData: React.FC = () => {
 
         const data: Result[] = await response.json();
 
-        // Convert createdDate and høringsfrist to Date object
         const processedData = data.map((result) => ({
           ...result,
           createdDate: new Date(result.createdDate),
-          høringsfrist: new Date(result.høringsfrist), // Convert to Date
+          høringsfrist: new Date(result.høringsfrist),
         }));
 
         setResults(processedData);
@@ -58,17 +55,14 @@ const CombinedData: React.FC = () => {
     fetchData();
   }, []);
 
-  // Filter results by year
   const filterResultsByYear = (result: Result): boolean =>
     selectedYear
       ? result.createdDate.getFullYear().toString() === selectedYear
       : true;
 
-  // Filter results by county
   const filterResultsByCounty = (result: Result): boolean =>
     selectedCounty ? result.county === selectedCounty : true;
 
-  // Group results by county
   const groupByCounty = (results: Result[]) => {
     return results.reduce((acc, result) => {
       if (!acc[result.county]) {
@@ -79,19 +73,16 @@ const CombinedData: React.FC = () => {
     }, {} as Record<string, Result[]>);
   };
 
-  // Generate year options dynamically (2025-2010)
   const years = Array.from({ length: 2025 - 2010 + 1 }, (_, i) =>
     (2025 - i).toString()
   );
 
-  // Get unique counties from results
   const counties = [...new Set(results.map((result) => result.county))];
 
   const filteredResults = results
     .filter(filterResultsByYear)
     .filter(filterResultsByCounty);
 
-  // Group filtered results by county
   const groupedResults = groupByCounty(filteredResults);
 
   return (
@@ -100,7 +91,6 @@ const CombinedData: React.FC = () => {
         Høringssaker fra statsforvalteren
       </h1>
 
-      {/* Button for navigating to the latest cases */}
       <div className="text-center pb-3">
         <Button
           variant="outline"
@@ -111,11 +101,9 @@ const CombinedData: React.FC = () => {
         </Button>
       </div>
 
-      {/* Sorting Filters */}
       <div className="bg-slate-50 border rounded mb-6">
         <p className="text-center text-2xl font-semibold py-3">Sortering</p>
         <div className="grid grid-cols-2">
-          {/* Year Selector */}
           <div className="pb-5 text-center">
             <label htmlFor="yearSelect" className="font-bold pr-3">
               Velg år:
@@ -135,7 +123,6 @@ const CombinedData: React.FC = () => {
             </select>
           </div>
 
-          {/* County Selector */}
           <div className="pb-5 text-center">
             <label htmlFor="countySelect" className="font-bold pr-3">
               Velg fylke:
@@ -157,14 +144,12 @@ const CombinedData: React.FC = () => {
         </div>
       </div>
 
-      {/* Display Results */}
       {Object.entries(groupedResults).map(([county, countyResults]) => (
         <div key={county}>
           <h2 className="text-3xl font-semibold pb-3 text-center">
             {county.charAt(0).toUpperCase() + county.slice(1)}
           </h2>
           <div className="pb-5 grid grid-cols-3 gap-5">
-            {/* Iterate over the results for this county */}
             {countyResults.map((result, index) => (
               <div key={`result-${index}-${result.pdfUrl}`} className="pb-5">
                 <div className="border p-3 rounded-lg bg-slate-50 min-h-[500px]">
@@ -181,7 +166,6 @@ const CombinedData: React.FC = () => {
                   </p>
                   <p className="pb-3">{result.summary}</p>
 
-                  {/* PDF and hearing links */}
                   <div className="pb-5">
                     <Button
                       variant="outline"
@@ -209,12 +193,11 @@ const CombinedData: React.FC = () => {
                     </Button>
                   </div>
 
-                  {/* PDF Data */}
                   <h3 className="text-xl font-semibold pb-2">PDF data:</h3>
                   <div className="pb-5">
                     <ul>
                       {Object.entries(result.pdfData.wordsFound)
-                        .filter(([_, { count }]) => count > 0) // Filter out words with count 0
+                        .filter(([_, { count }]) => count > 0)
                         .map(([word, { count }]) => (
                           <li key={word}>
                             <span className="font-thin">{word}</span> er funnet:{" "}
