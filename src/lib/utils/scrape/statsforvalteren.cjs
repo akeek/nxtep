@@ -50,14 +50,32 @@ async function scrapeNestedPage(browser, link) {
       (el) => el.textContent.trim() || ""
     );
 
+    // Extract høringsfrist (hearing deadline)
+    const hearingDeadline = await page.evaluate(() => {
+      const calendarDl = document.querySelector("dl.widecalendar");
+      if (calendarDl) {
+        const dtElements = calendarDl.querySelectorAll("dt");
+        for (const dt of dtElements) {
+          if (
+            dt.textContent.toLowerCase().includes("høringsfrist") ||
+            dt.textContent.toLowerCase().includes("høyringsfrist")
+          ) {
+            const dd = dt.nextElementSibling;
+            return dd ? dd.textContent.trim() : null;
+          }
+        }
+      }
+      return null; // If no matching dt is found
+    });
+
     const pdfLinks = await page.$$eval('a[href$=".pdf"]', (anchors) =>
       anchors.map((anchor) => anchor.href)
     );
 
-    return { summary, pdfLinks };
+    return { summary, hearingDeadline, pdfLinks };
   } catch (err) {
     console.error(`Error scraping nested page (${link}): ${err.message}`);
-    return { summary: "", article: "", pdfLinks: [] };
+    return { summary: "", hearingDeadline: null, pdfLinks: [] };
   } finally {
     await page.close();
   }
@@ -74,9 +92,20 @@ async function processPDF(pdfUrl) {
     }
 
     const pdfData = await pdf(response.data);
-    const metaData = pdfData.metadata;
-    const text = pdfData.text.replace(/[\n\r]+/g, " ").replace(/\s{2,}/g, " ");
+    const metadata = pdfData.metadata?._metadata;
+    const createdDateStr = metadata ? metadata["xmp:createdate"] : null;
 
+    // Parse the date as a Date object if available
+    let createdDate = null;
+    if (createdDateStr) {
+      createdDate = new Date(createdDateStr);
+      if (isNaN(createdDate)) {
+        console.warn(`Invalid date format in metadata: ${createdDateStr}`);
+        createdDate = null;
+      }
+    }
+
+    const text = pdfData.text.replace(/[\n\r]+/g, " ").replace(/\s{2,}/g, " ");
     const patterns = {
       m2m3: /([^.]*\d{1,3}(?:\s?\d{3})*(?:[.,]?\d+)?\s?(m²|m³|am²)[^.]*\.)/g,
       mudring: /([^.]*\bmudring\b[^.]*\.)/gi,
@@ -115,9 +144,13 @@ async function processPDF(pdfUrl) {
       return acc;
     }, {});
 
-    extractedData.wordsFound = wordsFound;
-
-    return extractedData;
+    return {
+      textData: {
+        ...extractedData,
+        wordsFound,
+      },
+      createdDate, // Return as a Date object
+    };
   } catch (err) {
     console.error(`Error processing PDF (${pdfUrl}): ${err.message}`);
     return null;
@@ -157,7 +190,11 @@ async function scrapeAndParse(urls) {
             pageTitle: mainPageData.pageTitle,
             pageHeader: mainPageData.pageHeader,
             summary: nestedData.summary,
-            pdfData,
+            createdDate: pdfData.createdDate,
+            høringsfrist: nestedData.hearingDeadline,
+            pdfData: {
+              ...pdfData.textData,
+            },
           });
           seenPdfUrls.add(pdfUrl);
         }

@@ -1,5 +1,7 @@
+"use client";
+
 import React, { useEffect, useState } from "react";
-import { Button } from "../../components/ui/button";
+import { Button } from "../../../components/ui/button";
 import Link from "next/link";
 
 interface WordsFound {
@@ -39,10 +41,19 @@ interface CountyData {
   results: Result[];
 }
 
-const CombinedData: React.FC = () => {
+const NyeSaker: React.FC = () => {
   const [groupedResults, setGroupedResults] = useState<CountyData[]>([]);
   const [selectedYear, setSelectedYear] = useState<string>("");
   const [selectedCounty, setSelectedCounty] = useState<string>("");
+
+  // Get yesterday's date
+  const getYesterdayDate = () => {
+    const yesterday = new Date();
+    yesterday.setDate(yesterday.getDate() - 1);
+    return yesterday;
+  };
+
+  const yesterdayDate = getYesterdayDate();
 
   // Fetch and process data
   useEffect(() => {
@@ -69,12 +80,13 @@ const CombinedData: React.FC = () => {
     fetchData();
   }, []);
 
-  // Filter results by year
+  // Filter results by year and date (newer than yesterday)
   const filterResults = (results: Result[]): Result[] =>
-    results.filter((result) =>
-      selectedYear
-        ? result.createdDate.getFullYear().toString() === selectedYear
-        : true
+    results.filter(
+      (result) =>
+        (selectedYear
+          ? result.createdDate.getFullYear().toString() === selectedYear
+          : true) && result.createdDate > yesterdayDate // Only include results created after yesterday
     );
 
   // Generate year and county options
@@ -91,18 +103,7 @@ const CombinedData: React.FC = () => {
 
   return (
     <div className="container mx-auto p-5">
-      <h1 className="text-4xl text-center font-bold py-5">
-        Høringssaker fra statsforvalteren
-      </h1>
-      <div className="text-center pb-3">
-        <Button
-          variant="outline"
-          className="bg-green-50 hover:bg-green-500 hover:text-white font-semibold"
-          asChild
-        >
-          <Link href="/statsforvalteren/nyesaker">Siste saker</Link>
-        </Button>
-      </div>
+      <h1 className="text-4xl text-center font-bold py-5">Siste saker</h1>
 
       <div className="bg-slate-50 border rounded mb-6">
         <p className="text-center text-2xl font-semibold py-3">Sortering</p>
@@ -219,4 +220,4 @@ const CombinedData: React.FC = () => {
   );
 };
 
-export default CombinedData;
+export default NyeSaker;

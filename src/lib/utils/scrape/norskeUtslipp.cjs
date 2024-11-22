@@ -15,7 +15,7 @@ async function downloadAndParsePDF(link) {
 }
 
 async function findSentencesWithWords(text, words) {
-  const sentences = text.match(/[^.!?]+[.!?]/g) || []; // Split text into sentences
+  const sentences = text.match(/[^.!?]+[.!?]/g) || [];
   const analysis = {};
 
   for (const word of words) {

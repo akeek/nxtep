@@ -10,10 +10,22 @@ pdf(dataBuffer).then(function (data) {
   const metadata = data.metadata._metadata;
 
   // Grab the 'xmp:createdate' value
-  const createdDate = metadata["xmp:createdate"];
+  const createdDateStr = metadata["xmp:createdate"];
 
-  // Convert the date string to a Date object and extract the year
-  const year = new Date(createdDate).getFullYear();
+  if (createdDateStr) {
+    // Convert the date string to a Date object
+    const dateObj = new Date(createdDateStr);
 
-  console.log("Year:", year);
+    // Extract the components
+    const day = dateObj.getDate().toString().padStart(2, "0"); // Ensure 2-digit format
+    const month = (dateObj.getMonth() + 1).toString().padStart(2, "0"); // Months are zero-indexed
+    const year = dateObj.getFullYear();
+
+    // Construct the createdDate value
+    const createdDate = `${day}-${month}-${year}`;
+
+    console.log("Created Date:", createdDate); // Logs: Created Date: 2024-09-27
+  } else {
+    console.log('No "xmp:createdate" field found.');
+  }
 });
