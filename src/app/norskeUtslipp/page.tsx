@@ -1,32 +1,38 @@
-import { AuthGuard } from "../../components/authGuard";
-import { UtslippCard } from "../../components/ustlippCard";
 import { getInfo } from "../../lib/data";
+import { AuthGuard } from "../components/authGuard";
+import { ClientComponent } from "../components/ClientComponents";
+
+export interface Item {
+  id: number;
+  Virksomhet: string;
+  CreationDate: string | null;
+  Fylke: string;
+  Kommune: string;
+  Tillatelser: string;
+  Kontroller: string;
+  Sektor: string;
+  PDFAnalysis?:
+    | Record<string, { sentences?: string[]; count?: number }>
+    | { error: string }
+    | undefined;
+}
 
 export default async function NorskeUtslipp() {
-  const items = await getInfo();
+  const items: Item[] = (await getInfo()).map((item) => ({
+    ...item,
+    id: parseInt(item.id, 10),
+  }));
 
-  console.log("Antall treff hentet: ", items.length);
-
-  const sortedItems = items
-    .filter((item) => {
-      if (
-        item.PDFAnalysis &&
-        typeof item.PDFAnalysis === "object" &&
-        !("error" in item.PDFAnalysis)
-      ) {
-        return Object.values(item.PDFAnalysis).some(
-          (analysis) => analysis.count && analysis.count > 0
-        );
-      }
-      return false;
-    })
-    .sort((a, b) => {
-      const totalCountA = getTotalCount(a.PDFAnalysis);
-      const totalCountB = getTotalCount(b.PDFAnalysis);
-      return totalCountB - totalCountA;
-    });
-
-  console.log("Antall treff levert", sortedItems.length);
+  const uniqueYears: number[] = Array.from(
+    new Set(
+      items
+        .map((item) => {
+          const year = getYear(item.CreationDate);
+          return year;
+        })
+        .filter((year) => year > 0)
+    )
+  ).sort((a, b) => b - a);
 
   return (
     <AuthGuard>
@@ -34,26 +40,20 @@ export default async function NorskeUtslipp() {
         <h1 className="text-3xl text-center font-bold py-6">
           Data fra Norske Utslipp
         </h1>
-        <div className="grid grid-cols-2 gap-5">
-          {sortedItems.map((i) => (
-            <UtslippCard key={i.id} item={i} />
-          ))}
-        </div>
+
+        <ClientComponent items={items} uniqueYears={uniqueYears} />
       </div>
     </AuthGuard>
   );
 }
 
-function getTotalCount(
-  PDFAnalysis:
-    | Record<string, { sentences?: string[]; count?: number }>
-    | { error: string }
-    | undefined
-): number {
-  if (!PDFAnalysis || "error" in PDFAnalysis) return 0;
+function getYear(dateStr: string | null): number {
+  if (!dateStr) return 0;
 
-  return Object.values(PDFAnalysis).reduce(
-    (sum, analysis) => sum + (analysis.count ?? 0),
-    0
-  );
+  const parts = dateStr.split("/");
+
+  if (parts.length !== 3) return 0;
+
+  const year = parseInt(parts[2], 10);
+  return isNaN(year) ? 0 : year;
 }

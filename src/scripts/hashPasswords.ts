@@ -3,7 +3,7 @@ import fs from "fs/promises";
 import path from "path";
 
 // Path to the users.json file
-const usersFilePath = path.join(process.cwd(), "public", "data", "users.json");
+const usersFilePath = path.join(process.cwd(), "backend", "data", "users.json");
 
 const hashPasswords = async () => {
   const saltRounds = 10;

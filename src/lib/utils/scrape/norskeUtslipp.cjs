@@ -11,7 +11,37 @@ async function downloadAndParsePDF(link) {
   const response = await fetch(link);
   const buffer = await response.arrayBuffer();
   const data = await pdf(buffer);
-  return data.text;
+
+  // Extract creation date if available
+  const creationDate = extractCreationDate(data.info.CreationDate);
+
+  return {
+    text: data.text,
+    creationDate, // Return the extracted creation date
+  };
+}
+
+function extractCreationDate(creationDateStr) {
+  if (creationDateStr) {
+    const match = creationDateStr.match(
+      /D:(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/
+    );
+
+    if (match) {
+      const [_, year, month, day, hour, minute, second] = match;
+      const isoDateStr = `${year}-${month}-${day}T${hour}:${minute}:${second}`;
+      const dateObj = new Date(isoDateStr);
+
+      // Format the date as DD-MM-YYYY
+      return `${day}-${month}-${year}`;
+    } else {
+      console.warn(`Unrecognized date format: ${creationDateStr}`);
+      return null;
+    }
+  } else {
+    console.warn('No "CreationDate" field found in the PDF metadata.');
+    return null;
+  }
 }
 
 async function findSentencesWithWords(text, words) {
@@ -73,6 +103,7 @@ async function scrapeNorskeUtslipp() {
             cells[5]?.querySelector("a")?.href.trim() || "No Link Available",
           Kontroller:
             cells[6]?.querySelector("a")?.href.trim() || "No Link Available",
+          CreationDate: null, // Placeholder for creation date
           PDFAnalysis: {}, // Placeholder for PDF analysis results
         };
       });
@@ -83,9 +114,12 @@ async function scrapeNorskeUtslipp() {
       if (row.Tillatelser !== "No Link Available") {
         console.log(`Processing PDF: ${row.Tillatelser}`);
         try {
-          const text = await downloadAndParsePDF(row.Tillatelser);
+          const { text, creationDate } = await downloadAndParsePDF(
+            row.Tillatelser
+          );
           const analysis = await findSentencesWithWords(text, searchWords);
           row.PDFAnalysis = analysis; // Add results to the row
+          row.CreationDate = creationDate; // Add creation date to the row
         } catch (error) {
           console.error(
             `Failed to process PDF ${row.Tillatelser}: ${error.message}`

@@ -6,26 +6,40 @@ let dataBuffer = fs.readFileSync(
 );
 
 pdf(dataBuffer).then(function (data) {
-  // Access the metadata
-  const metadata = data.metadata._metadata;
+  const infoData = data.info;
+  console.log("Infodata: ", infoData);
 
-  // Grab the 'xmp:createdate' value
-  const createdDateStr = metadata["xmp:createdate"];
+  const metadata = data.metadata;
+  console.log("Metadata: ", metadata);
 
-  if (createdDateStr) {
-    // Convert the date string to a Date object
-    const dateObj = new Date(createdDateStr);
+  // Use CreationDate or fallback to ModDate, then look for "xmp:createdate"
+  const dateStr =
+    infoData.CreationDate || infoData.ModDate || metadata?.["xmp:createdate"];
 
-    // Extract the components
-    const day = dateObj.getDate().toString().padStart(2, "0"); // Ensure 2-digit format
-    const month = (dateObj.getMonth() + 1).toString().padStart(2, "0"); // Months are zero-indexed
-    const year = dateObj.getFullYear();
+  if (dateStr) {
+    // Extract the date components from the PDF date format
+    const match =
+      dateStr.match(/D:(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/) ||
+      dateStr.match(/(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})/);
 
-    // Construct the createdDate value
-    const createdDate = `${day}-${month}-${year}`;
+    if (match) {
+      const [_, year, month, day, hour, minute, second] = match;
 
-    console.log("Created Date:", createdDate); // Logs: Created Date: 2024-09-27
+      // Construct a standard ISO date string
+      const isoDateStr = `${year}-${month}-${day}T${hour}:${minute}:${second}`;
+
+      // Convert to a JavaScript Date object
+      const dateObj = new Date(isoDateStr);
+
+      // Extract and format components as needed
+      const formattedDate = `${day}-${month}-${year}`;
+      console.log("Extracted Date:", formattedDate);
+    } else {
+      console.log("Unrecognized date format:", dateStr);
+    }
   } else {
-    console.log('No "xmp:createdate" field found.');
+    console.log(
+      'Neither "CreationDate", "ModDate", nor "xmp:createdate" fields are found.'
+    );
   }
 });
