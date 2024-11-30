@@ -1,5 +1,5 @@
-const { Worker } = require("worker_threads");
-const pp = require("@supercharge/promise-pool");
+const {Worker} = require("worker_threads");
+const {PromisePool} = require("@supercharge/promise-pool");
 const puppeteer = require("puppeteer");
 const axios = require("axios");
 const fs = require("fs").promises;
@@ -21,7 +21,7 @@ async function saveToFile(filePath, data) {
 function processPDFWithWorker(pdfUrl) {
     return new Promise((resolve, reject) => {
         const worker = new Worker(path.join(__dirname, "pdfWorker.js"));
-        worker.postMessage({ pdfUrl });
+        worker.postMessage({pdfUrl});
 
         worker.on("message", (result) => {
             resolve(result);
@@ -225,11 +225,11 @@ async function scrapeAndParseUrl(url, browser, seenPdfUrls, idCounter, results) 
 
     const county = new URL(url).pathname.split("/")[2].replace(/-/g, " ");
 
-    await pp.PromisePool.withConcurrency(5).for(mainPageData.links).process(async ({link, hoeringTitle}) => {
+    await PromisePool.withConcurrency(5).for(mainPageData.links).process(async ({link, hoeringTitle}) => {
         console.log(`Scraping nested page: ${link}`);
         const nestedData = await scrapeNestedPage(browser, link);
 
-        await pp.PromisePool.withConcurrency(5).for(nestedData.pdfLinks).process(async (pdfUrl) => {
+        await PromisePool.withConcurrency(5).for(nestedData.pdfLinks).process(async (pdfUrl) => {
             if (seenPdfUrls.has(pdfUrl)) {
                 console.log(`Skipping duplicate PDF: ${pdfUrl}`);
                 return;
@@ -269,7 +269,7 @@ async function scrapeAndParse(urls) {
     const seenPdfUrls = new Set();
     let idCounter = 1; // Initialize the id counter
 
-    await pp.PromisePool.withConcurrency(5).for(urls).process(async (url) => {
+    await PromisePool.withConcurrency(5).for(urls).process(async (url) => {
         await scrapeAndParseUrl(url, browser, seenPdfUrls, idCounter, results);
     });
 
