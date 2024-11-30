@@ -17,16 +17,13 @@ export default function LoginForm() {
     });
 
     if (response.ok) {
-      // Assuming the response contains the logged-in user data
       const data = await response.json();
 
-      // Save user data in localStorage (e.g., save username and other details)
       localStorage.setItem(
         "user",
         JSON.stringify({ username, token: data.token })
       );
 
-      // Redirect to the homepage (or dashboard)
       window.location.href = "/";
     } else {
       setError("Invalid credentials");
@@ -34,25 +31,37 @@ export default function LoginForm() {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
-      <div>
-        <label>Username</label>
+    <form
+      onSubmit={handleSubmit}
+      className="w-[500px] h-[500px] flex justify-center items-center relative"
+    >
+      <i></i>
+      <i></i>
+      <i></i>
+      <div className="w-[300px] h-full flex justify-center items-center flex-col gap-5 z-10">
+        <h1 className="text-xl text-white">Login</h1>
         <input
+          className="w-full py-3 px-5 bg-transparent border-2 border-white rounded-3xl outline-none text-white text-lg"
           type="text"
+          placeholder="Username"
           value={username}
           onChange={(e) => setUsername(e.target.value)}
         />
-      </div>
-      <div>
-        <label>Password</label>
         <input
+          className="w-full py-3 px-5 bg-transparent border-2 border-white rounded-3xl outline-none text-white text-lg"
           type="password"
+          placeholder="Password"
           value={password}
           onChange={(e) => setPassword(e.target.value)}
         />
+        <button
+          className="w-full py-3 px-5 rounded-3xl border-none text-lg cursor-pointer text-white bg-gradient-to-r from-purple-500 to-pink-500"
+          type="submit"
+        >
+          Login
+        </button>
       </div>
       {error && <p>{error}</p>}
-      <button type="submit">Login</button>
     </form>
   );
 }

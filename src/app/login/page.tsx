@@ -2,7 +2,7 @@ import LoginForm from "../components/LoginForm";
 
 const LoginPage = () => {
   return (
-    <div>
+    <div className="flex justify-center items-center h-screen w-full bg-black">
       <LoginForm />
     </div>
   );
