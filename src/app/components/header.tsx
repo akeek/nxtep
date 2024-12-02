@@ -6,14 +6,14 @@ import { logout } from "../../lib/utils/logout";
 import { Button } from "./ui/button";
 
 function Nav() {
-  // const [user, setUser] = useState(null);
+  const [user, setUser] = useState(null);
 
-  // useEffect(() => {
-  //   const storedUser = localStorage.getItem("user");
-  //   if (storedUser) {
-  //     setUser(JSON.parse(storedUser));
-  //   }
-  // }, []);
+  useEffect(() => {
+    const storedUser = localStorage.getItem("user");
+    if (storedUser) {
+      setUser(JSON.parse(storedUser));
+    }
+  }, []);
 
   return (
     <nav>
@@ -26,7 +26,7 @@ function Nav() {
             <Link href="/">Hjem</Link>
           </Button>
         </li>
-        {/* {user && (
+        {user && (
           <Button
             variant="ghost"
             className="hover:bg-green-500 hover:text-white"
@@ -34,7 +34,7 @@ function Nav() {
           >
             Logout
           </Button>
-        )} */}
+        )}
       </ul>
     </nav>
   );
