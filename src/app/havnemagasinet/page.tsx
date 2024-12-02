@@ -50,6 +50,8 @@ const HavnemagasinetPage: React.FC = () => {
                   className="object-cover h-[250px] w-full"
                   src={item.imgSrc}
                   alt={item.storytitle}
+                  width={500}
+                  height={250}
                 />
               </CardContent>
             </Card>

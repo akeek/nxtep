@@ -19,6 +19,9 @@ const nextConfig = {
       },
     ];
   },
+  images: {
+    domains: ["image.havnemagasinet.no"],
+  },
 };
 
 export default nextConfig;
