@@ -1,7 +1,7 @@
 "use client";
 
 import CombinedData from "./combinedData";
-import { AuthGuard } from "../components/authGuard";
+import { AuthGuard } from "../components/AuthGuard";
 
 const Statsforvalteren = () => {
   return (
