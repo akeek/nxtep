@@ -36,7 +36,7 @@ export default async function NorskeUtslipp() {
 
   return (
     <AuthGuard>
-      <div className="container mx-auto">
+      <div className="container mx-auto px-3">
         <h1 className="text-3xl text-center font-bold py-6">
           Data fra Norske Utslipp
         </h1>

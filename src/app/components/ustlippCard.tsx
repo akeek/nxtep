@@ -47,10 +47,10 @@ export const UtslippCard = ({
         {Kontroller && Kontroller !== "No Link Available" ? (
           <Button
             variant="outline"
-            className="bg-green-200 hover:bg-green-500 hover:text-white w-56 mb-2"
+            className="bg-green-200 hover:bg-green-500 hover:text-white w-40 mb-2"
           >
             <Link href={Kontroller} target="_blank" rel="noopener noreferrer">
-              Gå til kontrollen som ble funnet
+              Gå til kontrollen
             </Link>
           </Button>
         ) : (
@@ -58,10 +58,10 @@ export const UtslippCard = ({
         )}
         <Button
           variant="outline"
-          className="bg-green-200 hover:bg-green-500 hover:text-white w-56"
+          className="bg-green-200 hover:bg-green-500 hover:text-white w-36"
         >
           <Link href={Tillatelser} target="_blank" rel="noopener noreferrer">
-            Gå til tillatelsen som ble funnet
+            Gå til tillatelsen
           </Link>
         </Button>
       </CardHeader>
