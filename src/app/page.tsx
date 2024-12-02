@@ -6,7 +6,7 @@ import { Button } from "../../@/components/ui/button";
 const HomePage = () => {
   return (
     <div className="container mx-auto">
-      <h1 className="text-center text-5xl py-6">Welcome to NxtEp</h1>
+      <h1 className="text-center text-5xl py-6">NxtEp</h1>
       <div className="px-6 grid">
         <Button
           variant="outline"
