@@ -2,266 +2,6 @@
   {
     "id": 1,
     "county": "innlandet",
-    "hoeringTitle": "Bevaring av verdifull natur – Oppstart av verneprosesser",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/innlandet/horinger/2024/12/bevaring-av-verdifull-natur--oppstart-av-verneprosesser/",
-    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-innlandet/06-miljo-og-klima/vern/oppstartvarsler/bevaring-av-verdifull-natur-gran-kommune/oppstartsmelding_jarenvatnet_skirstadtjernglorudtjern.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Innlandet",
-    "pageHeader": "Høringer",
-    "summary": "Statsforvalteren har sendt ut oppstartsmeldinger av verneprosesser for to områder i Gran kommune.",
-    "createdDate": "2024-10-24T07:59:59.000Z",
-    "høringsfrist": "2024-12-01T22:59:00.000Z",
-    "pdfData": {
-      "m2m3": [],
-      "mudring": [],
-      "molo": [],
-      "sjøarbeid": [],
-      "utdyping": [],
-      "tildekking": [],
-      "utfylling": [],
-      "dykking": [],
-      "undervannsprenging": [],
-      "wordsFound": {
-        "m³": {
-          "found": false,
-          "count": 0
-        },
-        "m²": {
-          "found": false,
-          "count": 0
-        },
-        "mudring": {
-          "found": false,
-          "count": 0
-        },
-        "molo": {
-          "found": false,
-          "count": 0
-        },
-        "sjøarbeid": {
-          "found": false,
-          "count": 0
-        },
-        "utdyping": {
-          "found": false,
-          "count": 0
-        },
-        "tildekking": {
-          "found": false,
-          "count": 0
-        },
-        "utfylling": {
-          "found": false,
-          "count": 0
-        },
-        "dykking": {
-          "found": false,
-          "count": 0
-        },
-        "undervannsprenging": {
-          "found": false,
-          "count": 0
-        }
-      }
-    }
-  },
-  {
-    "id": 2,
-    "county": "innlandet",
-    "hoeringTitle": "Bevaring av verdifull natur – Oppstart av verneprosesser",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/innlandet/horinger/2024/12/bevaring-av-verdifull-natur--oppstart-av-verneprosesser/",
-    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-innlandet/06-miljo-og-klima/vern/oppstartvarsler/bevaring-av-verdifull-natur-gran-kommune/skirstadtjernetglorudtjernet_a4_s_oppstart.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Innlandet",
-    "pageHeader": "Høringer",
-    "summary": "Statsforvalteren har sendt ut oppstartsmeldinger av verneprosesser for to områder i Gran kommune.",
-    "createdDate": "2024-10-21T07:40:27.000Z",
-    "høringsfrist": "2024-12-01T22:59:00.000Z",
-    "pdfData": {
-      "m2m3": [],
-      "mudring": [],
-      "molo": [],
-      "sjøarbeid": [],
-      "utdyping": [],
-      "tildekking": [],
-      "utfylling": [],
-      "dykking": [],
-      "undervannsprenging": [],
-      "wordsFound": {
-        "m³": {
-          "found": false,
-          "count": 0
-        },
-        "m²": {
-          "found": false,
-          "count": 0
-        },
-        "mudring": {
-          "found": false,
-          "count": 0
-        },
-        "molo": {
-          "found": false,
-          "count": 0
-        },
-        "sjøarbeid": {
-          "found": false,
-          "count": 0
-        },
-        "utdyping": {
-          "found": false,
-          "count": 0
-        },
-        "tildekking": {
-          "found": false,
-          "count": 0
-        },
-        "utfylling": {
-          "found": false,
-          "count": 0
-        },
-        "dykking": {
-          "found": false,
-          "count": 0
-        },
-        "undervannsprenging": {
-          "found": false,
-          "count": 0
-        }
-      }
-    }
-  },
-  {
-    "id": 3,
-    "county": "innlandet",
-    "hoeringTitle": "Bevaring av verdifull natur – Oppstart av verneprosesser",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/innlandet/horinger/2024/12/bevaring-av-verdifull-natur--oppstart-av-verneprosesser/",
-    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-innlandet/06-miljo-og-klima/vern/oppstartvarsler/bevaring-av-verdifull-natur-gran-kommune/jarenvatnet_utvidelse_a4_s_oppstart.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Innlandet",
-    "pageHeader": "Høringer",
-    "summary": "Statsforvalteren har sendt ut oppstartsmeldinger av verneprosesser for to områder i Gran kommune.",
-    "createdDate": "2024-10-21T07:51:32.000Z",
-    "høringsfrist": "2024-12-01T22:59:00.000Z",
-    "pdfData": {
-      "m2m3": [],
-      "mudring": [],
-      "molo": [],
-      "sjøarbeid": [],
-      "utdyping": [],
-      "tildekking": [],
-      "utfylling": [],
-      "dykking": [],
-      "undervannsprenging": [],
-      "wordsFound": {
-        "m³": {
-          "found": false,
-          "count": 0
-        },
-        "m²": {
-          "found": false,
-          "count": 0
-        },
-        "mudring": {
-          "found": false,
-          "count": 0
-        },
-        "molo": {
-          "found": false,
-          "count": 0
-        },
-        "sjøarbeid": {
-          "found": false,
-          "count": 0
-        },
-        "utdyping": {
-          "found": false,
-          "count": 0
-        },
-        "tildekking": {
-          "found": false,
-          "count": 0
-        },
-        "utfylling": {
-          "found": false,
-          "count": 0
-        },
-        "dykking": {
-          "found": false,
-          "count": 0
-        },
-        "undervannsprenging": {
-          "found": false,
-          "count": 0
-        }
-      }
-    }
-  },
-  {
-    "id": 4,
-    "county": "innlandet",
-    "hoeringTitle": "Bevaring av verdifull natur – Oppstart av verneprosesser",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/innlandet/horinger/2024/12/bevaring-av-verdifull-natur--oppstart-av-verneprosesser/",
-    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-innlandet/06-miljo-og-klima/vern/oppstartvarsler/bevaring-av-verdifull-natur-gran-kommune/mottakerliste-oppstartsmelding.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Innlandet",
-    "pageHeader": "Høringer",
-    "summary": "Statsforvalteren har sendt ut oppstartsmeldinger av verneprosesser for to områder i Gran kommune.",
-    "createdDate": "2024-10-22T13:38:03.000Z",
-    "høringsfrist": "2024-12-01T22:59:00.000Z",
-    "pdfData": {
-      "m2m3": [],
-      "mudring": [],
-      "molo": [],
-      "sjøarbeid": [],
-      "utdyping": [],
-      "tildekking": [],
-      "utfylling": [],
-      "dykking": [],
-      "undervannsprenging": [],
-      "wordsFound": {
-        "m³": {
-          "found": false,
-          "count": 0
-        },
-        "m²": {
-          "found": false,
-          "count": 0
-        },
-        "mudring": {
-          "found": false,
-          "count": 0
-        },
-        "molo": {
-          "found": false,
-          "count": 0
-        },
-        "sjøarbeid": {
-          "found": false,
-          "count": 0
-        },
-        "utdyping": {
-          "found": false,
-          "count": 0
-        },
-        "tildekking": {
-          "found": false,
-          "count": 0
-        },
-        "utfylling": {
-          "found": false,
-          "count": 0
-        },
-        "dykking": {
-          "found": false,
-          "count": 0
-        },
-        "undervannsprenging": {
-          "found": false,
-          "count": 0
-        }
-      }
-    }
-  },
-  {
-    "id": 5,
-    "county": "innlandet",
     "hoeringTitle": "Høring om tillatelse etter forurensningsloven for Hamar Pukk og Grus AS",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/innlandet/horinger/2024/12/horing---hamar-pukk-og-grus/",
     "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-innlandet/06-miljo-og-klima/forurensning/horinger/horing-hamar-pukk-og-grus-as/soknad---deponering---oppfylling-av-jord--og-steinmasser-som-ikke-er-forurenset---hamar-pukk-og-grus-as.pdf",
@@ -329,7 +69,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 2,
     "county": "innlandet",
     "hoeringTitle": "Høring om tillatelse etter forurensningsloven for Hamar Pukk og Grus AS",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/innlandet/horinger/2024/12/horing---hamar-pukk-og-grus/",
@@ -400,7 +140,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 3,
     "county": "innlandet",
     "hoeringTitle": "Verneplan for skog - høring av tre områder i Innlandet",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/innlandet/horinger/2025/01/verneplan-for-skog---horing-av-tre-omrader-i-innlandet/",
@@ -465,7 +205,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 4,
     "county": "innlandet",
     "hoeringTitle": "Verneplan for skog - høring av tre områder i Innlandet",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/innlandet/horinger/2025/01/verneplan-for-skog---horing-av-tre-omrader-i-innlandet/",
@@ -530,7 +270,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 5,
     "county": "innlandet",
     "hoeringTitle": "Verneplan for skog - høring av tre områder i Innlandet",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/innlandet/horinger/2025/01/verneplan-for-skog---horing-av-tre-omrader-i-innlandet/",
@@ -595,76 +335,24 @@
     }
   },
   {
-    "id": 10,
+    "id": 6,
     "county": "Nordland",
-    "hoeringTitle": "Ny Lufthavn Bodø - Høring av søknad om endring av tillatelse til tiltak i sjø",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/11/horing-av-soknad-om-endring-av-tillatelse-tiltak-i-sjo---ny-lufthavn-bodo/",
-    "pdfUrl": "https://www.statsforvalteren.no/contentassets/cba0d7c0be9c4575a57cc398ce8f37b6/soknad-om-endring-med-vedlegg-nlbo.pdf",
+    "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
+    "pdfUrl": "https://www.miljodirektoratet.no/globalassets/publikasjoner/M608/M608.pdf",
     "pageTitle": "Høringer | Statsforvalteren i Nordland",
     "pageHeader": "Høringer",
-    "summary": "I forbindelse med at det skal bygges ny lufthavn og ny rullebane i Bodø ga Statsforvalteren den 15.06.2022 Avinor tillatelse etter forurensningsloven til peling, mudring og utfylling i sjø. Avinor har søkt Statsforvalteren om endringer i denne tillatelsen.",
-    "createdDate": "2024-10-01T12:52:47.000Z",
-    "høringsfrist": "2024-11-28T22:59:00.000Z",
+    "summary": "North Sea Container Line AS har søkt Statsforvalteren om tillatelse etter forurensningsloven til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune. Hensikten med tiltaket er å utdype ved kai for å tilrettelegge for større containerskip.",
+    "createdDate": "2020-10-27T18:43:23.000Z",
+    "høringsfrist": "2024-12-13T22:59:00.000Z",
     "pdfData": {
-      "m2m3": [
-        "37 000 m³.",
-        "I gitt tillatelse er det lagt til grunn at det i vest skal fylles 1 610 000 m³ sprengsteinsmasser over 180 000 m² sjøbunn, og i øst skal fylles 240 000 m³ sprengsteinsmasser over 40 000 m² sjøbunn.",
-        "210 000 m² sammenlignet med opprinnelig søknad på 180 000 m².",
-        "1 765 000 m³, sammenlignet med omsøkte 1 610 000 am 3 .",
-        "737 000 m³.",
-        "49 000 m² sammenlignet med opprinnelig 40 000 m² i søknaden.",
-        "340 000 m³, sammenlignet med 240 000 am 3 i søknaden.",
-        "136 000 m³."
-      ],
-      "mudring": [
-        "utfylling og mudring K190800 - E2 Flyside - Anlegg GE02 01.",
-        "3 Mudring i øst .",
-        "16 Side 3 av 17 1 Bakgrunn Avinor har søkt Statsforvalteren i Nordland om tillatelse til mudring, dumping og fylling i sjø ved Ny Lufthavn Bodø (NLBO), datert den 28.",
-        "Grunnforholdene i østre del av tiltaksområdet vil også medføre behov for mudring.",
-        "Det ble anslått at det ville gå med 1 610 000 am 3 (anbrakte) sprengsteinsmasser over et areal på 180 000 m 2 sjøbunn i dybder på 0-8 meter, som skulle legges direkte på sjøbunnen uten mudring.",
-        "Det var videre planlagt mudring av inntil 40 000 fm 3 (faste masser) over 16 100 m 2 (+/- 20 %).",
-        "Det var forutsatt at det rundt noen av pelene ville bli behov for mudring og tilbakefylling med sprengstein.",
-        "Naturtypene med særlig relevans for arbeid med mudring, utfylling og peling er lokasjonen med rikt sandberg på Lyngholmen (avmerket som nr.",
-        "1 Eksternt steinbrudd - Kvalvikodden Det er i søknad om tillatelse til mudring og utfylling og tillatelsens vilkår 6.",
-        "3 Mudring i øst I forbindelse med detaljprosjekteringer er det utført en del oppdateringer og endringer i detaljer for planlagt utfylling og mudring i sjø, blant annet for geometri og volum på fylling.",
-        "Områder med behov for mudring vises med blå strek, arbeidsretning fra sjø/sjete og innover vises med rødt, og fra land og utover med oransje piler.",
-        "2 Mudring og innflygningslys I forbindelse med forprosjektet var det omsøkt behov for mudring i forbindelse med etablering av innflygningslysene i øst.",
-        "Det er i detaljprosjekteringen avklart at mudring i forbindelse med innflygningslysene i øst ikke vil nære nødvendig.",
-        "3 Oppsummering mudring NLBO per september 2024 I opprinnelig søknad var det estimert et totalvolum på ca.",
-        "Gjennom detaljprosjekteringen har mudringsbehovet for innflygningslysene blitt optimalisert og antas utgått, mens detaljprosjekteringen på utfyllingen har medført en økning av omfanget på mudring.",
-        "Overordnet vil detaljprosjektert løsning samlet medføre en reduksjon av mudring i øst.",
-        "4 Referanseliste [1] Norconsult, «10001444-187075-BO000 -S2-RA-0118 Søknad om tillatelse til mudring, dumping og fylling i sjø,» Avinor, 2020.",
-        "[2] Statsforvalteren i Nordland, «Tillatelse til mudring og utfylling i sjø - ny lufthavn - Bodø,» 2022.",
-        "no] Subject: NLBO - mudringstillatelse; arbeid i sjø Hei! Vi viser til NLBOs tillatelse til mudring og utfylling."
-      ],
+      "m2m3": [],
+      "mudring": [],
       "molo": [],
       "sjøarbeid": [],
       "utdyping": [],
       "tildekking": [],
-      "utfylling": [
-        "utfylling og mudring K190800 - E2 Flyside - Anlegg GE02 01.",
-        "Etablering av ny rullebane med tilhørende taksebaner medfører et behov for utfylling i sjø og peling i vest- og østenden av ny lufthavn.",
-        "Utfyllingen ble forutsatt etablert med utfylling fra endetipp.",
-        "Naturtypene med særlig relevans for arbeid med mudring, utfylling og peling er lokasjonen med rikt sandberg på Lyngholmen (avmerket som nr.",
-        "1 Eksternt steinbrudd - Kvalvikodden Det er i søknad om tillatelse til mudring og utfylling og tillatelsens vilkår 6.",
-        "5 beskrevet at sprengstein fra det eksterne dagbruddet ved Kvalvikodden i hovedsak skal benyttes for utfylling i sjø under kote -3 og/eller ved utfylling fra lekter.",
-        "3 Mudring i øst I forbindelse med detaljprosjekteringer er det utført en del oppdateringer og endringer i detaljer for planlagt utfylling og mudring i sjø, blant annet for geometri og volum på fylling.",
-        "1 Utfylling ved Sjøhaugen For å oppnå tilfredsstillende geoteknisk stabilitet er det vurdert som nødvendig å mudre en ca.",
-        "Side 11 av 17 Figur 9: Løsning for utfylling fra forprosjektet og ny løsning for utfylling i øst.",
-        "40 000 fm 3 muddermasser i øst for utfylling og innflygningslys samlet.",
-        "1 Utfylling i vest I Figur 10 er linjer fra forprosjektet vist sammen med utarbeidet i detaljprosjektering i prosjektet.",
-        "Figur 10: Areal som er angitt i søknad vist med prikkete skravur, mens løsning fra detaljprosjektering i farger for utfylling i vest.",
-        "Tilsvarende vil omfanget av utfylling utgjøre et volum på ca.",
-        "Dette volumet er beregnet for utfylling fra sjøbunn og opp til permanent terrengnivå, og inkluderer både sprengstein, plastring, frostsikringslag og terrengoverflate.",
-        "2 Utfylling i øst Tilsvarende problemstilling med utvidelse av utfylling er også aktuelt for øst.",
-        "Figur 12: Areal som er angitt i søknad vist med prikkete skravur, mens løsning fra detaljprosjektering i farger for utfylling i øst.",
-        "Tilsvarende vil omfanget av utfylling utgjøre et volum på ca.",
-        "Dette volumet er beregnet for utfylling fra sjøbunn og opp til permanent terrengnivå, og inkluderer både sprengstein, Side 14 av 17 plastring, frostsikringslag og terrengoverflate.",
-        "Omsøkt løsning Detaljprosjektert løsning Areal - m² Volum - m³ Areal - m² Volum - m³ Utfylling i vest 180 000 1 610 000 210 000 1 765 000 Utfylling i øst 40 000 240 000 49 000 340 000 Totalt 220 000 1 850 000 259 000 2 105 000 Det foregår fortsatt en optimalisering med tanke på løsninger for utfylling og sjete både på sørsiden av vestlig utfylling, og for utfyllingen i øst.",
-        "Dette er et lite område som påvirkes, sammenlignet med tidligere omsøkt og godkjent utfylling.",
-        "[2] Statsforvalteren i Nordland, «Tillatelse til mudring og utfylling i sjø - ny lufthavn - Bodø,» 2022.",
-        "no] Subject: NLBO - mudringstillatelse; arbeid i sjø Hei! Vi viser til NLBOs tillatelse til mudring og utfylling."
-      ],
+      "utfylling": [],
       "dykking": [],
       "undervannsprenging": [],
       "wordsFound": {
@@ -677,8 +365,8 @@
           "count": 0
         },
         "mudring": {
-          "found": true,
-          "count": 21
+          "found": false,
+          "count": 0
         },
         "molo": {
           "found": false,
@@ -697,8 +385,8 @@
           "count": 0
         },
         "utfylling": {
-          "found": true,
-          "count": 28
+          "found": false,
+          "count": 0
         },
         "dykking": {
           "found": false,
@@ -712,7 +400,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 7,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
@@ -825,7 +513,7 @@
     }
   },
   {
-    "id": 12,
+    "id": 8,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
@@ -899,7 +587,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 9,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
@@ -964,7 +652,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 10,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
@@ -1029,7 +717,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 11,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
@@ -1114,7 +802,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 12,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
@@ -1179,7 +867,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 13,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
@@ -1248,7 +936,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 14,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad fra Iris Produksjon AS om etablering av anlegg for mottak og behandling av EE-avfall på Vikan avfallsanlegg i Bodø",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-fra-iris-produksjon-as-om-etablering-av-anlegg-for-mottak-og-gjenvinning-av/",
@@ -1313,7 +1001,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 15,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad fra Reno-Vest IKS om etablering av anlegg for mottak og behandling av plastavfall på Bremnes i Sortland",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing--soknad-om-etablering-av-anlegg-for-mottak-og-behandling-av-plastavfall/",
@@ -1324,7 +1012,9 @@
     "createdDate": "2024-08-15T14:28:19.000Z",
     "høringsfrist": "2024-12-15T22:59:00.000Z",
     "pdfData": {
-      "m2m3": ["5.000m²) og rundt bygget/hallen."],
+      "m2m3": [
+        "5.000m²) og rundt bygget/hallen."
+      ],
       "mudring": [],
       "molo": [],
       "sjøarbeid": [],
@@ -1380,7 +1070,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 16,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om unntak fra krav til utslippsdybde - Andenes Fiskemottak AS",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2025/01/horing-av-soknad-om-unntak-fra-krav-til-utslippsdybde---andenes-fiskemottak-as/",
@@ -1445,40 +1135,24 @@
     }
   },
   {
-    "id": 21,
-    "county": "More og Romsdal",
-    "hoeringTitle": "Søknad om utsleppsløyve for utfylling langs Igesundvegen i Fosnavåg",
-    "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/11/soknad-om-utsleppsloyve-for-utfylling-langs-igesundvegen-i-fosnavag/",
-    "pdfUrl": "https://www.statsforvalteren.no/contentassets/75e61cfe4f524b4ca6011b8b4f97389f/soknad---tiltak-i-sjo---heroy-35_93---utfylling-langs-igesundvegen-i-fosnavag.pdf",
-    "pageTitle": "Høyringar | Statsforvaltaren i Møre og Romsdal",
-    "pageHeader": "Høyringar",
-    "summary": "Møre og Romsdal fylkeskommune søkjer om løyve etter forureiningslova til utfylling langs Igesundvegen i Fosnavåg i Herøy kommune.",
-    "createdDate": "2024-10-11T09:46:57.000Z",
-    "høringsfrist": "2024-11-29T22:59:00.000Z",
+    "id": 17,
+    "county": "Nordland",
+    "hoeringTitle": "Høring av søknad fra Østbø AS om etablering av tankanlegg for mottak og lagring av spillolje i Hovslagerveien i Rana kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2025/01/horing-av-soknad-fra-ostbo-as-om-etablering-av-tankanlegg-for-mottak-og-lagring-av-spillolje-i-hovslagerveien-i-rana-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/73e514717796483ea3ef7fdf7f3dd5bb/soknad-om-utslippstillatelse-for-tanklagring-av-spillolje-ostbo-as.pdf.pdf",
+    "pageTitle": "Høringer | Statsforvalteren i Nordland",
+    "pageHeader": "Høringer",
+    "summary": "Østbø AS søker om utslippstillatelse etter forurensningsloven for etablering av nytt tankanlegg i Rana.",
+    "createdDate": "2024-11-19T14:07:05.000Z",
+    "høringsfrist": "2025-01-17T22:59:00.000Z",
     "pdfData": {
       "m2m3": [],
-      "mudring": [
-        "2021 SØKNADSSKJEMA FOR MUDRING, DUMPING OG UTFYLLING I SJØ OG VASSDRAG 1.",
-        "Beskrivelse av tiltaket a) Type tiltak (sett kryss): b) Lokalisering: Mudring fra land Kommune Herøy Kommune Mudring fra fartøy Navn på sted Kleivasvingen, Igesund Dumping Gnr.",
-        "Årstall forrige mudring: - d) Mengde masser: Ca.",
-        "g) Tiltaksmetode ved mudring (sett kryss): Graving fra lekter Grabbmudring Sugemudring Annet forklar: i) Metode for transport av massene ved mudring, utfylling, etc.",
-        "mekanisk, er det ikke er behov for mudring."
-      ],
+      "mudring": [],
       "molo": [],
       "sjøarbeid": [],
       "utdyping": [],
       "tildekking": [],
-      "utfylling": [
-        "no]; Tittel: Søknad om utfylling Fv 5878 Kleivasvingen fortau Hei! Det skal etableres fortau langs Igesundvegen i Fosnavåg i Herøy kommune.",
-        "Se vedlagt søknad for utfylling med tilhørende vedlegg.",
-        "pdf Kleivasvingen_Fylling i sjø – Karttiltak med utfylling i sjø ihht.",
-        "2021 SØKNADSSKJEMA FOR MUDRING, DUMPING OG UTFYLLING I SJØ OG VASSDRAG 1.",
-        "35/93 Utfylling X Koordinater UTM32, x: UTM32, y: Annet (*) (ved dumping) N6917000 Ø324500 (*) Andre aktiviteter kan være f.",
-        "e) Areal som omfattes av tiltaket (m 2 ): - må vises på kartvedlegg! - ved utfylling, angi med og uten fyllingsfot 455 m2 f) Mudringsdyp (hvor dypt i sedimentene det skal mudres): IA – skal ikkje mudres.",
-        "g) Tiltaksmetode ved mudring (sett kryss): Graving fra lekter Grabbmudring Sugemudring Annet forklar: i) Metode for transport av massene ved mudring, utfylling, etc.",
-        "b) Avfall i massene Fyllmasser inneholder ofte sprengtråd, skyteledning, armeringsfibre eller lignende avfall som kan spre seg i vannmassene og miljøet ved utfylling.",
-        "Tittel 01 02 03 04 1350058388 -G-RAP-001-rev01 – Datarapport fra grunnundersøkelse 1350058388 -001 - Datarapport miljøteknisk sedimentundersøkelse Kleivasvingen_Fylling i sjø – Karttiltak med utfylling i sjø ihht."
-      ],
+      "utfylling": [],
       "dykking": [],
       "undervannsprenging": [],
       "wordsFound": {
@@ -1491,8 +1165,8 @@
           "count": 0
         },
         "mudring": {
-          "found": true,
-          "count": 7
+          "found": false,
+          "count": 0
         },
         "molo": {
           "found": false,
@@ -1511,8 +1185,8 @@
           "count": 0
         },
         "utfylling": {
-          "found": true,
-          "count": 9
+          "found": false,
+          "count": 0
         },
         "dykking": {
           "found": false,
@@ -1526,7 +1200,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 18,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om utsleppsløyve for tiltak i sjø ved Breivika i Vanylven kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-utsleppsloyve-for-tiltak-i-sjo-ved-breivika-i-vanylven-kommune/",
@@ -1767,7 +1441,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 19,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -1844,7 +1518,7 @@
     }
   },
   {
-    "id": 24,
+    "id": 20,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -1931,7 +1605,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 21,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -1996,7 +1670,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 22,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -2061,7 +1735,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 23,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -2130,7 +1804,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 24,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -2195,7 +1869,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 25,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -2263,7 +1937,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 26,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -2330,7 +2004,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 27,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -2399,7 +2073,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 28,
     "county": "More og Romsdal",
     "hoeringTitle": "Høyring av vern av skog i Fjord kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2025/01/hoyring-av-vern-av-skog/",
@@ -2464,7 +2138,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 29,
     "county": "More og Romsdal",
     "hoeringTitle": "Høyring av vern av skog i Fjord kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2025/01/hoyring-av-vern-av-skog/",
@@ -2529,7 +2203,202 @@
     }
   },
   {
-    "id": 34,
+    "id": 30,
+    "county": "More og Romsdal",
+    "hoeringTitle": "Høyring av skogvern i Aure",
+    "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2025/01/hoyring-av-vern-av-skog-i-aure/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/bf33cf74f754492f8f8b7fb07db8d01b/hoyringsdokument-vik-nr--og-ringstadfjellet--utviding.pdf",
+    "pageTitle": "Høyringar | Statsforvaltaren i Møre og Romsdal",
+    "pageHeader": "Høyringar",
+    "summary": "Statsforvaltaren sender framlegg om vern av to verdfulle skogområde i Aure på høyring. Områda er tilbydd av grunneigarane etter ordninga med frivillig vern. Frist for innspel til framlegget er 27. januar 2025.",
+    "createdDate": "2024-11-27T11:32:23.000Z",
+    "høringsfrist": "2025-01-27T22:59:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "county": "More og Romsdal",
+    "hoeringTitle": "Høyring av skogvern i Aure",
+    "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2025/01/hoyring-av-vern-av-skog-i-aure/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/bf33cf74f754492f8f8b7fb07db8d01b/vik---utviding_aure_juli-2024.pdf",
+    "pageTitle": "Høyringar | Statsforvaltaren i Møre og Romsdal",
+    "pageHeader": "Høyringar",
+    "summary": "Statsforvaltaren sender framlegg om vern av to verdfulle skogområde i Aure på høyring. Områda er tilbydd av grunneigarane etter ordninga med frivillig vern. Frist for innspel til framlegget er 27. januar 2025.",
+    "createdDate": "2024-07-08T10:12:40.000Z",
+    "høringsfrist": "2025-01-27T22:59:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "county": "More og Romsdal",
+    "hoeringTitle": "Høyring av skogvern i Aure",
+    "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2025/01/hoyring-av-vern-av-skog-i-aure/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/bf33cf74f754492f8f8b7fb07db8d01b/ringstadfjellet---utviding_aure_juli-2024.pdf",
+    "pageTitle": "Høyringar | Statsforvaltaren i Møre og Romsdal",
+    "pageHeader": "Høyringar",
+    "summary": "Statsforvaltaren sender framlegg om vern av to verdfulle skogområde i Aure på høyring. Områda er tilbydd av grunneigarane etter ordninga med frivillig vern. Frist for innspel til framlegget er 27. januar 2025.",
+    "createdDate": "2024-07-08T11:12:25.000Z",
+    "høringsfrist": "2025-01-27T22:59:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2594,7 +2463,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2659,7 +2528,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2726,7 +2595,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2791,7 +2660,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2856,7 +2725,7 @@
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2924,16 +2793,16 @@
     }
   },
   {
-    "id": 40,
-    "county": "Trondelag",
-    "hoeringTitle": "Fastsetting av grense mellom elv og sjø i Trøndelag",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/11/fastsetting-av-grense-mellom-elv-og-sjo-i-trondelag/",
-    "pdfUrl": "https://www.statsforvalteren.no/contentassets/4bf03387ac8a47e294f88a204d8ba2f6/fastsetting-av-grense-mellom-elv-og-sjo-i-din-kommune---horing-om-behov-for-befaring-og-innspill-pa-grenser.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Trøndelag",
-    "pageHeader": "Høringer",
-    "summary": "I Trøndelag er det egne regler for hvor og når man kan fiske i elver og elvemunninger hvor det går laks og sjøørret. Nå skal flere av disse grensene justeres.",
-    "createdDate": "2024-10-15T12:18:29.000Z",
-    "høringsfrist": "2024-11-24T23:00:00.000Z",
+    "id": 39,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/vedlegg-10-soknad-utslippstillatelse-finnfjord.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2024-08-30T07:24:07.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
     "pdfData": {
       "m2m3": [],
       "mudring": [],
@@ -2989,7 +2858,728 @@
     }
   },
   {
+    "id": 40,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/soknadsskjema_sftf--kopi-1.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2022-06-30T13:01:00.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [
+        "Søknad om utslippstillatelse Søknadsskjema for industribedrifter Se veiledningen for utfylling av de enkelte rubrikkene."
+      ],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": true,
+          "count": 1
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
     "id": 41,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/vedlegg-1-stoyrapport.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2023-10-23T13:01:38.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/vedlegg-2-stov-veidekke-finnfjord.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2023-07-13T13:42:54.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 43,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/vedlegg-2-stovrapport.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2023-07-13T13:24:55.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 44,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/vedlegg-3-maleprogram-ytre-miljo--finnfjord.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2024-08-29T14:26:56.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 45,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/vedlegg-7-reguleringsplan.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2010-05-26T09:11:58.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [
+        "1000m² gulvflate kontorer 5-10 parkeringsplasser pr.",
+        "1000m² gulvflate industri, forretning, eller verksted 2-3 parkeringsplasser pr.",
+        "1000m² gulvflate lager Tilgjengelighet: Bebyggelse og utomhusarealer skal utformes etter prinsippene om universell utforming i samsvar med anbefalte løsninger i temaveilederen ”Bygg for alle” utarbeidet av Statens Bygningstekniske Etat (BE) og Husbanken."
+      ],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 46,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/vedlegg-8-midlertidig-brukstillatelse-asfaltverk-finnfjord.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2019-11-28T11:30:00.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 47,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/1162839-spredningsberegning_rev2.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2024-11-22T11:27:34.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 48,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/vedlegg-5-risikovurdering-asfaltfabrikk-finnfjord.xlsx.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2024-08-30T11:25:20.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 49,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/vedlegg-4-styringsplan-asfaltproduksjon-finnfjordbotn.docx.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2019-03-07T13:19:00.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 50,
+    "county": "troms finnmark",
+    "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/70203f90c46c45a38b06229727c30383/vedtak-om-unntak-fra-forurensningsforskriften-kapittel-24-plassering-av-asfaltverk---mobil-asfaltfabrikk-i-leiraveien-pa-finnfjo.pdf",
+    "pageTitle": "Saker på høring | Statsforvalteren i Troms og Finnmark",
+    "pageHeader": "Saker på høring",
+    "summary": "Veidekke AS søker om tillatelse til permanent drift av asfaltverk på Finnfjord i Senja kommune. Alle som vil kan sende inn høringsinnspill innen 9. januar 2025.",
+    "createdDate": "2022-03-17T12:05:00.000Z",
+    "høringsfrist": "2025-01-08T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 51,
     "county": "Trondelag",
     "hoeringTitle": "Høring - søknad om tillatelse inkludert vurdering av BAT-konklusjoner - Moelven Van Severen AS - Namsos kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/horing---soknad-om-tillatelse-inkludert-vurdering-av-bat-konklusjoner---moelven-van-severen---namsos-kommune/",
@@ -3000,7 +3590,9 @@
     "createdDate": "2024-10-10T08:11:36.000Z",
     "høringsfrist": "2024-12-09T22:59:00.000Z",
     "pdfData": {
-      "m2m3": ["65/1743, som har et totalt areal på 221 756 m²."],
+      "m2m3": [
+        "65/1743, som har et totalt areal på 221 756 m²."
+      ],
       "mudring": [
         "SEDIMENTER Det er gjennomført miljøundersøkelser av sedimentene utenfor virksomhetens kaiområde i forbindelse med mudring for å øke seilingsdybden ved kaia /10/.",
         "Mudring utenfor Moelven Van Severens kai, Namsos."
@@ -3057,7 +3649,7 @@
     }
   },
   {
-    "id": 42,
+    "id": 52,
     "county": "Trondelag",
     "hoeringTitle": "Høring - søknad om tillatelse inkludert vurdering av BAT-konklusjoner - Moelven Van Severen AS - Namsos kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/horing---soknad-om-tillatelse-inkludert-vurdering-av-bat-konklusjoner---moelven-van-severen---namsos-kommune/",
@@ -3122,7 +3714,7 @@
     }
   },
   {
-    "id": 43,
+    "id": 53,
     "county": "Trondelag",
     "hoeringTitle": "Høring - søknad om tillatelse inkludert vurdering av BAT-konklusjoner - Moelven Van Severen AS - Namsos kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/horing---soknad-om-tillatelse-inkludert-vurdering-av-bat-konklusjoner---moelven-van-severen---namsos-kommune/",
@@ -3187,7 +3779,7 @@
     }
   },
   {
-    "id": 44,
+    "id": 54,
     "county": "Trondelag",
     "hoeringTitle": "Høring - søknad om tillatelse inkludert vurdering av BAT-konklusjoner - Moelven Van Severen AS - Namsos kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/horing---soknad-om-tillatelse-inkludert-vurdering-av-bat-konklusjoner---moelven-van-severen---namsos-kommune/",
@@ -3198,7 +3790,9 @@
     "createdDate": "2024-10-31T12:39:15.000Z",
     "høringsfrist": "2024-12-09T22:59:00.000Z",
     "pdfData": {
-      "m2m3": ["65/1743, som har et totalt areal på 221 756 m²."],
+      "m2m3": [
+        "65/1743, som har et totalt areal på 221 756 m²."
+      ],
       "mudring": [
         "SEDIMENTUNDERSØKELSER Det ble gjennomført miljøundersøkelser av sedimentene utenfor Moelven Van Severen sitt kaiområde i 2018, i forbindelse med mudring for å øke seilingsdybden ved kaia /12/.",
         "Mudring utenfor Moelven Van Severens kai, Namsos."
@@ -3257,7 +3851,7 @@
     }
   },
   {
-    "id": 45,
+    "id": 55,
     "county": "Trondelag",
     "hoeringTitle": "Vernskogen i Trøndelag får nye bestemmelser",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2025/01/vernskogen-i-trondelag-far-nye-bestemmelser/",
@@ -3322,7 +3916,7 @@
     }
   },
   {
-    "id": 46,
+    "id": 56,
     "county": "Trondelag",
     "hoeringTitle": "Vernskogen i Trøndelag får nye bestemmelser",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2025/01/vernskogen-i-trondelag-far-nye-bestemmelser/",
@@ -3387,7 +3981,7 @@
     }
   },
   {
-    "id": 47,
+    "id": 57,
     "county": "vestfold og telemark",
     "hoeringTitle": "Søknad om tillatelse til snødeponi på Fresteåsen i Tønsberg",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/soknad-om-tillatelse-til-snodeponi-pa-fresteasen-i-tonsberg/",
@@ -3452,7 +4046,7 @@
     }
   },
   {
-    "id": 48,
+    "id": 58,
     "county": "vestfold og telemark",
     "hoeringTitle": "Søknad om tillatelse til snødeponi på Fokserød Vest i Sandefjord",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/soknad-om-tillatelse-til-snodeponi-pa-fokserod-vest-i-sandefjord/",
@@ -3517,7 +4111,7 @@
     }
   },
   {
-    "id": 49,
+    "id": 59,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplan: Utvidelse av et naturreservat i Tinn",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplan-for-utvidelse-av-vestfjorddalen-og-overland-naturreservater-i-tinn/",
@@ -3582,7 +4176,7 @@
     }
   },
   {
-    "id": 50,
+    "id": 60,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplan: Utvidelse av et naturreservat i Tinn",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplan-for-utvidelse-av-vestfjorddalen-og-overland-naturreservater-i-tinn/",
@@ -3647,7 +4241,7 @@
     }
   },
   {
-    "id": 51,
+    "id": 61,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplan: Utvidelse av et naturreservat i Tinn",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplan-for-utvidelse-av-vestfjorddalen-og-overland-naturreservater-i-tinn/",
@@ -3712,7 +4306,7 @@
     }
   },
   {
-    "id": 52,
+    "id": 62,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplan: Utvidelse av et naturreservat i Tinn",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplan-for-utvidelse-av-vestfjorddalen-og-overland-naturreservater-i-tinn/",
@@ -3777,7 +4371,7 @@
     }
   },
   {
-    "id": 53,
+    "id": 63,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplan: Utvidelse av et naturreservat i Tinn",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplan-for-utvidelse-av-vestfjorddalen-og-overland-naturreservater-i-tinn/",
@@ -3842,7 +4436,7 @@
     }
   },
   {
-    "id": 54,
+    "id": 64,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplan: Utvidelse av et naturreservat i Tinn",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplan-for-utvidelse-av-vestfjorddalen-og-overland-naturreservater-i-tinn/",
@@ -3907,7 +4501,7 @@
     }
   },
   {
-    "id": 55,
+    "id": 65,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplan: Utvidelse av et naturreservat i Tinn",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplan-for-utvidelse-av-vestfjorddalen-og-overland-naturreservater-i-tinn/",
@@ -3972,7 +4566,7 @@
     }
   },
   {
-    "id": 56,
+    "id": 66,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4037,7 +4631,7 @@
     }
   },
   {
-    "id": 57,
+    "id": 67,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4104,7 +4698,7 @@
     }
   },
   {
-    "id": 58,
+    "id": 68,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4169,7 +4763,7 @@
     }
   },
   {
-    "id": 59,
+    "id": 69,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4234,7 +4828,7 @@
     }
   },
   {
-    "id": 60,
+    "id": 70,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4299,7 +4893,7 @@
     }
   },
   {
-    "id": 61,
+    "id": 71,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4364,7 +4958,7 @@
     }
   },
   {
-    "id": 62,
+    "id": 72,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4429,7 +5023,7 @@
     }
   },
   {
-    "id": 63,
+    "id": 73,
     "county": "vestfold og telemark",
     "hoeringTitle": "Søknad om utfylling ved Risøya i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/soknad-om-utfylling-ved-risoya-i-larvik-kommune/",
@@ -4513,7 +5107,7 @@
     }
   },
   {
-    "id": 64,
+    "id": 74,
     "county": "vestfold og telemark",
     "hoeringTitle": "Søknad om utfylling ved Risøya i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/soknad-om-utfylling-ved-risoya-i-larvik-kommune/",
@@ -4583,7 +5177,7 @@
     }
   },
   {
-    "id": 65,
+    "id": 75,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -4648,7 +5242,7 @@
     }
   },
   {
-    "id": 66,
+    "id": 76,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -4713,7 +5307,7 @@
     }
   },
   {
-    "id": 67,
+    "id": 77,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -4778,7 +5372,7 @@
     }
   },
   {
-    "id": 68,
+    "id": 78,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -4843,7 +5437,7 @@
     }
   },
   {
-    "id": 69,
+    "id": 79,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -4908,7 +5502,7 @@
     }
   },
   {
-    "id": 70,
+    "id": 80,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -4973,7 +5567,7 @@
     }
   },
   {
-    "id": 71,
+    "id": 81,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -5038,7 +5632,7 @@
     }
   },
   {
-    "id": 72,
+    "id": 82,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -5103,7 +5697,7 @@
     }
   },
   {
-    "id": 73,
+    "id": 83,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5168,7 +5762,7 @@
     }
   },
   {
-    "id": 74,
+    "id": 84,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5233,7 +5827,7 @@
     }
   },
   {
-    "id": 75,
+    "id": 85,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5298,7 +5892,7 @@
     }
   },
   {
-    "id": 76,
+    "id": 86,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5363,7 +5957,7 @@
     }
   },
   {
-    "id": 77,
+    "id": 87,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5428,7 +6022,7 @@
     }
   },
   {
-    "id": 78,
+    "id": 88,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5493,7 +6087,7 @@
     }
   },
   {
-    "id": 79,
+    "id": 89,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5558,7 +6152,7 @@
     }
   },
   {
-    "id": 80,
+    "id": 90,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5623,7 +6217,7 @@
     }
   },
   {
-    "id": 81,
+    "id": 91,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5688,7 +6282,7 @@
     }
   },
   {
-    "id": 82,
+    "id": 92,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5753,7 +6347,7 @@
     }
   },
   {
-    "id": 83,
+    "id": 93,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5818,7 +6412,7 @@
     }
   },
   {
-    "id": 84,
+    "id": 94,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5883,7 +6477,7 @@
     }
   },
   {
-    "id": 85,
+    "id": 95,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5948,7 +6542,7 @@
     }
   },
   {
-    "id": 86,
+    "id": 96,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6013,7 +6607,7 @@
     }
   },
   {
-    "id": 87,
+    "id": 97,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6078,7 +6672,7 @@
     }
   },
   {
-    "id": 88,
+    "id": 98,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6143,7 +6737,7 @@
     }
   },
   {
-    "id": 89,
+    "id": 99,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6208,267 +6802,7 @@
     }
   },
   {
-    "id": 90,
-    "county": "vestland",
-    "hoeringTitle": "Høyring av forslag til forskrift som etablerer eit nytt område for obligatorisk opplæring i bruk av snøskutar ved Robjørgane i Stryn kommune",
-    "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/11/hoyring-av-forslag-til-forskrift-som-etablerer-eit-nytt-omrade-for-obligatorisk-opplaring-i-bruk-av-snoskutar-ved-robjorgane-i-stryn-kommune/",
-    "pdfUrl": "https://www.statsforvalteren.no/contentassets/fb79746629f64463b0a2ad7d8d75a3e5/hoyring---nytt-omrade-for-obligatorisk-opplaring-i-bruk-av-beltemotorsykkel-snoskuter-i-stryn-kommune-2.pdf",
-    "pageTitle": "Høyringar | Statsforvaltaren i Vestland",
-    "pageHeader": "Høyringar",
-    "summary": "Forslaget er sendt ut på høyring, og frist for å kome med fråsegn er 30. november 2024.",
-    "createdDate": "2024-09-30T07:20:06.000Z",
-    "høringsfrist": "2024-11-30T22:59:00.000Z",
-    "pdfData": {
-      "m2m3": [],
-      "mudring": [],
-      "molo": [],
-      "sjøarbeid": [],
-      "utdyping": [],
-      "tildekking": [],
-      "utfylling": [],
-      "dykking": [],
-      "undervannsprenging": [],
-      "wordsFound": {
-        "m³": {
-          "found": false,
-          "count": 0
-        },
-        "m²": {
-          "found": false,
-          "count": 0
-        },
-        "mudring": {
-          "found": false,
-          "count": 0
-        },
-        "molo": {
-          "found": false,
-          "count": 0
-        },
-        "sjøarbeid": {
-          "found": false,
-          "count": 0
-        },
-        "utdyping": {
-          "found": false,
-          "count": 0
-        },
-        "tildekking": {
-          "found": false,
-          "count": 0
-        },
-        "utfylling": {
-          "found": false,
-          "count": 0
-        },
-        "dykking": {
-          "found": false,
-          "count": 0
-        },
-        "undervannsprenging": {
-          "found": false,
-          "count": 0
-        }
-      }
-    }
-  },
-  {
-    "id": 91,
-    "county": "vestland",
-    "hoeringTitle": "Høyring av forslag til forskrift som etablerer eit nytt område for obligatorisk opplæring i bruk av snøskutar ved Robjørgane i Stryn kommune",
-    "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/11/hoyring-av-forslag-til-forskrift-som-etablerer-eit-nytt-omrade-for-obligatorisk-opplaring-i-bruk-av-snoskutar-ved-robjorgane-i-stryn-kommune/",
-    "pdfUrl": "https://www.statsforvalteren.no/contentassets/fb79746629f64463b0a2ad7d8d75a3e5/hoyringsnotat---forslag-til-nytt-omrade-for-obligatorisk-opplaring-i-snoskuter-i-stryn-kommune..pdf",
-    "pageTitle": "Høyringar | Statsforvaltaren i Vestland",
-    "pageHeader": "Høyringar",
-    "summary": "Forslaget er sendt ut på høyring, og frist for å kome med fråsegn er 30. november 2024.",
-    "createdDate": "2016-02-09T14:34:00.000Z",
-    "høringsfrist": "2024-11-30T22:59:00.000Z",
-    "pdfData": {
-      "m2m3": [],
-      "mudring": [],
-      "molo": [],
-      "sjøarbeid": [],
-      "utdyping": [],
-      "tildekking": [],
-      "utfylling": [],
-      "dykking": [],
-      "undervannsprenging": [],
-      "wordsFound": {
-        "m³": {
-          "found": false,
-          "count": 0
-        },
-        "m²": {
-          "found": false,
-          "count": 0
-        },
-        "mudring": {
-          "found": false,
-          "count": 0
-        },
-        "molo": {
-          "found": false,
-          "count": 0
-        },
-        "sjøarbeid": {
-          "found": false,
-          "count": 0
-        },
-        "utdyping": {
-          "found": false,
-          "count": 0
-        },
-        "tildekking": {
-          "found": false,
-          "count": 0
-        },
-        "utfylling": {
-          "found": false,
-          "count": 0
-        },
-        "dykking": {
-          "found": false,
-          "count": 0
-        },
-        "undervannsprenging": {
-          "found": false,
-          "count": 0
-        }
-      }
-    }
-  },
-  {
-    "id": 92,
-    "county": "vestland",
-    "hoeringTitle": "Høyring av forslag til forskrift som etablerer eit nytt område for obligatorisk opplæring i bruk av snøskutar ved Robjørgane i Stryn kommune",
-    "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/11/hoyring-av-forslag-til-forskrift-som-etablerer-eit-nytt-omrade-for-obligatorisk-opplaring-i-bruk-av-snoskutar-ved-robjorgane-i-stryn-kommune/",
-    "pdfUrl": "https://www.statsforvalteren.no/contentassets/fb79746629f64463b0a2ad7d8d75a3e5/forslag-til-forskrift-om-omrade-for-obligatorisk-opplaring-i-bruk-av-beltemotorsykkel-snoskuter-ved-robjorgane-i-stryn-kommune.pdf",
-    "pageTitle": "Høyringar | Statsforvaltaren i Vestland",
-    "pageHeader": "Høyringar",
-    "summary": "Forslaget er sendt ut på høyring, og frist for å kome med fråsegn er 30. november 2024.",
-    "createdDate": "2024-09-18T10:38:00.000Z",
-    "høringsfrist": "2024-11-30T22:59:00.000Z",
-    "pdfData": {
-      "m2m3": [],
-      "mudring": [],
-      "molo": [],
-      "sjøarbeid": [],
-      "utdyping": [],
-      "tildekking": [],
-      "utfylling": [],
-      "dykking": [],
-      "undervannsprenging": [],
-      "wordsFound": {
-        "m³": {
-          "found": false,
-          "count": 0
-        },
-        "m²": {
-          "found": false,
-          "count": 0
-        },
-        "mudring": {
-          "found": false,
-          "count": 0
-        },
-        "molo": {
-          "found": false,
-          "count": 0
-        },
-        "sjøarbeid": {
-          "found": false,
-          "count": 0
-        },
-        "utdyping": {
-          "found": false,
-          "count": 0
-        },
-        "tildekking": {
-          "found": false,
-          "count": 0
-        },
-        "utfylling": {
-          "found": false,
-          "count": 0
-        },
-        "dykking": {
-          "found": false,
-          "count": 0
-        },
-        "undervannsprenging": {
-          "found": false,
-          "count": 0
-        }
-      }
-    }
-  },
-  {
-    "id": 93,
-    "county": "vestland",
-    "hoeringTitle": "Høyring av forslag til forskrift som etablerer eit nytt område for obligatorisk opplæring i bruk av snøskutar ved Robjørgane i Stryn kommune",
-    "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/11/hoyring-av-forslag-til-forskrift-som-etablerer-eit-nytt-omrade-for-obligatorisk-opplaring-i-bruk-av-snoskutar-ved-robjorgane-i-stryn-kommune/",
-    "pdfUrl": "https://www.statsforvalteren.no/contentassets/fb79746629f64463b0a2ad7d8d75a3e5/forslag-til-kart-over-omrade-for-obligatorisk-opplaring-i-beltemotorsykkel-snoskuter-i-stryn-kommune.pdf",
-    "pageTitle": "Høyringar | Statsforvaltaren i Vestland",
-    "pageHeader": "Høyringar",
-    "summary": "Forslaget er sendt ut på høyring, og frist for å kome med fråsegn er 30. november 2024.",
-    "createdDate": "2024-03-06T11:38:11.000Z",
-    "høringsfrist": "2024-11-30T22:59:00.000Z",
-    "pdfData": {
-      "m2m3": [],
-      "mudring": [],
-      "molo": [],
-      "sjøarbeid": [],
-      "utdyping": [],
-      "tildekking": [],
-      "utfylling": [],
-      "dykking": [],
-      "undervannsprenging": [],
-      "wordsFound": {
-        "m³": {
-          "found": false,
-          "count": 0
-        },
-        "m²": {
-          "found": false,
-          "count": 0
-        },
-        "mudring": {
-          "found": false,
-          "count": 0
-        },
-        "molo": {
-          "found": false,
-          "count": 0
-        },
-        "sjøarbeid": {
-          "found": false,
-          "count": 0
-        },
-        "utdyping": {
-          "found": false,
-          "count": 0
-        },
-        "tildekking": {
-          "found": false,
-          "count": 0
-        },
-        "utfylling": {
-          "found": false,
-          "count": 0
-        },
-        "dykking": {
-          "found": false,
-          "count": 0
-        },
-        "undervannsprenging": {
-          "found": false,
-          "count": 0
-        }
-      }
-    }
-  },
-  {
-    "id": 94,
+    "id": 100,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for å utvide næringsareal ved Moldestad i Stad kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-a-utvide-naringsareal-ved-moldestad-i-stad-kommune/",
@@ -6533,7 +6867,7 @@
     }
   },
   {
-    "id": 95,
+    "id": 101,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for å utvide næringsareal ved Moldestad i Stad kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-a-utvide-naringsareal-ved-moldestad-i-stad-kommune/",
@@ -6604,7 +6938,7 @@
     }
   },
   {
-    "id": 96,
+    "id": 102,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for å utvide næringsareal ved Moldestad i Stad kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-a-utvide-naringsareal-ved-moldestad-i-stad-kommune/",
@@ -6615,7 +6949,9 @@
     "createdDate": "2024-04-09T08:50:08.000Z",
     "høringsfrist": "2024-12-16T22:00:00.000Z",
     "pdfData": {
-      "m2m3": ["70 000 m²."],
+      "m2m3": [
+        "70 000 m²."
+      ],
       "mudring": [
         "Mudring i sedimenter krever tillatelse fra Statsforvalteren før arbeidet kan starte, jf.",
         "Mudring kan også være aktuelt på grunn av stabiliteten til planlagt utfylling.",
@@ -6859,7 +7195,7 @@
     }
   },
   {
-    "id": 97,
+    "id": 103,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -6924,7 +7260,7 @@
     }
   },
   {
-    "id": 98,
+    "id": 104,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -7004,7 +7340,7 @@
     }
   },
   {
-    "id": 99,
+    "id": 105,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -7146,7 +7482,7 @@
     }
   },
   {
-    "id": 100,
+    "id": 106,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -7249,7 +7585,7 @@
     }
   },
   {
-    "id": 101,
+    "id": 107,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -7349,7 +7685,7 @@
     }
   },
   {
-    "id": 102,
+    "id": 108,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -7417,24 +7753,55 @@
     }
   },
   {
-    "id": 103,
-    "county": "ostfold buskerud oslo og akershus",
-    "hoeringTitle": "Høring av søknad om endring av tillatelse etter forurensningsloven – Lindum Oredalen AS – Oredalen avfallsanlegg og deponi, Asker kommune",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2024/11/horing-av-soknad-om-endring-av-tillatelse-etter-forurensningsloven--lindum-oredalen-as--oredalen-avfallsanlegg-og-deponi-asker-kommune/",
-    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-oslo-og-viken/horinger-og-kunngjoringer/klima-og-miljovern/lindum-oredalen-as/soknad-om-permanent-endring-av-tillatelse.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
-    "pageHeader": "Høringer",
-    "summary": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus har 04.03.2024 og 23.09.2024 mottatt søknader fra Lindum Oredalen AS om endringer av deres tillatelse etter forurensningsloven til deponering og annen avfallsrelatert virksomhet på sitt anlegg i Oredalen, gbnr. 335/57 og 335/57/1, i Asker kommune.",
-    "createdDate": "2024-03-04T10:14:32.000Z",
-    "høringsfrist": "2024-11-25T22:59:00.000Z",
+    "id": 109,
+    "county": "vestland",
+    "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/8faabfea6fbf4a0c9708f579d0e7b46f/soknad-om-loyve.pdf",
+    "pageTitle": "Høyringar | Statsforvaltaren i Vestland",
+    "pageHeader": "Høyringar",
+    "summary": "iVest Consult AS søkjer på vegne av Julnes Eigedom AS om løyve etter forureiningslova til anleggsarbeid i sjø for å utvide industriområde på Botnastrand i Kinn kommune.",
+    "createdDate": "2022-05-05T08:13:00.000Z",
+    "høringsfrist": "2025-01-13T22:00:00.000Z",
     "pdfData": {
       "m2m3": [],
-      "mudring": [],
-      "molo": [],
+      "mudring": [
+        "Søknadsskjema Nynorsk SØKNAD OM MUDRING, DUMPING OG UTFYLLING I SJØ OG VASSDRAG Søknadsskjema MDU Versjon: Januar 2022 Side 2 av 18 Skjemaet skal nyttast ved søknad om løyve til mudring, dumping og utfylling i sjø og vassdrag etter forureiningsforskrifta kapittel 22 og forureiningslova § 11.",
+        "no/nn/vestland/miljo-og-klima/forureining/mudring-og-dumping--- soknadsskjema/ Bruk vedleggsark med referansenummer til skjemaet der det er nødvendig.",
+        "4 Del A – Mudring .",
+        "no e Lokalisering av tiltak Mudring Dumping Utfylling Kommune Kommune Kommune Kinn Kommune Stadnamn Stadnamn Stadnamn Botnastranda Gnr.",
+        "Type tiltak Mudring, dumping og plassering av materiale frå skip er underlagt reglane i forureiningsforskrifta kapittel 22.",
+        "Mudring og dumping i sjø og vassdrag og krev alltid løyve etter § 22-6.",
+        "Mudring ☐ Fyll ut del A Dumping ☐ Fyll ut del B Utfylling ☒ Fyll ut del C Ja Nei Tiltak i ferskvatn ☐ ☒ Ja Nei Dersom tiltak i ferskvatn: Er det strekningar som fører anadrome laksefisk eller trua ferskvassartar (t.",
+        "elvemusling, ål, edelkreps) ☐ ☐ Del A – Mudring Ein kvar planlagt forflytning av massar frå sjøbotn Utgreiing av tiltaket a Føremål Vedlikehaldsmudring ☐ Årstal siste mudring XXXX Dok.",
+        "Vedlagt ☐ Farledsmudring ☐ Miljømudring ☐ Søknadsskjema MDU Versjon: Januar 2022 Side 5 av 18 Undervassprenging ☐ Anna ☐ Spesifiser: Klikk eller trykk her for å skrive inn tekst.",
+        "XXXX Kvadratmeter, m 2 d Volum som skal mudrast XXXX Kubikkmeter, m 3 XXXXUtrekna vekt, tonn e Vassdjup før mudring XX - XX m f Ønska vassdjup etter mudring XX - XX m g Tiltaksmetode ved mudring Utførast frå skip ☐ Utførast frå land ☐ Gravemaskin ☐ Grabbmudring ☐ Sugemudring ☐ Undervassprenging ☐ Anna ☐ Beskriv kort korleis mudringa skal utførast for alle metoder: Søknadsskjema MDU Versjon: Januar 2022 Side 6 av 18 Klikk eller trykk her for å skrive inn tekst."
+      ],
+      "molo": [
+        "Utgreiing av tiltaket a Føremål Landvinning ☒ Søknadsskjema MDU Versjon: Januar 2022 Side 8 av 18 Infrastruktur ☐ Molo/bølgjebrytar ☐ Anna ☐ Spesifiser: Klikk eller trykk her for å skrive inn tekst."
+      ],
       "sjøarbeid": [],
       "utdyping": [],
-      "tildekking": [],
-      "utfylling": [],
+      "tildekking": [
+        "Tildekking med duk av sediment på uberørt sjøbotn som er planlagt utfylt vil redusere spreiingsrisiko ytterlegare, og bør vurderast som avbøtande tiltak om dette kan gjerast kostnadseffektivt."
+      ],
+      "utfylling": [
+        "Søknadsskjema Nynorsk SØKNAD OM MUDRING, DUMPING OG UTFYLLING I SJØ OG VASSDRAG Søknadsskjema MDU Versjon: Januar 2022 Side 2 av 18 Skjemaet skal nyttast ved søknad om løyve til mudring, dumping og utfylling i sjø og vassdrag etter forureiningsforskrifta kapittel 22 og forureiningslova § 11.",
+        "6 Del C – Utfylling .",
+        "no e Lokalisering av tiltak Mudring Dumping Utfylling Kommune Kommune Kommune Kinn Kommune Stadnamn Stadnamn Stadnamn Botnastranda Gnr.",
+        "Mudring ☐ Fyll ut del A Dumping ☐ Fyll ut del B Utfylling ☒ Fyll ut del C Ja Nei Tiltak i ferskvatn ☐ ☒ Ja Nei Dersom tiltak i ferskvatn: Er det strekningar som fører anadrome laksefisk eller trua ferskvassartar (t.",
+        "Del C – Utfylling Tømming av masser i sjøen for å etablera noko nyttig, som utvida areal.",
+        "4 700 Kubikkmeter, m 3 XXXXUtrekna vekt, tonn e Vassdjup før utfylling -5-10 m f Gje greie for metoden for utfylling (snitt-teikning(ar) skal leggjast ved) Utfylling frå land.",
+        "Ved utfylling med sprengstein vil dette følge med og føre til at slikt finstoff blir spreia i utfyllingsområdet.",
+        "Når sprengstein ligg mellomlagra på land, i påvente av utfylling, vil mykje av finstoffetbli vaska vekk av nedbør.",
+        "v) i samband med utfylling av sprengstein.",
+        "I samband med utfylling av fyllmasse vil det foreligge risiko for spreiing av miljøgifter ved at ureina sediment vil gå i suspensjon og spreie seg.",
+        "For utfylling må også tiltak mot spreiing av plast vurderast.",
+        "Ved utfylling i sjø vil både det stadeigne sedimentet og finpartiklar frå dei utfylte massane kunne drive med straumen utover dei ulike fjordane i området.",
+        "v) i samband med utfylling av sprengstein.",
+        "i Plan for overvaking av vatn, spreiing av massar og sluttkontroll A2: Miljørisiko ved spreiing av finstoff frå sprengstein ved utfylling er også vurdert til moderat (4).",
+        "Kostbare avbøtande tiltak med siltgardin og/eller kontinuerleg online turbiditetsmåling (med grenseverdi forstans i arbeid med utfylling) har dermed liten verdi og er ikkje hensiktsmessig ved dette tiltaket."
+      ],
       "dykking": [],
       "undervannsprenging": [],
       "wordsFound": {
@@ -7447,77 +7814,12 @@
           "count": 0
         },
         "mudring": {
-          "found": false,
-          "count": 0
+          "found": true,
+          "count": 14
         },
         "molo": {
-          "found": false,
-          "count": 0
-        },
-        "sjøarbeid": {
-          "found": false,
-          "count": 0
-        },
-        "utdyping": {
-          "found": false,
-          "count": 0
-        },
-        "tildekking": {
-          "found": false,
-          "count": 0
-        },
-        "utfylling": {
-          "found": false,
-          "count": 0
-        },
-        "dykking": {
-          "found": false,
-          "count": 0
-        },
-        "undervannsprenging": {
-          "found": false,
-          "count": 0
-        }
-      }
-    }
-  },
-  {
-    "id": 104,
-    "county": "ostfold buskerud oslo og akershus",
-    "hoeringTitle": "Høring av søknad om endring av tillatelse etter forurensningsloven – Lindum Oredalen AS – Oredalen avfallsanlegg og deponi, Asker kommune",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2024/11/horing-av-soknad-om-endring-av-tillatelse-etter-forurensningsloven--lindum-oredalen-as--oredalen-avfallsanlegg-og-deponi-asker-kommune/",
-    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-oslo-og-viken/horinger-og-kunngjoringer/klima-og-miljovern/lindum-oredalen-as/soknad-om-midlertidig-tillatelse-23.09.24.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
-    "pageHeader": "Høringer",
-    "summary": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus har 04.03.2024 og 23.09.2024 mottatt søknader fra Lindum Oredalen AS om endringer av deres tillatelse etter forurensningsloven til deponering og annen avfallsrelatert virksomhet på sitt anlegg i Oredalen, gbnr. 335/57 og 335/57/1, i Asker kommune.",
-    "createdDate": "2024-09-23T14:13:37.000Z",
-    "høringsfrist": "2024-11-25T22:59:00.000Z",
-    "pdfData": {
-      "m2m3": [],
-      "mudring": [],
-      "molo": [],
-      "sjøarbeid": [],
-      "utdyping": [],
-      "tildekking": ["Tildekking er derfor svært viktig."],
-      "utfylling": [],
-      "dykking": [],
-      "undervannsprenging": [],
-      "wordsFound": {
-        "m³": {
-          "found": false,
-          "count": 0
-        },
-        "m²": {
-          "found": false,
-          "count": 0
-        },
-        "mudring": {
-          "found": false,
-          "count": 0
-        },
-        "molo": {
-          "found": false,
-          "count": 0
+          "found": true,
+          "count": 1
         },
         "sjøarbeid": {
           "found": false,
@@ -7532,8 +7834,8 @@
           "count": 1
         },
         "utfylling": {
-          "found": false,
-          "count": 0
+          "found": true,
+          "count": 18
         },
         "dykking": {
           "found": false,
@@ -7547,16 +7849,16 @@
     }
   },
   {
-    "id": 105,
-    "county": "ostfold buskerud oslo og akershus",
-    "hoeringTitle": "Høring av søknad om endring av tillatelse etter forurensningsloven – Lindum Oredalen AS – Oredalen avfallsanlegg og deponi, Asker kommune",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2024/11/horing-av-soknad-om-endring-av-tillatelse-etter-forurensningsloven--lindum-oredalen-as--oredalen-avfallsanlegg-og-deponi-asker-kommune/",
-    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-oslo-og-viken/horinger-og-kunngjoringer/klima-og-miljovern/lindum-oredalen-as/soknad-om-midlertidig-tillatelse-01.10.24.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
-    "pageHeader": "Høringer",
-    "summary": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus har 04.03.2024 og 23.09.2024 mottatt søknader fra Lindum Oredalen AS om endringer av deres tillatelse etter forurensningsloven til deponering og annen avfallsrelatert virksomhet på sitt anlegg i Oredalen, gbnr. 335/57 og 335/57/1, i Asker kommune.",
-    "createdDate": "2024-10-01T13:36:14.000Z",
-    "høringsfrist": "2024-11-25T22:59:00.000Z",
+    "id": 110,
+    "county": "vestland",
+    "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/8faabfea6fbf4a0c9708f579d0e7b46f/hoyring-av-soknad.pdf",
+    "pageTitle": "Høyringar | Statsforvaltaren i Vestland",
+    "pageHeader": "Høyringar",
+    "summary": "iVest Consult AS søkjer på vegne av Julnes Eigedom AS om løyve etter forureiningslova til anleggsarbeid i sjø for å utvide industriområde på Botnastrand i Kinn kommune.",
+    "createdDate": "2024-11-27T12:29:00.000Z",
+    "høringsfrist": "2025-01-13T22:00:00.000Z",
     "pdfData": {
       "m2m3": [],
       "mudring": [],
@@ -7565,7 +7867,9 @@
       "utdyping": [],
       "tildekking": [],
       "utfylling": [
-        "Aktivitetene inkluderte utfylling med avfall og brannøvinger for flyplassen."
+        "Anleggsarbeidet omfattar utfylling i sjø for å utvide industriområde som ligg ved Kneteberget på Botnastranda i Kinn kommune.",
+        "Arbeidet vil innebera utfylling av om lag 4 700 m 3 med rein sprengstein i eit sjøområde på 565 m 2 , og massane vil bli brukt i samband med eige prosjekt frå Havikbotn næringsområde.",
+        "Det vart påvist miljøgifter over grenseverdiane i sedimentprøvar frå tiltaksområdet, og difor vert det føreslått å dekkje sedimentbotnen med duk på dei områda som er planlagt for utfylling, for å redusera risikoen for spreiing av forureining."
       ],
       "dykking": [],
       "undervannsprenging": [],
@@ -7600,7 +7904,7 @@
         },
         "utfylling": {
           "found": true,
-          "count": 1
+          "count": 3
         },
         "dykking": {
           "found": false,
@@ -7614,16 +7918,117 @@
     }
   },
   {
-    "id": 106,
-    "county": "ostfold buskerud oslo og akershus",
-    "hoeringTitle": "Høring av søknad om endring av tillatelse etter forurensningsloven – Lindum Oredalen AS – Oredalen avfallsanlegg og deponi, Asker kommune",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2024/11/horing-av-soknad-om-endring-av-tillatelse-etter-forurensningsloven--lindum-oredalen-as--oredalen-avfallsanlegg-og-deponi-asker-kommune/",
-    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-oslo-og-viken/horinger-og-kunngjoringer/klima-og-miljovern/lindum-oredalen-as/tillatelse---oredalen.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
-    "pageHeader": "Høringer",
-    "summary": "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus har 04.03.2024 og 23.09.2024 mottatt søknader fra Lindum Oredalen AS om endringer av deres tillatelse etter forurensningsloven til deponering og annen avfallsrelatert virksomhet på sitt anlegg i Oredalen, gbnr. 335/57 og 335/57/1, i Asker kommune.",
+    "id": 111,
+    "county": "vestland",
+    "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/8faabfea6fbf4a0c9708f579d0e7b46f/miljorisikoanalyse---kneteberget-kinn-kommune.pdf.pdf",
+    "pageTitle": "Høyringar | Statsforvaltaren i Vestland",
+    "pageHeader": "Høyringar",
+    "summary": "iVest Consult AS søkjer på vegne av Julnes Eigedom AS om løyve etter forureiningslova til anleggsarbeid i sjø for å utvide industriområde på Botnastrand i Kinn kommune.",
+    "createdDate": "2024-11-18T09:42:47.000Z",
+    "høringsfrist": "2025-01-13T22:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [
+        "Prosjektet gjeld kun utfylling (ikkje mudring)."
+      ],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [
+        "Tildekking av områder med sediment før utfylling kan redusere miljørisiko ytterlegare (1).",
+        "Tildekking av sediment- områder med duk før utfylling vil truleg vere eit moderat kostbart avbøtande tiltak.",
+        "Tildekking med duk av sediment på uberørt sjøbotn som er planlagt utfylt vil redusere spreiingsrisiko ytterlegare, og bør vurderast som avbøtande tiltak om dette kan gjerast kostnadseffektivt."
+      ],
+      "utfylling": [
+        "2024 MILJØRISIKOANALYSE UTFYLLING VED KNETEBERGET PÅ BOTNASTRANDA KINN KOMMUNE JULNES EIENDOM AS Figur 1.",
+        "no Prosjekt : Utfylling av industriområde Sted : Ved Kneteberget (18/199) på Botnastranda, Kinn kommune Gjelder : Miljørisikonalyse ved utfylling i sjø Forslag til risikoreduserande og avbøtande tiltak Rapportert av: Selskap : STIM Florø STIM ref.",
+        "ANALYSEOBJEKT Tiltakshaver Julnes Eiendom AS søker om utfylling med sprengstein i sjø for etablering av kai ved Kneteberget på Botnastranda.",
+        "mai 2018) angir utfylling i sjø med areal mellom 1 000 m 2 og 30 000 m 2 som mellomstore tiltak.",
+        "Prosjektet gjeld kun utfylling (ikkje mudring).",
+        "I samband med dette oppdraget blei eit par av disse avmerka med overflatebøyer av dykker (Figur 7), dette for å redusere skaderisiko ved utfylling.",
+        "2024 kom melding om revidert plan for utfylling (iVest Consult AS prosjekterer utfyllinga), og at miljørisikoanalysa no kunne ferdigstillast – basert på den nye utfyllingsplanen (Figur 12).",
+        "Justert plan for utfylling ved Kneteberget: utfyllingsareal i sjø (gul farge), der del av utfyllinga kjem på eksisterande utfylling, og øvrig sjøareal (blå stipla line) har ikkje tidligare vore utfylt (utsnitt av prosjekteringsskisse frå iVestConsult).",
+        "2024 er samanlikna med korrigert plan for utfylling (Figur 13).",
+        "Total utfylling er 4 700 m 3 og tilseier eit «mellomstort tiltak» (500 - 50 000 m 3 ), men utfylt areal på uberørt sjøbotn er rekna til 565 m 2 og tilseier eit «lite tiltak» (< 1000 m 2 ).",
+        "Miljørisikoanalysa vil omhandle det aktuelle utfyllingstiltaket (justert plan), med vurdering av risiko for spreiing av påviste miljøgifter i botnsediment og spreiing av finstoff frå sprengstein ved utfylling.",
+        "Effekt og konsekvens av utfylling for etablering av ny fylling blir vurdert, og om aktuelt – også med forslag til avbøtande tiltak.",
+        "ID FOKUSOMRÅDE POTENSIELLE RISIKOFAKTORAR A1 Utfylling i sjø og plastra front Oppvirvling av finstoff ved utfylling, med spreiing av miljøgifter A2 Utfylling i sjø og plastra front Støy, spreiing av finstoff til stortare, gyteområde for torsk o.",
+        "i sprengstein Spreiing av plastavfall til sjø frå sprengstein ved utfylling A4 Lagring og fylling av diesel Lekkasje av diesel til fyllingsområde, eller direkte til sjø A5 Gravemaskiner o.",
+        "ANALYSE AV POTENSIELLE FARER A1: SPREIING AV MILJØGIFTER VED UTFYLLING Miljøgifter over grenseverdi er påvist i sedimentprøver frå det planlagte utfyllingsområdet (prøve 3: flest overskridingar 12 stk, prøve 4: få overskridingar 5 stk, prøve 2: færrast overskridingar 4 stk) og dette sjøområdet kan dermed ikkje «friskmeldes».",
+        "Det vil dermed foreligge ein viss risiko for spreiing av miljøgifter ved at sediment vil gå i suspensjon i samband med utfylling av fyllmasse.",
+        "A2: SPREIING AV FINSTOFF VED UTFYLLING Som resultat av at sprengstein er produsert ved sprenging og knusing av fjell vil det også vere noko finstoff på overflata av slik stein.",
+        "Ved utfylling med sprengstein vil dette følge med og føre til at slikt finstoff blir spreia i utfyllingsområdet.",
+        "Når sprengstein ligg mellomlagra på land, i påvente av utfylling, vil mykje av finstoffet bli vaska vekk av nedbør.",
+        "A3: AVFALL I SPRENGSTEIN VED UTFYLLING I SJØ Ved sprenging av fjell vil det bli nytta sprenglegemer o.",
+        "A1 Risiko for spreiing av miljøgifter i sjø ved utfylling 2 2 4 Dekke sedimentområder med geotekstilduk før utfylling 1 1 1 A2 Risiko for spreiing av finstoff i sjø ved utfylling og plastra front 4 1 4 Bruk av siltgardin i heile perioden for utfylling og plastring 2 1 2 A3 Avfall i sprengstein 3 3 9 Manuell fjerning av plast o.",
+        "Absorbent ved uhell 1 3 4 A3: Analysa silseier størst miljørisiko (9) tilknytt uønska spreiing av avfall (plast) til sjø i samband med utfylling av sprengstein, herunder også plastring av front med stor stein.",
+        "Dersom entreprenør foku- serer på manuell rydding/rensking av plast frå sprengstein før utfylling kan sannsyn reduserast (frå 3 til 1) og miljørisiko kan reduserast til eit lågt og akseptabelt nivå (3).",
+        "Tildekking av områder med sediment før utfylling kan redusere miljørisiko ytterlegare (1).",
+        "Tildekking av sediment- områder med duk før utfylling vil truleg vere eit moderat kostbart avbøtande tiltak.",
+        "A2: Miljørisiko ved spreiing av finstoff frå sprengstein ved utfylling er også vurdert til moderat (4).",
+        "Kostbare av- bøtande tiltak med siltgardin og/eller kontinuerleg online turbiditetsmåling (med grenseverdi for stans i arbeid med utfylling) har dermed liten verdi og er ikkje hensiktsmessig ved dette tiltaket.",
+        "v) i samband med utfylling av sprengstein.",
+        "I samband med utfylling av fyllmasse vil det foreligge risiko for spreiing av miljøgifter ved at ureina sediment vil gå i suspensjon og spreie seg."
+      ],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": true,
+          "count": 1
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": true,
+          "count": 3
+        },
+        "utfylling": {
+          "found": true,
+          "count": 36
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 112,
+    "county": "vestland",
+    "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/8faabfea6fbf4a0c9708f579d0e7b46f/vedtekne-foresegener.pdf",
+    "pageTitle": "Høyringar | Statsforvaltaren i Vestland",
+    "pageHeader": "Høyringar",
+    "summary": "iVest Consult AS søkjer på vegne av Julnes Eigedom AS om løyve etter forureiningslova til anleggsarbeid i sjø for å utvide industriområde på Botnastrand i Kinn kommune.",
     "createdDate": null,
-    "høringsfrist": "2024-11-25T22:59:00.000Z",
+    "høringsfrist": "2025-01-13T22:00:00.000Z",
     "pdfData": {
       "m2m3": [],
       "mudring": [],
@@ -7631,9 +8036,12 @@
       "sjøarbeid": [],
       "utdyping": [],
       "tildekking": [
-        "Både komprimeringsgrad og frekvens på tildekking av avfall må tilpasses avfallstype med hensyn på risiko for miljøulemper, betydning for deponiets gassproduksjon og klimatiske forhold og konkretiseres i virksomhetens driftsrutiner."
+        "10 All sprenging under vatn skal skje med tildekking av boblegardin for å redusere trykkbølger."
       ],
-      "utfylling": [],
+      "utfylling": [
+        "11 Ved utfylling i sjø skal enten brukast oppsamlingskjørt/lenser eller vaska steinmassar for å redusere spreiing av finpartiklar.",
+        "Der tiltaket krev utfylling i sjø skal det kunne etablerast ordna steinmur med tiltalande utsjånad og tilpassa tilstøytande strandsone."
+      ],
       "dykking": [],
       "undervannsprenging": [],
       "wordsFound": {
@@ -7666,8 +8074,8 @@
           "count": 1
         },
         "utfylling": {
-          "found": false,
-          "count": 0
+          "found": true,
+          "count": 2
         },
         "dykking": {
           "found": false,
@@ -7681,16 +8089,16 @@
     }
   },
   {
-    "id": 107,
-    "county": "ostfold buskerud oslo og akershus",
-    "hoeringTitle": "Høring av søknad om tillatelse etter forurensingsloven til utslipp fra avløpsnett i Nannestad kommune",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2024/12/horing-av-soknad-om-tillatelse-etter-forurensingsloven-til-utslipp-fra-avlopsnett-i-nannestad-kommune/",
-    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-oslo-og-viken/miljo-og-klima/forurensning/nannestad-avlop/soknad-om-utslippstillatelse-for-avlopssystemet-til-nannestad-kommune-j04.pdf.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
-    "pageHeader": "Høringer",
-    "summary": "Statsforvalteren har mottatt søknad fra Nannestad kommune om tillatelse etter forurensningsloven til utslipp fra avløpsnett i tettbebyggelse i Nannestad kommune.",
-    "createdDate": "2024-03-15T09:48:20.000Z",
-    "høringsfrist": "2024-11-30T23:00:00.000Z",
+    "id": 113,
+    "county": "vestland",
+    "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/8faabfea6fbf4a0c9708f579d0e7b46f/b01-situasjonsplan.pdf.pdf",
+    "pageTitle": "Høyringar | Statsforvaltaren i Vestland",
+    "pageHeader": "Høyringar",
+    "summary": "iVest Consult AS søkjer på vegne av Julnes Eigedom AS om løyve etter forureiningslova til anleggsarbeid i sjø for å utvide industriområde på Botnastrand i Kinn kommune.",
+    "createdDate": "2024-07-17T13:47:44.000Z",
+    "høringsfrist": "2025-01-13T22:00:00.000Z",
     "pdfData": {
       "m2m3": [],
       "mudring": [],
@@ -7746,7 +8154,137 @@
     }
   },
   {
-    "id": 108,
+    "id": 114,
+    "county": "vestland",
+    "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/8faabfea6fbf4a0c9708f579d0e7b46f/u01-tverrprofil.pdf.pdf",
+    "pageTitle": "Høyringar | Statsforvaltaren i Vestland",
+    "pageHeader": "Høyringar",
+    "summary": "iVest Consult AS søkjer på vegne av Julnes Eigedom AS om løyve etter forureiningslova til anleggsarbeid i sjø for å utvide industriområde på Botnastrand i Kinn kommune.",
+    "createdDate": "2024-07-17T13:33:29.000Z",
+    "høringsfrist": "2025-01-13T22:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 115,
+    "county": "vestland",
+    "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/8faabfea6fbf4a0c9708f579d0e7b46f/u02-tverrprofil.pdf.pdf",
+    "pageTitle": "Høyringar | Statsforvaltaren i Vestland",
+    "pageHeader": "Høyringar",
+    "summary": "iVest Consult AS søkjer på vegne av Julnes Eigedom AS om løyve etter forureiningslova til anleggsarbeid i sjø for å utvide industriområde på Botnastrand i Kinn kommune.",
+    "createdDate": "2024-07-17T13:35:04.000Z",
+    "høringsfrist": "2025-01-13T22:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 116,
     "county": "ostfold buskerud oslo og akershus",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring i Steinsfjorden ved Pålsrud i Ringerike kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2024/12/horing-av-soknad-om-tillatelse-til-mudring-i-steinsfjorden-ved-palsrud-i-ringerike-kommune/",
@@ -7824,7 +8362,7 @@
     }
   },
   {
-    "id": 109,
+    "id": 117,
     "county": "ostfold buskerud oslo og akershus",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring i Steinsfjorden ved Pålsrud i Ringerike kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2024/12/horing-av-soknad-om-tillatelse-til-mudring-i-steinsfjorden-ved-palsrud-i-ringerike-kommune/",
@@ -7866,6 +8404,495 @@
         "mudring": {
           "found": true,
           "count": 10
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 118,
+    "county": "ostfold buskerud oslo og akershus",
+    "hoeringTitle": "Høring av søknad om tillatelse etter forurensningsloven til mudring og utfylling i Bekkelagsbassenget i forbindelse med oppgradering av Kneppeskjær øst - Oslo kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2024/12/horing-av-soknad-om-tillatelse-etter-forurensningsloven-til-mudring-og-utfylling-i-bekkelagsbassenget-i-forbindelse-med-oppgradering-av-kneppeskjar-ost---oslo-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-oslo-og-viken/miljo-og-klima/forurensning/kneppeskjar/kneppeskjar-soknad.pdf",
+    "pageTitle": "Høringer | Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+    "pageHeader": "Høringer",
+    "summary": "Oslo Havn KS har søkt Statsforvalteren om tillatelse etter forurensningsloven til mudring og utfylling i Bekkelagsbassenget i Oslo kommune, i forbindelse med oppgradering av Kneppeskjær øst.",
+    "createdDate": "2024-12-02T09:42:18.000Z",
+    "høringsfrist": "2024-12-22T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [
+        "26 500 m³ masser i indre havnebasseng, mellom Kneppeskjær kai øst og Søndre Bekkelagskai for å oppnå ønsket seilingsdybde.",
+        "18 000 m 3 og 8 500 m³ (fast fjell) og omfatter et areal på ca.",
+        "11 700 m³ løsmasser bak spunt og ca.",
+        "7 300 m³ løsmasser under kai (eksisterende steinfylling) og midlertidig fjerning av ca.",
+        "10 400 m³ (eksisterende plastring).",
+        "18 000 m³ masser fra indre del av havnebassenget • Sprengningsarbeider.",
+        "8 500 m³ fjell sprenges ut fra indre del av havnebassenget • Utfylling av ca.",
+        "11 000 m³ i området ved eksisterende rampe sør for å redusere nødvendig bredde på kaidekket, samt for å ombruke overskuddsmasser/stein fra sprengningsarbeider.",
+        "1 200 m³.",
+        "• Plastring av fyllinger ved gjenbruk av masser, antatt volum 10 400 m³.",
+        "300.000 m²)? utenfor Kongshavn og Sjursøya er grunnere enn 20 m og er derfor potensielt utsatt for propellerosjon fra skip som går til og fra kai.",
+        "- > Figur 2: Planlagt situasjon Tiltaksområdet er på ca 9700 m² og består av kaianlegg.",
+        "Det er planlagt å gjenoppbygge deler av kaianlegget i tillegg til å bygge ut ca 2940 m² pelekai og rampe.",
+        "Vi har sett på overvannsmengder for hele tiltaket inkludert ny pelekai og rampe, på 9970 m² og pelekai og rampe på 2940 m² for seg.",
+        "Ved 10 minutts varighet gir det følgende avrenning: • Hele tiltaksområdet 9970 m² gir avrenning 332 l/s • Kun nytt areal på 2940 m² gir avrenning 98 l/s."
+      ],
+      "mudring": [
+        "no Statsforvalteren i Oslo og Viken Postboks 325 1502 Moss Oppgradering Kneppeskjær kai øst - Søknad om tillatelse Oslo Havn KF søker om tillatelse til mudring og sprenging i sjø i forbindelse med planlagt oppgradering av Kneppeskjær kai øst.",
+        "no Kopi til Plan- og bygningsetaten Vedlegg 14_Uttalelse VAV 15_Miljøprogram Sydhavna_COWI 16_Blindskjærbåen Kystverket sørøst - boblegardin og sprenging 17_Overvann Kneppeskjær kai øst_Olav Olsen AS Statsforvalteren i Oslo og Viken 1 Skjema for søknad om mudring, dumping og utfylling i sjø og vassdrag Skjemaet sendes elektronisk til Statsforvalteren i Oslo og Viken, sfovpost@statsforvalteren.",
+        ": e-post: 2 Beskrivelse av tiltaket ved mudring a Type tiltak b Lokalisering Mudring fra land Kommune: Oslo Kommune Mudring fra fartøy (lekter, båt) x Stedsnavn: Kneppeskjær øst Gnr/bnr: 235/11 Koordinater (UTM): N:6639961, Ø:598742 Legg ved kart i målestokk 1:50.",
+        "d Mengde som skal mudres (oppgi også usikkerhet): På sjøbunn (mudring og sprengning) 26 500 m 3 + 2 650 m 3 Graving under og bak eksisterende kaier 15 500 m 3 + 1 550 m 3 e Areal som berøres av tiltaket (vises også i kart): 7 300 m 2 ± 730 m 2 (på sjøbunn) f Mudringsdybde (hvor dypt ned i sedimentet det skal mudres/til hvilken kotehøyde): 7 m g Vanndyp før tiltak 5,5 m h Tiltaksmetode: Gravemaskin, bakgraver x Grabbmudring x Sugemudring Sprengning x Peling x Boring Annet forklar: Analyser (sett kryss): Kvikksølv (Hg) x Nikkel (Ni) x Totalt organisk karbon (TOC) x Bly (Pb) x TBT x Tørrstoff x Kobber (Cu) x PAH x Kornfordeling x Krom (Cr) x PCB x Annet (angi nedenfor) Kadmium (Cd) x Brommerte (PBDE, HBSD) Sink (Zn) x Perfluorerte (PFOS) Sedimentenes sammensetning (angi %): i Prøvetaking av sedimentene på mudringslokalitet (analyserapport vedlegges søknaden) Grus: 11,2-76,6 Skjellsand: Leire: Sand: 22,7-88,1 Silt: 0,7-1,3 Annet: Statsforvalteren i Oslo og Viken 3 j Beskriv planlagte tiltak for å hindre/redusere forurensning: - Under tiltakets vil det være bruk av boblegardin for å forhindre partikkelspredning.",
+        "2 Mudring og sprengning .",
+        "Det valgte løsningsalternativet med sammenhengende kailinje som ligger til grunn for byggesøknaden, innebærer utdyping v/mudring og sprengning ned til minimum kote -13,24 (relatert til NN2000) i indre havnebasseng.",
+        "Basert på sonderingene konkluderes det med at mudring til kote -13.",
+        "2 Mudring og sprengning Som følge av behovet for økt seilingsdybde ved de nye kaiene er det behov for å gjøre mudringsarbeid i de indre delene av havnebassenget.",
+        "Utstrekning av området som må mudres er vist i Figur 7-3 Figur 7-3 Mudring i indre deler av havnebassenget, planum -13.",
+        "Det er usikkert om det ble utført noen mudring i området, siden det ble valgt løsning med spunt istedenfor fylling og åpen pelekai i dette området.",
+        "Utdypingen skal utføres ved mudring og sprengning.",
+        "Denne rapporten danner grunnlag for søknad til Statsforvalteren i Oslo og Viken om tillatelse til mudring, sprengning og utlegging av masser i sjø.",
+        "2 Søknaden gjelder Oslo Havn KF søker om tillatelse til mudring, sprengning og utfylling i sjø i forbindelse med planlagt oppgradering av eksisterende spunt- og pelekai ved Kneppeskjær øst.",
+        "Løsningen som er utarbeidet i forprosjektet omfatter sprengning og mudring av til sammen ca.",
+        "Utdypingsareal (mudring og sprengning) utenfor kai er markert med oransje farge.",
+        "00 7 Figur 1-3 Mudring i indre deler av havnebassenget, planum -13.",
+        "Mudring av ca.",
+        "3 Tidligere sedimentundersøkelser i eller i nærheten av tiltaksområdet Rambøll, 2008 Secora utførte mudring av sjøsedimentene utenfor Kneppeskjær i 2008, på oppdrag fra HAV, i forbindelse med prosjektet Ren Oslofjord.",
+        "Rambøll utførte mudringskontroll for å undersøke tilstanden i overflatesedimentene etter mudring (Rambøll, 2009 [1]).",
+        "00 13 Figur 2-4 Utsnitt fra kart som viser plassering av prøvepunkter (Rambøll, 2009 [1]) Tabell 2-1 Analyseresultater av overflatesediment etter mudring (Rambøll, 2009 [1]).",
+        "Omtrentlig areal hvor det søkes om mudring og sprengning er vist med grønn skravur.",
+        "7 MILJØRISIKO I TILTAKSFASEN Ved mudring og sprengning på sjøbunnen utenfor Kneppeskjør Øst vil det være en risiko for spredning av forurensede partikler.",
+        "Det kreves søknad om tillatelse etter forurensningsloven til mudring og sprengning i sjø og i den forbindelse er det utført en prøvetaking av sjøbunnen i området for å dokumentere miljøtilstanden.",
+        "Utdypingen skal utføres som kombinasjon av mudring og sprengning.",
+        "Ved tiltak på sjøbunnen i form av sprengning og mudring vil miljørisikoen hovedsakelig være knyttet til en midlertidig økning av partikkelkonsentrasjon (turbiditet) i vannet.",
+        "Revisjon: Godkjent av: 13455-OO-RIM-N-001 00 Hege Mentzoni Grønning Sak: I forbindelse med planlagt restaurering og utvidelse av kaien ved Kneppeskjær øst vil det være behov for mudring og utfylling i sjø.",
+        "I den forbindelse planlegger Oslo Havn KF å gjennomføre mudring, sprengning og utfylling i sjø ved Kneppeskjær øst, og har søkt Plan- og bygningsetaten (Oslo kommune) og Statsforvalteren i Oslo og Viken om nødvendige tillatelser til å gjennomføre tiltakene i sjø.",
+        "Løsningen som er utarbeidet i forprosjektet omfatter sprengning og mudring av til sammen ca.",
+        "Utover dette er det gjennom denne undersøkelsen ikke registrert noen spesielt hensynskrevende marine naturtyper i det planlagte tiltaksområdet for kaiutvidelse, kairestaurering og mudring ved Kneppeskjær øst.",
+        "Forprosjekt viser et behov for sprengning og mudring av til sammen ca.",
+        "Oslo Havn vil derfor søke om tillatelse til mudring, sprengning og utfylling i sjø i forbindelse med planlagt oppgradering av eksisterende spunt- og pelekai ved Kneppeskjær kai Øst.",
+        "Det samlede tiltaket er utarbeidet i et forprosjekt, og omfatter sprengning og mudring av til sammen ca.",
+        "Figur 4 Mudring i indre deler av havnebassenget, planum -13.",
+        "• Mudring av ca.",
+        "Det planlegges mudring og noe fjell må sprenges.",
+        "Forurenset sjøbunn er fjernet med mudring, og tas slik ut av sirkulasjon fra vannmassene.",
+        "2 Forurenset sediment Relevant krav og miljømål: - Mindre forurenset sediment som kan virvles opp av skipspropeller - Mudring, tildekking og andre aktiviteter på eller nær bunnen skal ikke medføre spredning av forurenset sediment Sjøbunnen i området er forurenset med ulike miljøgifter som stammer fra nærliggende arealer og tidligere aktivitet.",
+        "Driftsfasen: Under mudring skal mudringsmasser blandes med sand eller annet blandingsmateriale for å forhindre avrenning under transport til ev.",
+        "Skulle det bli gjort funn av kulturminner under mudring skal dette dokumenteres til Byantikvaren.",
+        "17 Mudring Spredning av forurensning Manglende kunnskap og rutiner for utførelse av mudring Spredning av forurenset sjøbunn Følges opp i MOP Forurensningsloven, Vannforskriften 5 4 Skadereduserende tiltak står beskrevet i konsekvensutredninge n for fagområdet.",
+        "3 3 Byggherre v/Oslo havn og entreprenø r 18 Mudring Spredning av partikler Manglende kunnskap og rutiner for utførelse av mudring Tap av lokalt naturmangfold og bunnlevende organismer.",
+        "1 3 Byggherre v/Oslo havn og entreprenø r 19 Mudring og massehåndtering Spredning av fremmede arter Manglende kartlegging, manglende rutiner og kunnskap Spredning av fremmede arter i sjø eller på land Følges opp i MOP Avfallsforskriften, Naturmangfoldloven 3 3 Kartlegging av fremmede arter før oppstart.",
+        "Hendelsene knyttet til riving av kai, mudring, sprengning og bygging av ny kai gjelder alternativ 1.",
+        "Det forventes at menneskelig aktivitet vil skremme bort fuglen mens arbeidene pågår, samt at mudring, sprengning, peling og endring av sjødyp midlertidig vil fjerne tilgjengelig næring for fugl i anleggsfasen.",
+        "Løsningen som er utarbeidet i et forprosjekt omfatter sprengning og mudring av til sammen ca.",
+        "Tiltaket med tilhørende planbeslutning i dette tilfellet er bygging av ny kai og mudring/sprengning i sjøområde for å øke seilingsdybden.",
+        "Konsekvensene av kaiutbygging, mudring, økt kapasitet og trafikk skal utredes.",
+        "12 KONSEKVENSUTREDNING DETALJREGULERING KNEPPESKJÆR KAI ØS T Løsningen som er utarbeidet i et forprosjekt omfatter sprengning og mudring av til sammen ca.",
+        "Tiltaket krever ikke mudring.",
+        "Mudring vil føre til spesielt stor spredning av finkornede partikler i vannet.",
+        "Ved mudring utraderes alt liv på bunnen.",
+        "Alternativet inkluderer riving av kai, mudring, sprengning, peling, utfylling i sjø i tillegg til etablering av ny kai.",
+        "Alternativet inkluderer arbeider med stort potensiale for forurensing og partikkelflukt som riving av kai, mudring, sprengning, peling, utfylling i sjø i tillegg til etablering av ny kai.",
+        "Hendelsene knyttet til riving av kai, mudring, sprengning og bygging av ny kai gjelder alternativ 1.",
+        "Det forventes at menneskelig aktivitet vil skremme bort fugl og pattedyr mens arbeidene pågår, samt at mudring, sprengning, peling og endring av sjødyp midlertidig vil fjerne tilgjengelig næring for fugl i anleggsfasen.",
+        "Aktivitet Uønsket hendelse Mulige årsaker Mulige konsekvenser Iboende barrierer S K Risiko Risikoreduserende tiltak/ skadekompenserende tiltak/ merknader S K Rest- risiko Ansvar / Oppfølging 17 Mudring Spredning av forurensning Manglende kunnskap og rutiner for utførelse av mudring Spredning av forurenset sjøbunn Følges opp i MOP 5 4 Skadereduserende tiltak står beskrevet i konsekvensutredningen for fagområdet.",
+        "3 3 Byggherre v/Oslo havn og entreprenør 18 Mudring Spredning av partikler Manglende kunnskap og rutiner for utførelse av mudring Tap av lokalt naturmangfold ogbunnlevende organismer.",
+        "1 3 Byggherre v/Oslo havn og entreprenør 19 Mudring og massehåndtering Spredning av fremmede arter Manglende kartlegging, manglende rutiner og kunnskap Spredning av fremmede arter i sjø eller på land Følges opp i MOP 3 3 Kartlegging av fremmede arter før oppstart.",
+        "De\u0000e omfa\u0000er rehabilitering/gjenoppbygging av eksisterende kaier, bygging av ny\u0000 kaiavsni\u0000 og rampe, samt mudring og sprengning i sjø for å oppnå bedre dybder.",
+        "Bymiljøetaten slutter seg til PBEs vurdering om natur og miljø: • At det sikres et forbud mot peling, sprenging og mudring i gyteperioden for torsk fra 1.",
+        "Det legges til rette for gjennomføring av sprenging og mudring i sjø.",
+        "På denne bakgrunn har vi følgende konkrete merknader knyttet til nasjonale og viktige regionale interesser innen våre ansvarsområder: Maritimt naturmangfold Mudring, sprengning og utfylling kan medføre fare for forurensning og krever tillatelse etter forurensningsloven § 11.",
+        "Det planlegges for en liten utvidelse av kaiområdet og mudring for å kunne ta imot større skip, i forbindelse med transport fra karbonfangstanlegget på Klemetsrud.",
+        "Det vil også være behov for mudring med tanke på tilstrekkelige dybder for skip.",
+        "Det vil være behov for mudring.",
+        "I anleggsfasen estimeres det at utbyggingen vil gi \"alvorlig miljøskade\" som følge av mudring, utfylling og peling, samt oppvirvling av forurenset sediment som følge av skipstrafikk.",
+        "2 Beskrivelse virkning av tiltaket Konsekvensutredningene for geoteknikk (COWI, 2022f, COWI, 2022o), samt natur- og miljø (COWI, 2022a, COWI, 2022i) beskriver behov for mudring og utfylling som vil kreve frakt av masser i anleggsfasen.",
+        "Tiltaket omfatter utdyping av 24 grunner, og det er tidligere utarbeidet en konsekvensutredning for prosjektet, og tillatelse til mudring på vilkår er gitt av Fylkesmannen i Oslo og Akershus i brev av 18.",
+        "Ved mudring og sprengning antas det derfor at noe spredning av forurensede masser vil kunne forekomme.",
+        "Tiltaket overvåkes med to turbiditetsmålere i tillegg til at gyteområdet for fisk blir skjermet med siltskjørt under mudring og boblegardin under sprengning.",
+        "Tillatelse til mudring på vilkår er gitt av Fylkesmannen i Oslo og Akershus i brev av 18.",
+        "Av hensyn til naturressurser og friluftsliv har Fylkesmannen satt krav om når mudring kan pågå.",
+        "9 i den endrede tillatelsen er mudring ved Grunne 22 ikke tillatt i perioden fra 15.",
+        "5Overvåkning og forundersøkelser Siltskjørt og boblegardin Det skal etableres et siltskjørt mellom gyteområdet i sør og utdypingsområdet ved Grunne 22 før mudring.",
+        "Det vil bli benyttet siltskjørt ved mudring og boblegardin ved sprengning mellom utdypingsområdet og gyteområdet i sør.",
+        "Løsmassene vil bli forsøkt mudret opp før sprengning, og det vil bli etablert et siltskjørt mellom gyteområdet og Grunne 22 før mudring."
+      ],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [
+        "Det valgte løsningsalternativet med sammenhengende kailinje som ligger til grunn for byggesøknaden, innebærer utdyping v/mudring og sprengning ned til minimum kote -13,24 (relatert til NN2000) i indre havnebasseng.",
+        "Det planlegges i forbindelse med oppgraderingen en utdyping i sjø for å øke seilingsdypet utenfor kaien.",
+        "Det planlegges i forbindelse med oppgraderingen en utdyping i sjø for å øke seilingsdypet utenfor kaien.",
+        "For deler av sjøarealet er det nødvendig å foreta en utdyping for å sikre tilstrekkelig seilingsdybde for større skip.",
+        "For deler av sjøarealet er det nødvendig å foreta en utdyping for å sikre tilstrekkelig seilingsdybde for større skip.",
+        "Oppdragsgiver ønsker supplerende bergpåvisninger for å redusere risiko i forbindelse med utdyping i den nordlige delen av området.",
+        "Oppdragsgiver ønsker grunnundersøkelser og bergpåvisning for å redusere risiko i forbindelse med utdyping i den nordlige delen av området.",
+        "Tiltaket omfatter utdyping av 24 grunner, og det er tidligere utarbeidet en konsekvensutredning for prosjektet, og tillatelse til mudring på vilkår er gitt av Fylkesmannen i Oslo og Akershus i brev av 18.",
+        "Tiltaket omfatter utdyping av totalt 24 grunner, og det er tidligere utarbeidet en konsekvensutredning for prosjektet (Norconsult-rapport 5142248-D02, rev."
+      ],
+      "tildekking": [
+        "2 Forurenset sediment Relevant krav og miljømål: - Mindre forurenset sediment som kan virvles opp av skipspropeller - Mudring, tildekking og andre aktiviteter på eller nær bunnen skal ikke medføre spredning av forurenset sediment Sjøbunnen i området er forurenset med ulike miljøgifter som stammer fra nærliggende arealer og tidligere aktivitet.",
+        "tildekking.",
+        "benytte tildekking med stabile masser som kan motstå erosjon fra skipspropeller og utfyllingen bør konstrueres slik at de forbedrer levevilkår for bunnlevende dyr.",
+        "Spredningen vil imidlertid bli mindre etter en tildekking, enn før tildekking.",
+        "benytte tildekking med stabile masser som kan motstå erosjon fra skipspropeller og utfyllingen bør konstrueres slik at de forbedrer levevilkår for bunnlevende dyr.",
+        "• Ålegrasenger og forekomster av flatøsters skal ikke påvirkes negativt av tildekking av sjøbunnen eller nedslamming fra anleggsarbeid."
+      ],
+      "utfylling": [
+        "no Kopi til Plan- og bygningsetaten Vedlegg 14_Uttalelse VAV 15_Miljøprogram Sydhavna_COWI 16_Blindskjærbåen Kystverket sørøst - boblegardin og sprenging 17_Overvann Kneppeskjær kai øst_Olav Olsen AS Statsforvalteren i Oslo og Viken 1 Skjema for søknad om mudring, dumping og utfylling i sjø og vassdrag Skjemaet sendes elektronisk til Statsforvalteren i Oslo og Viken, sfovpost@statsforvalteren.",
+        "naboer: Eier: Gnr: Bnr: Oslo Havn KF 235 11 Statsforvalteren i Oslo og Viken 4 3 Beskrivelse av tiltaket ved utfylling/dumping a Type tiltak b Lokalisering Dumping fra land x Kommune: Oslo Dumping fra fartøy (lekter, båt) x Stedsnavn: Kneppeskjær øst Utfylling x Gnr/bnr: 235/11 Koordinater UTM: N:6639961, Ø:598742 Legg ved kart i målestokk 1:50.",
+        "c Beskriv formålet med utfyllingen eller dumpingen: Støttefylling for ny kaikonstruksjon d Mengde som skal fylles ut/dumpes (oppgi også usikkerhet): 12 200 m 3 ± 1 220 m 3 e Areal som berøres av tiltaket (vises også i kart): 3 700 m 2 ± 370 m 2 f Høyde på utfylling (snitt av utfyllingen skal vises på kart): 36,4 m g 1) Prøvetaking av sedimenter i området der hvor det skal fylles ut eller dumpes (analyserapport vedlegges søknaden): Analyser (sett kryss): Kvikksølv (Hg) x Nikkel (Ni) x Totalt organisk karbon (TOC) x Bly (Pb) x TBT x Tørrstoff x Kobber (Cu) x PAH x Kornfordeling x Krom (Cr) x PCB x Annet (angi nedenfor) Kadmium (Cd) x Brommerte (PBDE, HBSD) Sink (Zn) x Perfluorerte (PFOS) Sedimentenes/massenes sammensetning (angi %): Grus: 11,2-76,6 Skjellsand: Leire: Sand: 22,7-88,1 Silt: 0,7-1,3 Annet: Statsforvalteren i Oslo og Viken 5 2) Prøvetaking av masser som skal fylles eller dumpes (analyserapport vedlegges søknaden): Analyser (sett kryss): Kvikksølv (Hg) x Nikkel (Ni) x Totalt organisk karbon (TOC) x Bly (Pb) x TBT x Tørrstoff x Kobber (Cu) x PAH x Kornfordeling x Krom (Cr) x PCB x Annet (angi nedenfor) Kadmium (Cd) x Brommerte (PBDE, HBSD) Sedimentenes/massenes sammensetning (angi %): Grus: 11,2-76,6 Skjellsand: Leire: Sand: 22,7-88,1 Silt: 0,7-1,3 Annet: h Beskriv avbøtende tiltak for å hindre/redusere forurensning: - Under tiltakets vil det være bruk av boblegardin for å forhindre partikkelspredning.",
+        "6 Fylling bak nye kaier Som følge av at det planlegges med en sammenhengende kailinje er det behov for å gjøre utfylling i området ved eksisterende rampe sør.",
+        "2 Søknaden gjelder Oslo Havn KF søker om tillatelse til mudring, sprengning og utfylling i sjø i forbindelse med planlagt oppgradering av eksisterende spunt- og pelekai ved Kneppeskjær øst.",
+        "Utfylling av ca.",
+        "Revisjon: Godkjent av: 13455-OO-RIM-N-001 00 Hege Mentzoni Grønning Sak: I forbindelse med planlagt restaurering og utvidelse av kaien ved Kneppeskjær øst vil det være behov for mudring og utfylling i sjø.",
+        "I den forbindelse planlegger Oslo Havn KF å gjennomføre mudring, sprengning og utfylling i sjø ved Kneppeskjær øst, og har søkt Plan- og bygningsetaten (Oslo kommune) og Statsforvalteren i Oslo og Viken om nødvendige tillatelser til å gjennomføre tiltakene i sjø.",
+        "Oslo Havn vil derfor søke om tillatelse til mudring, sprengning og utfylling i sjø i forbindelse med planlagt oppgradering av eksisterende spunt- og pelekai ved Kneppeskjær kai Øst.",
+        "8 500 m³ fjell sprenges ut fra indre del av havnebassenget • Utfylling av ca.",
+        "- Ved utfylling må det benyttes rene masser, frie for plast og sprengstoffrester.",
+        "Prosjektet vil ha diverse masser og stein som skal sorteres og brukes til utfylling, samt andre materialer som betong og asfalt.",
+        "26 Utfylling i sjø Tilføring av forurensning (plast og sprengstoffrester ) Sprengstein som inneholder plast Spredning av forurensing Følges opp i MOP Veileder M-1085 om sprengstein i sjø 4 2 Skadereduserende tiltak står beskrevet i konsekvensutredninge n for fagområdet.",
+        "3 2 Byggherre v/Oslo havn og entreprenø r 27 Utfylling i sjø Utslipp i vann Ukontrollert utfylling i sjø Negativ påvirkning eller tap av biologisk mangfold.",
+        "Alternativet inkluderer riving av kai, mudring, sprengning, peling, utfylling i sjø i tillegg til etablering av ny kai.",
+        "Alternativet inkluderer arbeider med stort potensiale for forurensing og partikkelflukt som riving av kai, mudring, sprengning, peling, utfylling i sjø i tillegg til etablering av ny kai.",
+        "Risikoene knyttet til riving av kai, mudr ing, sprengning, utfylling og etab lering av ny kai er knyttet ti l alternativ 1.",
+        "2 2 Byggherre v/Oslo havn og entreprenør 26 Utfylling i sjø Tilføring av forurensning (plast og sprengstoffrester) Sprengstein som inneholder plast Spredning av forurensing Veileder M-1085 om sprengstein i sjø Følges opp i MOP 4 2 Skadereduserende tiltak står beskrevet i konsekvensutredningen for fagområdet.",
+        "Aktivitet Uønsket hendelse Mulige årsaker Mulige konsekvenser Iboende barrierer S K Risiko Risikoreduserende tiltak/ skadekompenserende tiltak/ merknader S K Rest- risiko Ansvar / Oppfølging 27 Utfylling i sjø Utslipp i vann Ukontrollert utfylling i sjø Negativ påvirkning eller tap av biologisk mangfold.",
+        "Bekkelagskaiene ligger som en flat utfylling foran fjellskråningen på vestsiden av Nordstrandplatået.",
+        "En større fjellkolle, Bekkelagskollen, ble sprengt bort på 1970-tallet og ga steinmasser til utfylling av Kneppeskjærutstikkeren.",
+        "På denne bakgrunn har vi følgende konkrete merknader knyttet til nasjonale og viktige regionale interesser innen våre ansvarsområder: Maritimt naturmangfold Mudring, sprengning og utfylling kan medføre fare for forurensning og krever tillatelse etter forurensningsloven § 11.",
+        "› Stabilisering av grunn ved utfylling.",
+        "Figur 2 Illustrasjon som viser planlagt mulig utfylling, bebyggelse, samt kaikant med dagens regulering ved Sjursøya, sett fra Ekebergskråningen.",
+        "Figur 4 Planlagt utfylling av Sjursøybassenget med kaifront utenfor.",
+        "3 Alt 1B inkludert tidligere regulering begge Alternativ 1B innebærer utfylling av både Sjursøybassenget og Kongshavnbukta, samt tidligere regulerte utfyllinger på Sjursøya og Kongshavn (reguleringsplan 2009).",
+        "I anleggsfasen estimeres det at utbyggingen vil gi \"alvorlig miljøskade\" som følge av mudring, utfylling og peling, samt oppvirvling av forurenset sediment som følge av skipstrafikk.",
+        "2 Beskrivelse virkning av tiltaket Konsekvensutredningene for geoteknikk (COWI, 2022f, COWI, 2022o), samt natur- og miljø (COWI, 2022a, COWI, 2022i) beskriver behov for mudring og utfylling som vil kreve frakt av masser i anleggsfasen.",
+        "Kvalitetsprogram for detaljregulering utfylling Sjursøybassenget.",
+        "Kvalitetsprogram for detaljregulering utfylling Kongshavnbukta."
+      ],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": true,
+          "count": 82
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": true,
+          "count": 9
+        },
+        "tildekking": {
+          "found": true,
+          "count": 7
+        },
+        "utfylling": {
+          "found": true,
+          "count": 33
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 119,
+    "county": "ostfold buskerud oslo og akershus",
+    "hoeringTitle": "Høring av søknad om tillatelse etter forurensningsloven til utfylling og fysiske tiltak i sjø ved Bjørvika i Oslo kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2025/01/horing-av-soknad-om-tillatelse-etter-forurensningsloven-til-utfylling-og-fysiske-tiltak-i-sjo-ved-bjorvika-i-oslo-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-oslo-og-viken/horinger-og-kunngjoringer/utfylling-i-sjo---bjorvika-skole/soknadsskjema-for-soknad-om-mudring-dumping-og-utfylling-versjon-001.pdf.pdf",
+    "pageTitle": "Høringer | Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+    "pageHeader": "Høringer",
+    "summary": "Oslobygg KF har søkt om tillatelse etter forurensningsloven til utfylling og andre fysiske tiltak i sjø i forbindelse med bygging av Bjørvika skole i Oslo kommune.",
+    "createdDate": "2024-11-12T14:23:16.000Z",
+    "høringsfrist": "2025-01-05T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [
+        "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus 1 Skjema for søknad om mudring, dumping og utfylling i sjø og vassdrag Skjemaet sendes elektronisk til Statsforvalteren i Østfold, Buskerud, Oslo og Akershus, sfospost@statsforvalteren.",
+        "3 Type tiltak Mudring Fyll ut del A Dumping / utfylling (inkl.",
+        "sandstrender) Fyll ut del B DEL A Mudring Beskrivelse av tiltaket a Type tiltak b Lokalisering Mudring fra land Kommune: Mudring fra fartøy (lekter, båt) Stedsnavn: Gnr/bnr: Koordinater (UTM): Legg ved kart i målestokk 1:50."
+      ],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [
+        "Statsforvalteren i Østfold, Buskerud, Oslo og Akershus 1 Skjema for søknad om mudring, dumping og utfylling i sjø og vassdrag Skjemaet sendes elektronisk til Statsforvalteren i Østfold, Buskerud, Oslo og Akershus, sfospost@statsforvalteren.",
+        "3 Type tiltak Mudring Fyll ut del A Dumping / utfylling (inkl.",
+        "naboer: Eier: Gnr: Bnr: Statsforvalteren i Østfold, Buskerud, Oslo og Akershus 4 DEL B Dumping og utfylling Beskrivelse av tiltaket A Type tiltak b Lokalisering Dumping fra land Kommune: Oslo Dumping fra fartøy (lekter, båt) Stedsnavn: Bjørvika Utfylling Gnr/bnr: 234/111/ 0/0 Koordinater UTM: 6641892, 7N 598233,3 Ø Legg ved kart i målestokk 1:50.",
+        "d Mengde som skal fylles ut/dumpes (oppgi også usikkerhet): 250 m 3 ± 25 m 3 e Areal som berøres av tiltaket (vises også i kart): 165 m 2 ± 10 m 2 f Høyde på utfylling (snitt av utfyllingen skal vises på kart): 1,2 m g 1) Prøvetaking av sedimenter i området der hvor det skal fylles ut eller dumpes (analyserapport vedlegges søknaden): Analyser (sett kryss): Kvikksølv (Hg) Nikkel (Ni) Totalt organisk karbon (TOC) Bly (Pb) TBT Tørrstoff Statsforvalteren i Østfold, Buskerud, Oslo og Akershus 5 Kobber (Cu) PAH Kornfordeling Krom (Cr) PCB Annet (angi nedenfor) Kadmiu m (Cd) Brommerte (PBDE, HBSD) Sink (Zn) Perfluorerte (PFOS) Sedimentenes/massenes sammensetning (angi %): Grus: Skjellsand: Leire: Sand: Silt: Annet: 2) Prøvetaking av masser som skal benyttes til dumping eller utfylling (analyserapport vedlegges søknaden): Analyser (sett kryss): Kvikksøl v (Hg) Nikkel (Ni) Totalt organisk karbon (TOC) Bly (Pb) TBT Tørrstoff Kobber (Cu) PAH Kornfordelin g Krom (Cr) PCB Annet (angi nedenfor) Kadmiu m (Cd) Brommerte (PBDE, HBSD) Sedimentenes/massenes sammensetning (angi %): Grus: Skjellsand: Leire: Sand: Silt: Annet: h Beskriv avbøtende tiltak for å hindre/redusere forurensning: Rene tilkjørte masser i Tidsperiode for gjennomføring av tiltak (Legg ved en tidsplan for gjennomføringen): 01."
+      ],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": true,
+          "count": 5
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": true,
+          "count": 6
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 120,
+    "county": "ostfold buskerud oslo og akershus",
+    "hoeringTitle": "Høring av søknad om tillatelse etter forurensningsloven til utfylling og fysiske tiltak i sjø ved Bjørvika i Oslo kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2025/01/horing-av-soknad-om-tillatelse-etter-forurensningsloven-til-utfylling-og-fysiske-tiltak-i-sjo-ved-bjorvika-i-oslo-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-oslo-og-viken/horinger-og-kunngjoringer/utfylling-i-sjo---bjorvika-skole/vedlegg-3-utfyllende-informasjon-versjon-001.pdf.pdf",
+    "pageTitle": "Høringer | Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+    "pageHeader": "Høringer",
+    "summary": "Oslobygg KF har søkt om tillatelse etter forurensningsloven til utfylling og andre fysiske tiltak i sjø i forbindelse med bygging av Bjørvika skole i Oslo kommune.",
+    "createdDate": "2024-11-12T15:09:49.000Z",
+    "høringsfrist": "2025-01-05T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [
+        "hedda Beregnet til Statsforvalteren i Østfold, Buskerud, Oslo og Akershus Dokumenttype Vedlegg til søknad Dato November, 2024 Søknad om tillatelse til utfylling i sjø i Bjørvika Oslobygg KF Rambøll Norge AS NO 915 251 293 MVA Versjon 001 Rambøll Kobbes gate 2 PB 9420 Torgarden N-7493 Trondheim T +47 73 84 10 00 https://no.",
+        "com Søknad om tillatelse til utfylling i sjø i Bjørvika Oslobygg KF Oppdragsnavn Søknad om tillatelse til midlertidig utfylling i sjø, i Bjørvika Prosjekt nr.",
+        "2024 Utført av Hedda Førde Kontrollert av Embla Østebrøt Godkjent av Kristin Møller Gabrielsen Beskrivelse Vedlegg til søknad om tillatelse til utfylling i sjø Rambøll – Søknad om tillatelse til utfylling i sjø i Bjørvika Versjon 001 1/8 Innholdsfortegnelse 1.",
+        "3 Utfylling i sjø 3 2.",
+        "Referanser 8 Rambøll – Søknad om tillatelse til utfylling i sjø i Bjørvika Versjon 001 2/8 1.",
+        "Dette vil da inkludere midlertidig utfylling i en 2 m dyp kanal, over et areal på ca 165 m 2 (Figur 2).",
+        "Rambøll – Søknad om tillatelse til utfylling i sjø i Bjørvika Versjon 001 3/8 1.",
+        "3 Utfylling i sjø Arbeidet skal foregå fra februar 2025 til desember 2025.",
+        "Rambøll – Søknad om tillatelse til utfylling i sjø i Bjørvika Versjon 001 4/8 2.",
+        "Rambøll – Søknad om tillatelse til utfylling i sjø i Bjørvika Versjon 001 5/8 Figur 4: Snitt av kanalen i 2015, med fordeling av fyllmasser.",
+        "Rambøll – Søknad om tillatelse til utfylling i sjø i Bjørvika Versjon 001 6/8 3.",
+        "I denne perioden er gytefeltet også sårbart Rambøll – Søknad om tillatelse til utfylling i sjø i Bjørvika Versjon 001 7/8 mot spredning av lyd og partikler (10).",
+        "Rambøll – Søknad om tillatelse til utfylling i sjø i Bjørvika Versjon 001 8/8 5."
+      ],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": true,
+          "count": 15
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 121,
+    "county": "ostfold buskerud oslo og akershus",
+    "hoeringTitle": "Høring av søknad om tillatelse etter forurensningsloven til utfylling og fysiske tiltak i sjø ved Bjørvika i Oslo kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2025/01/horing-av-soknad-om-tillatelse-etter-forurensningsloven-til-utfylling-og-fysiske-tiltak-i-sjo-ved-bjorvika-i-oslo-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-oslo-og-viken/horinger-og-kunngjoringer/utfylling-i-sjo---bjorvika-skole/vedlegg-1-bjorvika-skole-1-1000.png.pdf",
+    "pageTitle": "Høringer | Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+    "pageHeader": "Høringer",
+    "summary": "Oslobygg KF har søkt om tillatelse etter forurensningsloven til utfylling og andre fysiske tiltak i sjø i forbindelse med bygging av Bjørvika skole i Oslo kommune.",
+    "createdDate": "2024-11-13T14:25:38.000Z",
+    "høringsfrist": "2025-01-05T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 122,
+    "county": "ostfold buskerud oslo og akershus",
+    "hoeringTitle": "Høring av søknad om tillatelse etter forurensningsloven til utfylling og fysiske tiltak i sjø ved Bjørvika i Oslo kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2025/01/horing-av-soknad-om-tillatelse-etter-forurensningsloven-til-utfylling-og-fysiske-tiltak-i-sjo-ved-bjorvika-i-oslo-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/siteassets/fm-oslo-og-viken/horinger-og-kunngjoringer/utfylling-i-sjo---bjorvika-skole/vedlegg-2-bjorvika-skole-1-50000.png.pdf",
+    "pageTitle": "Høringer | Statsforvalteren i Østfold, Buskerud, Oslo og Akershus",
+    "pageHeader": "Høringer",
+    "summary": "Oslobygg KF har søkt om tillatelse etter forurensningsloven til utfylling og andre fysiske tiltak i sjø i forbindelse med bygging av Bjørvika skole i Oslo kommune.",
+    "createdDate": "2024-11-13T14:25:41.000Z",
+    "høringsfrist": "2025-01-05T23:00:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
         },
         "molo": {
           "found": false,

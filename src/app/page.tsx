@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import { Button } from "../../@/components/ui/button";
-import LoginForm from "./login/page1";
 
 const HomePage = () => {
   return (
@@ -23,6 +22,16 @@ const HomePage = () => {
           asChild
         >
           <Link href="/norskeUtslipp">Tillatelser fra Norske Utslipp</Link>
+        </Button>
+
+        <p className="py-3"></p>
+
+        <Button
+          variant="outline"
+          className="bg-green-50 hover:bg-green-500 hover:text-white font-semibold"
+          asChild
+        >
+          <Link href="/havnemagasinet">Havnemagasinet</Link>
         </Button>
       </div>
     </div>

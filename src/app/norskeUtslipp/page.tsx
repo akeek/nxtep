@@ -1,5 +1,5 @@
 import { getInfo } from "../../lib/data";
-import { AuthGuard } from "../components/authGuard";
+import { AuthGuard } from "../components/AuthGuard";
 import { ClientComponent } from "../components/ClientComponents";
 
 export interface Item {

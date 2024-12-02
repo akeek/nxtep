@@ -246,6 +246,8 @@ async function scrapeAndParse(urls) {
   return results;
 }
 
+console.time("scrapeDuration");
+
 (async () => {
   const urls = [
     "https://www.statsforvalteren.no/nb/innlandet/horinger/",
@@ -260,4 +262,5 @@ async function scrapeAndParse(urls) {
   ];
   const results = await scrapeAndParse(urls);
   await saveToFile(path.join(publicDir, "statsforvalteren1.json"), results);
+  console.timeEnd("scrapeDuration");
 })();

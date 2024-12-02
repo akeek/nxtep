@@ -32,3 +32,16 @@ export const getInfo = async () => {
 
   return z.array(info).parse(preprocessedData);
 };
+
+type HavnemagasinetItem = {
+  link: string;
+  storytitle: string;
+};
+
+export const getHavnemagasinet = async () => {
+  const data = await fetch("havnemagasinet.json")
+    .then((res) => res.json())
+    .then((res) => res as HavnemagasinetItem[]);
+
+  return data;
+};

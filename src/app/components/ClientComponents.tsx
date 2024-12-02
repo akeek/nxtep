@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { UtslippCard } from "./ustlippCard";
+import { UtslippCard } from "./UstlippCard";
 import { Item } from "../norskeUtslipp/page";
 
 export function ClientComponent({
