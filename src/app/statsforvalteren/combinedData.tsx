@@ -149,7 +149,7 @@ const CombinedData: React.FC = () => {
           <h2 className="text-3xl font-semibold pb-3 text-center">
             {county.charAt(0).toUpperCase() + county.slice(1)}
           </h2>
-          <div className="pb-5 grid grid-cols-3 gap-5">
+          <div className="pb-5 grid grid-cols-1 sm:grid-cols-3 gap-5">
             {countyResults.map((result, index) => (
               <div key={`result-${index}-${result.pdfUrl}`} className="pb-5">
                 <div className="border p-3 rounded-lg bg-slate-50 min-h-[500px]">

@@ -6,7 +6,7 @@ import { AuthGuard } from "../components/authGuard";
 const Statsforvalteren = () => {
   return (
     <AuthGuard>
-      <div className="container mx-auto">
+      <div className="container mx-auto px-3">
         <CombinedData />
       </div>
     </AuthGuard>
