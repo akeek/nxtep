@@ -4,6 +4,7 @@ import React, { useEffect, useState } from "react";
 import havnemagasinetData from "../../../public/data/json/havnemagasinet.json";
 import { Card, CardContent, CardTitle } from "../../../@/components/ui/card";
 import Link from "next/link";
+import Image from "next/image";
 
 interface Havnemagasinet {
   id: number;
@@ -45,7 +46,7 @@ const HavnemagasinetPage: React.FC = () => {
                 </p>
               </CardTitle>
               <CardContent>
-                <img
+                <Image
                   className="object-cover h-[250px] w-full"
                   src={item.imgSrc}
                   alt={item.storytitle}
