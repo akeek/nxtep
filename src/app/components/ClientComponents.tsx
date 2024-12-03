@@ -27,7 +27,7 @@ export function ClientComponent({
     <div className="flex flex-col">
       <div className="text-center p-6">
         <select
-          className="border p-3 rounded"
+          className="border p-3 rounded cursor-pointer hover:bg-green-50"
           onChange={handleYearChange}
           value={selectedYear ?? "all"}
         >

@@ -112,7 +112,7 @@ const CombinedData: React.FC = () => {
               id="yearSelect"
               value={selectedYear}
               onChange={(e) => setSelectedYear(e.target.value)}
-              className="p-2 border rounded"
+              className="p-2 border rounded cursor-pointer hover:bg-green-50"
             >
               <option value="">Alle år</option>
               {years.map((year) => (
@@ -131,7 +131,7 @@ const CombinedData: React.FC = () => {
               id="countySelect"
               value={selectedCounty}
               onChange={(e) => setSelectedCounty(e.target.value)}
-              className="p-2 border rounded"
+              className="p-2 border rounded cursor-pointer hover:bg-green-50"
             >
               <option value="">Alle fylker</option>
               {counties.map((county) => (
@@ -152,7 +152,7 @@ const CombinedData: React.FC = () => {
           <div className="pb-5 grid grid-cols-1 sm:grid-cols-3 gap-5">
             {countyResults.map((result, index) => (
               <div key={`result-${index}-${result.pdfUrl}`} className="pb-5">
-                <div className="border p-3 rounded-lg bg-slate-50 min-h-[500px]">
+                <div className="border p-3 rounded-lg hover:bg-green-50 min-h-[500px]">
                   <h3 className="text-lg font-semibold pb-3">
                     {result.hoeringTitle}
                   </h3>

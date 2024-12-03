@@ -33,7 +33,7 @@ const HavnemagasinetPage: React.FC = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
           {data.map((item) => (
             <div key={item.id}>
-              <Card className="">
+              <Card className="hover:bg-green-50">
                 <CardTitle className="pt-4 pl-6 h-28">
                   <Link
                     className="text-blue-500 hover:text-green-900 hover:underline"
@@ -49,7 +49,7 @@ const HavnemagasinetPage: React.FC = () => {
                 </CardTitle>
                 <CardContent>
                   <Image
-                    className="object-cover h-[250px] w-full"
+                    className="object-cover h-[250px] w-full rounded-lg"
                     src={item.imgSrc}
                     alt={item.storytitle}
                     width={500}

@@ -35,7 +35,7 @@ export const UtslippCard = ({
   }
 
   return (
-    <Card className="bg-slate-50">
+    <Card className="hover:bg-green-50">
       <CardHeader>
         <CardTitle>
           <h2 className="font-bold pb-1">{Virksomhet}</h2>
