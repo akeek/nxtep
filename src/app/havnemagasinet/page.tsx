@@ -32,17 +32,16 @@ const HavnemagasinetPage: React.FC = () => {
         <h1 className="text-center text-3xl font-bold py-5">Havnemagasinet</h1>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
           {data.map((item) => (
-            <div key={item.id}>
-              <Card className="hover:bg-green-50">
+            <Link
+              key={item.id}
+              href={item.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block hover:bg-green-50"
+            >
+              <Card>
                 <CardTitle className="pt-4 pl-6 h-28">
-                  <Link
-                    className="text-blue-500 hover:text-green-900 hover:underline"
-                    href={item.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    {item.storytitle}
-                  </Link>
+                  <span className="hover:underline">{item.storytitle}</span>
                   <p className="text-gray-500 text-sm">
                     {item.publishedTime.toLocaleDateString()}
                   </p>
@@ -57,7 +56,7 @@ const HavnemagasinetPage: React.FC = () => {
                   />
                 </CardContent>
               </Card>
-            </div>
+            </Link>
           ))}
         </div>
       </div>

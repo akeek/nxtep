@@ -91,7 +91,7 @@ const CombinedData: React.FC = () => {
         Høringssaker fra statsforvalteren
       </h1>
 
-      <div className="text-center pb-3">
+      {/* <div className="text-center pb-3">
         <Button
           variant="outline"
           className="bg-green-50 hover:bg-green-500 hover:text-white font-semibold"
@@ -99,13 +99,13 @@ const CombinedData: React.FC = () => {
         >
           <Link href="/statsforvalteren/nyesaker">Siste saker</Link>
         </Button>
-      </div>
+      </div> */}
 
-      <div className="bg-slate-50 border rounded mb-6">
+      <div className="bg-slate-50 border rounded-lg mb-6">
         <p className="text-center text-2xl font-semibold py-3">Sortering</p>
-        <div className="grid grid-cols-2">
+        <div className="grid grid-cols-1 sm:grid-cols-2">
           <div className="pb-5 text-center">
-            <label htmlFor="yearSelect" className="font-bold pr-3">
+            <label htmlFor="yearSelect" className="font-bold pr-3 block">
               Velg år:
             </label>
             <select
@@ -124,7 +124,7 @@ const CombinedData: React.FC = () => {
           </div>
 
           <div className="pb-5 text-center">
-            <label htmlFor="countySelect" className="font-bold pr-3">
+            <label htmlFor="countySelect" className="font-bold pr-3 block">
               Velg fylke:
             </label>
             <select
