@@ -339,71 +339,6 @@
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
-    "pdfUrl": "https://www.miljodirektoratet.no/globalassets/publikasjoner/M608/M608.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Nordland",
-    "pageHeader": "Høringer",
-    "summary": "North Sea Container Line AS har søkt Statsforvalteren om tillatelse etter forurensningsloven til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune. Hensikten med tiltaket er å utdype ved kai for å tilrettelegge for større containerskip.",
-    "createdDate": "2020-10-27T18:43:23.000Z",
-    "høringsfrist": "2024-12-13T22:59:00.000Z",
-    "pdfData": {
-      "m2m3": [],
-      "mudring": [],
-      "molo": [],
-      "sjøarbeid": [],
-      "utdyping": [],
-      "tildekking": [],
-      "utfylling": [],
-      "dykking": [],
-      "undervannsprenging": [],
-      "wordsFound": {
-        "m³": {
-          "found": false,
-          "count": 0
-        },
-        "m²": {
-          "found": false,
-          "count": 0
-        },
-        "mudring": {
-          "found": false,
-          "count": 0
-        },
-        "molo": {
-          "found": false,
-          "count": 0
-        },
-        "sjøarbeid": {
-          "found": false,
-          "count": 0
-        },
-        "utdyping": {
-          "found": false,
-          "count": 0
-        },
-        "tildekking": {
-          "found": false,
-          "count": 0
-        },
-        "utfylling": {
-          "found": false,
-          "count": 0
-        },
-        "dykking": {
-          "found": false,
-          "count": 0
-        },
-        "undervannsprenging": {
-          "found": false,
-          "count": 0
-        }
-      }
-    }
-  },
-  {
-    "id": 7,
-    "county": "Nordland",
-    "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
     "pdfUrl": "https://www.statsforvalteren.no/contentassets/95ba7d3083a24f77b3deb397cc2fbb12/soknadsskjema-mudring-salten-verk_oktober-2024.pdf",
     "pageTitle": "Høringer | Statsforvalteren i Nordland",
     "pageHeader": "Høringer",
@@ -513,7 +448,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 7,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
@@ -587,7 +522,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 8,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
@@ -652,7 +587,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 9,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
@@ -717,7 +652,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 10,
     "county": "Nordland",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
@@ -769,6 +704,71 @@
         "mudring": {
           "found": true,
           "count": 37
+        },
+        "molo": {
+          "found": false,
+          "count": 0
+        },
+        "sjøarbeid": {
+          "found": false,
+          "count": 0
+        },
+        "utdyping": {
+          "found": false,
+          "count": 0
+        },
+        "tildekking": {
+          "found": false,
+          "count": 0
+        },
+        "utfylling": {
+          "found": false,
+          "count": 0
+        },
+        "dykking": {
+          "found": false,
+          "count": 0
+        },
+        "undervannsprenging": {
+          "found": false,
+          "count": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "county": "Nordland",
+    "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
+    "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
+    "pdfUrl": "https://www.statsforvalteren.no/contentassets/95ba7d3083a24f77b3deb397cc2fbb12/vedlegg-5---plankart_revidert-22.01.2022.pdf",
+    "pageTitle": "Høringer | Statsforvalteren i Nordland",
+    "pageHeader": "Høringer",
+    "summary": "North Sea Container Line AS har søkt Statsforvalteren om tillatelse etter forurensningsloven til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune. Hensikten med tiltaket er å utdype ved kai for å tilrettelegge for større containerskip.",
+    "createdDate": "2022-01-21T14:24:58.000Z",
+    "høringsfrist": "2024-12-13T22:59:00.000Z",
+    "pdfData": {
+      "m2m3": [],
+      "mudring": [],
+      "molo": [],
+      "sjøarbeid": [],
+      "utdyping": [],
+      "tildekking": [],
+      "utfylling": [],
+      "dykking": [],
+      "undervannsprenging": [],
+      "wordsFound": {
+        "m³": {
+          "found": false,
+          "count": 0
+        },
+        "m²": {
+          "found": false,
+          "count": 0
+        },
+        "mudring": {
+          "found": false,
+          "count": 0
         },
         "molo": {
           "found": false,
@@ -947,9 +947,7 @@
     "createdDate": "2024-08-15T14:28:19.000Z",
     "høringsfrist": "2024-12-15T22:59:00.000Z",
     "pdfData": {
-      "m2m3": [
-        "5.000m²) og rundt bygget/hallen."
-      ],
+      "m2m3": ["5.000m²) og rundt bygget/hallen."],
       "mudring": [],
       "molo": [],
       "sjøarbeid": [],
@@ -1136,71 +1134,6 @@
   },
   {
     "id": 17,
-    "county": "Nordland",
-    "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune",
-    "hoeringUrl": "https://www.statsforvalteren.no/nb/Nordland/Hoeringer/2024/12/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-sjo-ved-salten-verk-i-sorfold-kommune/",
-    "pdfUrl": "https://www.statsforvalteren.no/contentassets/95ba7d3083a24f77b3deb397cc2fbb12/vedlegg-5---plankart_revidert-22.01.2022.pdf",
-    "pageTitle": "Høringer | Statsforvalteren i Nordland",
-    "pageHeader": "Høringer",
-    "summary": "North Sea Container Line AS har søkt Statsforvalteren om tillatelse etter forurensningsloven til mudring og utfylling i sjø ved Salten Verk i Sørfold kommune. Hensikten med tiltaket er å utdype ved kai for å tilrettelegge for større containerskip.",
-    "createdDate": "2022-01-21T14:24:58.000Z",
-    "høringsfrist": "2024-12-13T22:59:00.000Z",
-    "pdfData": {
-      "m2m3": [],
-      "mudring": [],
-      "molo": [],
-      "sjøarbeid": [],
-      "utdyping": [],
-      "tildekking": [],
-      "utfylling": [],
-      "dykking": [],
-      "undervannsprenging": [],
-      "wordsFound": {
-        "m³": {
-          "found": false,
-          "count": 0
-        },
-        "m²": {
-          "found": false,
-          "count": 0
-        },
-        "mudring": {
-          "found": false,
-          "count": 0
-        },
-        "molo": {
-          "found": false,
-          "count": 0
-        },
-        "sjøarbeid": {
-          "found": false,
-          "count": 0
-        },
-        "utdyping": {
-          "found": false,
-          "count": 0
-        },
-        "tildekking": {
-          "found": false,
-          "count": 0
-        },
-        "utfylling": {
-          "found": false,
-          "count": 0
-        },
-        "dykking": {
-          "found": false,
-          "count": 0
-        },
-        "undervannsprenging": {
-          "found": false,
-          "count": 0
-        }
-      }
-    }
-  },
-  {
-    "id": 18,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om utsleppsløyve for tiltak i sjø ved Breivika i Vanylven kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-utsleppsloyve-for-tiltak-i-sjo-ved-breivika-i-vanylven-kommune/",
@@ -1441,7 +1374,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -1518,7 +1451,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -1605,7 +1538,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -1670,7 +1603,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -1735,7 +1668,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -1804,7 +1737,7 @@
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -1869,7 +1802,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -1937,7 +1870,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -2004,7 +1937,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om tiltak i sjø ved Indre Harøya i Hustadvika kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2024/12/soknad-om-tiltak-i-sjo-ved-indre-haroya-i-hustadvika-kommune/",
@@ -2073,7 +2006,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "county": "More og Romsdal",
     "hoeringTitle": "Høyring av vern av skog i Fjord kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2025/01/hoyring-av-vern-av-skog/",
@@ -2138,7 +2071,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "county": "More og Romsdal",
     "hoeringTitle": "Høyring av vern av skog i Fjord kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2025/01/hoyring-av-vern-av-skog/",
@@ -2203,7 +2136,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "county": "More og Romsdal",
     "hoeringTitle": "Søknad om endring av løyve til biogassanlegg i Hustadvika kommune - Martin Toreli",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2025/01/soknad-om-endring-av-loyve-til-biogassanlegg-i-hustadvika-kommune---martin-toreli/",
@@ -2268,7 +2201,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "county": "More og Romsdal",
     "hoeringTitle": "Høyring av skogvern i Aure",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2025/01/hoyring-av-vern-av-skog-i-aure/",
@@ -2333,7 +2266,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "county": "More og Romsdal",
     "hoeringTitle": "Høyring av skogvern i Aure",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2025/01/hoyring-av-vern-av-skog-i-aure/",
@@ -2398,7 +2331,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "county": "More og Romsdal",
     "hoeringTitle": "Høyring av skogvern i Aure",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/More-og-Romsdal/Hoyringar/2025/01/hoyring-av-vern-av-skog-i-aure/",
@@ -2463,7 +2396,7 @@
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2528,7 +2461,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2593,7 +2526,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2660,7 +2593,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2725,7 +2658,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2790,7 +2723,7 @@
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "county": "troms finnmark",
     "hoeringTitle": "Ramnes SØF - søknad om utslippstillatelse",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2024/12/ramnes-sof/",
@@ -2858,7 +2791,7 @@
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -2923,7 +2856,7 @@
     }
   },
   {
-    "id": 41,
+    "id": 40,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -2990,7 +2923,7 @@
     }
   },
   {
-    "id": 42,
+    "id": 41,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -3055,7 +2988,7 @@
     }
   },
   {
-    "id": 43,
+    "id": 42,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -3120,7 +3053,7 @@
     }
   },
   {
-    "id": 44,
+    "id": 43,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -3185,7 +3118,7 @@
     }
   },
   {
-    "id": 45,
+    "id": 44,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -3250,7 +3183,7 @@
     }
   },
   {
-    "id": 46,
+    "id": 45,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -3319,7 +3252,7 @@
     }
   },
   {
-    "id": 47,
+    "id": 46,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -3384,7 +3317,7 @@
     }
   },
   {
-    "id": 48,
+    "id": 47,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -3449,7 +3382,7 @@
     }
   },
   {
-    "id": 49,
+    "id": 48,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -3514,7 +3447,7 @@
     }
   },
   {
-    "id": 50,
+    "id": 49,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -3579,7 +3512,7 @@
     }
   },
   {
-    "id": 51,
+    "id": 50,
     "county": "troms finnmark",
     "hoeringTitle": "Søknad -Permanent asfaltverk -Finnfjord-Senja kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/troms-finnmark/horinger/2025/01/soknad--permanent-asfaltverk--finnfjord-senja-kommune/",
@@ -3644,7 +3577,7 @@
     }
   },
   {
-    "id": 52,
+    "id": 51,
     "county": "Trondelag",
     "hoeringTitle": "Høring - søknad om tillatelse inkludert vurdering av BAT-konklusjoner - Moelven Van Severen AS - Namsos kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/horing---soknad-om-tillatelse-inkludert-vurdering-av-bat-konklusjoner---moelven-van-severen---namsos-kommune/",
@@ -3655,9 +3588,7 @@
     "createdDate": "2024-10-10T08:11:36.000Z",
     "høringsfrist": "2024-12-09T22:59:00.000Z",
     "pdfData": {
-      "m2m3": [
-        "65/1743, som har et totalt areal på 221 756 m²."
-      ],
+      "m2m3": ["65/1743, som har et totalt areal på 221 756 m²."],
       "mudring": [
         "SEDIMENTER Det er gjennomført miljøundersøkelser av sedimentene utenfor virksomhetens kaiområde i forbindelse med mudring for å øke seilingsdybden ved kaia /10/.",
         "Mudring utenfor Moelven Van Severens kai, Namsos."
@@ -3714,7 +3645,7 @@
     }
   },
   {
-    "id": 53,
+    "id": 52,
     "county": "Trondelag",
     "hoeringTitle": "Høring - søknad om tillatelse inkludert vurdering av BAT-konklusjoner - Moelven Van Severen AS - Namsos kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/horing---soknad-om-tillatelse-inkludert-vurdering-av-bat-konklusjoner---moelven-van-severen---namsos-kommune/",
@@ -3779,7 +3710,7 @@
     }
   },
   {
-    "id": 54,
+    "id": 53,
     "county": "Trondelag",
     "hoeringTitle": "Høring - søknad om tillatelse inkludert vurdering av BAT-konklusjoner - Moelven Van Severen AS - Namsos kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/horing---soknad-om-tillatelse-inkludert-vurdering-av-bat-konklusjoner---moelven-van-severen---namsos-kommune/",
@@ -3844,7 +3775,7 @@
     }
   },
   {
-    "id": 55,
+    "id": 54,
     "county": "Trondelag",
     "hoeringTitle": "Høring - søknad om tillatelse inkludert vurdering av BAT-konklusjoner - Moelven Van Severen AS - Namsos kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/horing---soknad-om-tillatelse-inkludert-vurdering-av-bat-konklusjoner---moelven-van-severen---namsos-kommune/",
@@ -3855,9 +3786,7 @@
     "createdDate": "2024-10-31T12:39:15.000Z",
     "høringsfrist": "2024-12-09T22:59:00.000Z",
     "pdfData": {
-      "m2m3": [
-        "65/1743, som har et totalt areal på 221 756 m²."
-      ],
+      "m2m3": ["65/1743, som har et totalt areal på 221 756 m²."],
       "mudring": [
         "SEDIMENTUNDERSØKELSER Det ble gjennomført miljøundersøkelser av sedimentene utenfor Moelven Van Severen sitt kaiområde i 2018, i forbindelse med mudring for å øke seilingsdybden ved kaia /12/.",
         "Mudring utenfor Moelven Van Severens kai, Namsos."
@@ -3916,7 +3845,7 @@
     }
   },
   {
-    "id": 56,
+    "id": 55,
     "county": "Trondelag",
     "hoeringTitle": "Søknad om utslippstillatelse-Trondheim Kai ved betong øst Fagervika",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/soknad-om-utslippstillatelse-trondheim-kai-ved-betong-ost-fagervika/",
@@ -3988,7 +3917,7 @@
     }
   },
   {
-    "id": 57,
+    "id": 56,
     "county": "Trondelag",
     "hoeringTitle": "Søknad om utslippstillatelse-Trondheim Kai ved betong øst Fagervika",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/soknad-om-utslippstillatelse-trondheim-kai-ved-betong-ost-fagervika/",
@@ -4053,7 +3982,7 @@
     }
   },
   {
-    "id": 58,
+    "id": 57,
     "county": "Trondelag",
     "hoeringTitle": "Søknad om utslippstillatelse-Trondheim Kai ved betong øst Fagervika",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/soknad-om-utslippstillatelse-trondheim-kai-ved-betong-ost-fagervika/",
@@ -4118,7 +4047,7 @@
     }
   },
   {
-    "id": 59,
+    "id": 58,
     "county": "Trondelag",
     "hoeringTitle": "Søknad om utslippstillatelse-Trondheim Kai ved betong øst Fagervika",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2024/12/soknad-om-utslippstillatelse-trondheim-kai-ved-betong-ost-fagervika/",
@@ -4183,7 +4112,7 @@
     }
   },
   {
-    "id": 60,
+    "id": 59,
     "county": "Trondelag",
     "hoeringTitle": "Vernskogen i Trøndelag får nye bestemmelser",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2025/01/vernskogen-i-trondelag-far-nye-bestemmelser/",
@@ -4248,7 +4177,7 @@
     }
   },
   {
-    "id": 61,
+    "id": 60,
     "county": "Trondelag",
     "hoeringTitle": "Vernskogen i Trøndelag får nye bestemmelser",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/Trondelag/Horinger/2025/01/vernskogen-i-trondelag-far-nye-bestemmelser/",
@@ -4313,7 +4242,7 @@
     }
   },
   {
-    "id": 62,
+    "id": 61,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4378,7 +4307,7 @@
     }
   },
   {
-    "id": 63,
+    "id": 62,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4445,7 +4374,7 @@
     }
   },
   {
-    "id": 64,
+    "id": 63,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4510,7 +4439,7 @@
     }
   },
   {
-    "id": 65,
+    "id": 64,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4575,7 +4504,7 @@
     }
   },
   {
-    "id": 66,
+    "id": 65,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4640,7 +4569,7 @@
     }
   },
   {
-    "id": 67,
+    "id": 66,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4705,7 +4634,7 @@
     }
   },
   {
-    "id": 68,
+    "id": 67,
     "county": "vestfold og telemark",
     "hoeringTitle": "Norsk Gjenvinning AS avd. Holmestrand søker om endring av tillatelsen",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/norsk-gjenvinning-as-avd.-holmestrand-soker-om-endring-av-tillatelsen/",
@@ -4770,7 +4699,7 @@
     }
   },
   {
-    "id": 69,
+    "id": 68,
     "county": "vestfold og telemark",
     "hoeringTitle": "Søknad om utfylling ved Risøya i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/soknad-om-utfylling-ved-risoya-i-larvik-kommune/",
@@ -4854,7 +4783,7 @@
     }
   },
   {
-    "id": 70,
+    "id": 69,
     "county": "vestfold og telemark",
     "hoeringTitle": "Søknad om utfylling ved Risøya i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/soknad-om-utfylling-ved-risoya-i-larvik-kommune/",
@@ -4924,7 +4853,7 @@
     }
   },
   {
-    "id": 71,
+    "id": 70,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -4989,7 +4918,7 @@
     }
   },
   {
-    "id": 72,
+    "id": 71,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -5054,7 +4983,7 @@
     }
   },
   {
-    "id": 73,
+    "id": 72,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -5119,7 +5048,7 @@
     }
   },
   {
-    "id": 74,
+    "id": 73,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -5184,7 +5113,7 @@
     }
   },
   {
-    "id": 75,
+    "id": 74,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -5249,7 +5178,7 @@
     }
   },
   {
-    "id": 76,
+    "id": 75,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -5314,7 +5243,7 @@
     }
   },
   {
-    "id": 77,
+    "id": 76,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -5379,7 +5308,7 @@
     }
   },
   {
-    "id": 78,
+    "id": 77,
     "county": "vestfold og telemark",
     "hoeringTitle": "Høring av verneplaner for opprettelse av to naturreservater i Larvik",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2024/12/horing-av-verneplaner-for-opprettelse-av-to-naturreservater-i-larvik-kommune/",
@@ -5444,7 +5373,7 @@
     }
   },
   {
-    "id": 79,
+    "id": 78,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5509,7 +5438,7 @@
     }
   },
   {
-    "id": 80,
+    "id": 79,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5574,7 +5503,7 @@
     }
   },
   {
-    "id": 81,
+    "id": 80,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5639,7 +5568,7 @@
     }
   },
   {
-    "id": 82,
+    "id": 81,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5704,7 +5633,7 @@
     }
   },
   {
-    "id": 83,
+    "id": 82,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5769,7 +5698,7 @@
     }
   },
   {
-    "id": 84,
+    "id": 83,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5834,7 +5763,7 @@
     }
   },
   {
-    "id": 85,
+    "id": 84,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5899,7 +5828,7 @@
     }
   },
   {
-    "id": 86,
+    "id": 85,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -5964,7 +5893,7 @@
     }
   },
   {
-    "id": 87,
+    "id": 86,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6029,7 +5958,7 @@
     }
   },
   {
-    "id": 88,
+    "id": 87,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6094,7 +6023,7 @@
     }
   },
   {
-    "id": 89,
+    "id": 88,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6159,7 +6088,7 @@
     }
   },
   {
-    "id": 90,
+    "id": 89,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6224,7 +6153,7 @@
     }
   },
   {
-    "id": 91,
+    "id": 90,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6289,7 +6218,7 @@
     }
   },
   {
-    "id": 92,
+    "id": 91,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6354,7 +6283,7 @@
     }
   },
   {
-    "id": 93,
+    "id": 92,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6419,7 +6348,7 @@
     }
   },
   {
-    "id": 94,
+    "id": 93,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6484,7 +6413,7 @@
     }
   },
   {
-    "id": 95,
+    "id": 94,
     "county": "vestfold og telemark",
     "hoeringTitle": "Verneplan for frivillig vern av skog ut på høring",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/vestfold-og-telemark/horinger/2025/01/horing-av-verneplaner/",
@@ -6549,7 +6478,7 @@
     }
   },
   {
-    "id": 96,
+    "id": 95,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for å utvide næringsareal ved Moldestad i Stad kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-a-utvide-naringsareal-ved-moldestad-i-stad-kommune/",
@@ -6614,7 +6543,7 @@
     }
   },
   {
-    "id": 97,
+    "id": 96,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for å utvide næringsareal ved Moldestad i Stad kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-a-utvide-naringsareal-ved-moldestad-i-stad-kommune/",
@@ -6685,7 +6614,7 @@
     }
   },
   {
-    "id": 98,
+    "id": 97,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for å utvide næringsareal ved Moldestad i Stad kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-a-utvide-naringsareal-ved-moldestad-i-stad-kommune/",
@@ -6696,9 +6625,7 @@
     "createdDate": "2024-04-09T08:50:08.000Z",
     "høringsfrist": "2024-12-16T22:00:00.000Z",
     "pdfData": {
-      "m2m3": [
-        "70 000 m²."
-      ],
+      "m2m3": ["70 000 m²."],
       "mudring": [
         "Mudring i sedimenter krever tillatelse fra Statsforvalteren før arbeidet kan starte, jf.",
         "Mudring kan også være aktuelt på grunn av stabiliteten til planlagt utfylling.",
@@ -6942,7 +6869,7 @@
     }
   },
   {
-    "id": 99,
+    "id": 98,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -7007,7 +6934,7 @@
     }
   },
   {
-    "id": 100,
+    "id": 99,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -7087,7 +7014,7 @@
     }
   },
   {
-    "id": 101,
+    "id": 100,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -7229,7 +7156,7 @@
     }
   },
   {
-    "id": 102,
+    "id": 101,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -7332,7 +7259,7 @@
     }
   },
   {
-    "id": 103,
+    "id": 102,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -7432,7 +7359,7 @@
     }
   },
   {
-    "id": 104,
+    "id": 103,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for rehabilitering og utviding av molo i Gaupnefjorden i Luster kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2024/12/soknad-om-anleggsarbeid-i-sjo-for-rehabilitering-og-utviding-av-molo-i-gaupnefjorden-i-luster-kommune/",
@@ -7500,7 +7427,7 @@
     }
   },
   {
-    "id": 105,
+    "id": 104,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
@@ -7596,7 +7523,7 @@
     }
   },
   {
-    "id": 106,
+    "id": 105,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
@@ -7665,7 +7592,7 @@
     }
   },
   {
-    "id": 107,
+    "id": 106,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
@@ -7677,9 +7604,7 @@
     "høringsfrist": "2025-01-13T22:00:00.000Z",
     "pdfData": {
       "m2m3": [],
-      "mudring": [
-        "Prosjektet gjeld kun utfylling (ikkje mudring)."
-      ],
+      "mudring": ["Prosjektet gjeld kun utfylling (ikkje mudring)."],
       "molo": [],
       "sjøarbeid": [],
       "utdyping": [],
@@ -7766,7 +7691,7 @@
     }
   },
   {
-    "id": 108,
+    "id": 107,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
@@ -7836,7 +7761,7 @@
     }
   },
   {
-    "id": 109,
+    "id": 108,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
@@ -7901,7 +7826,7 @@
     }
   },
   {
-    "id": 110,
+    "id": 109,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
@@ -7966,7 +7891,7 @@
     }
   },
   {
-    "id": 111,
+    "id": 110,
     "county": "vestland",
     "hoeringTitle": "Søknad om anleggsarbeid i sjø for utviding av industriområde på Botnastranda i Kinn kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2025/01/soknad-om-anleggsarbeid-i-sjo-for-utviding-av-industriomrade-pa-botnastranda-i-kinn-kommune/",
@@ -8031,7 +7956,7 @@
     }
   },
   {
-    "id": 112,
+    "id": 111,
     "county": "ostfold buskerud oslo og akershus",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring i Steinsfjorden ved Pålsrud i Ringerike kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2024/12/horing-av-soknad-om-tillatelse-til-mudring-i-steinsfjorden-ved-palsrud-i-ringerike-kommune/",
@@ -8109,7 +8034,7 @@
     }
   },
   {
-    "id": 113,
+    "id": 112,
     "county": "ostfold buskerud oslo og akershus",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring i Steinsfjorden ved Pålsrud i Ringerike kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2024/12/horing-av-soknad-om-tillatelse-til-mudring-i-steinsfjorden-ved-palsrud-i-ringerike-kommune/",
@@ -8184,7 +8109,7 @@
     }
   },
   {
-    "id": 114,
+    "id": 113,
     "county": "ostfold buskerud oslo og akershus",
     "hoeringTitle": "Høring av søknad om tillatelse etter forurensningsloven til mudring og utfylling i Bekkelagsbassenget i forbindelse med oppgradering av Kneppeskjær øst - Oslo kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2024/12/horing-av-soknad-om-tillatelse-etter-forurensningsloven-til-mudring-og-utfylling-i-bekkelagsbassenget-i-forbindelse-med-oppgradering-av-kneppeskjar-ost---oslo-kommune/",
@@ -8390,7 +8315,7 @@
     }
   },
   {
-    "id": 115,
+    "id": 114,
     "county": "ostfold buskerud oslo og akershus",
     "hoeringTitle": "Høring av søknad om tillatelse etter forurensningsloven til utfylling og fysiske tiltak i sjø ved Bjørvika i Oslo kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2025/01/horing-av-soknad-om-tillatelse-etter-forurensningsloven-til-utfylling-og-fysiske-tiltak-i-sjo-ved-bjorvika-i-oslo-kommune/",
@@ -8464,7 +8389,7 @@
     }
   },
   {
-    "id": 116,
+    "id": 115,
     "county": "ostfold buskerud oslo og akershus",
     "hoeringTitle": "Høring av søknad om tillatelse etter forurensningsloven til utfylling og fysiske tiltak i sjø ved Bjørvika i Oslo kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2025/01/horing-av-soknad-om-tillatelse-etter-forurensningsloven-til-utfylling-og-fysiske-tiltak-i-sjo-ved-bjorvika-i-oslo-kommune/",
@@ -8543,7 +8468,7 @@
     }
   },
   {
-    "id": 117,
+    "id": 116,
     "county": "ostfold buskerud oslo og akershus",
     "hoeringTitle": "Høring av søknad om tillatelse etter forurensningsloven til utfylling og fysiske tiltak i sjø ved Bjørvika i Oslo kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2025/01/horing-av-soknad-om-tillatelse-etter-forurensningsloven-til-utfylling-og-fysiske-tiltak-i-sjo-ved-bjorvika-i-oslo-kommune/",
@@ -8608,7 +8533,7 @@
     }
   },
   {
-    "id": 118,
+    "id": 117,
     "county": "ostfold buskerud oslo og akershus",
     "hoeringTitle": "Høring av søknad om tillatelse etter forurensningsloven til utfylling og fysiske tiltak i sjø ved Bjørvika i Oslo kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2025/01/horing-av-soknad-om-tillatelse-etter-forurensningsloven-til-utfylling-og-fysiske-tiltak-i-sjo-ved-bjorvika-i-oslo-kommune/",
@@ -8673,7 +8598,7 @@
     }
   },
   {
-    "id": 119,
+    "id": 118,
     "county": "ostfold buskerud oslo og akershus",
     "hoeringTitle": "Høring av søknad om tillatelse til mudring og utfylling i Storelva i Hole kommune",
     "hoeringUrl": "https://www.statsforvalteren.no/nb/ostfold-buskerud-oslo-og-akershus/horinger/2025/01/horing-av-soknad-om-tillatelse-til-mudring-og-utfylling-i-storelva-i-hole-kommune/",

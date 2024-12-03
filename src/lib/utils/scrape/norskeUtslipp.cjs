@@ -22,6 +22,10 @@ async function downloadAndParsePDF(link) {
 }
 
 function extractCreationDate(creationDateStr) {
+  // Her må jeg ta tak i noe annet dersom den ikke finner creationDate i metadata
+  // da må den lete i selve teksten etter datoer
+  // og så returnere den første datoen den finner
+
   if (creationDateStr) {
     const match = creationDateStr.match(
       /D:(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/
