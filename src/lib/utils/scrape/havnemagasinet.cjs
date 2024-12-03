@@ -70,5 +70,5 @@ async function saveToFile(filePath, data) {
 
   await browser.close();
 
-  console.timeEnd("Time used");
+  console.timeEnd("Havnemagasinet scrape duration");
 })();

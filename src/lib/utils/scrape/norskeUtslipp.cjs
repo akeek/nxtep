@@ -141,7 +141,7 @@ async function scrapeNorskeUtslipp() {
     await browser.close();
 
     // End the timer and log the duration in seconds
-    console.timeEnd("scrapeDuration");
+    console.timeEnd("Norske utslipp scraping duration");
     const duration = (performance.now() / 1000).toFixed(2); // Convert ms to seconds
     console.log(`Scraping completed in ${duration} seconds.`);
   }

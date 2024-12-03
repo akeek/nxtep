@@ -8,8 +8,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "scrape": "node src/lib/utils/scrape/statsforvalteren.cjs",
-    "scrape2": "node src/lib/utils/scrape/norskeutslipp.cjs"
+    "scrape": "node src/lib/utils/scrape/mainscrape.cjs",
+    "scrape1": "node src/lib/utils/scrape/norskeutslipp.cjs",
+    "scrape2": "node src/lib/utils/scrape/havnemagasinet.cjs",
+    "scrape3": "node src/lib/utils/scrape/statsforvalteren.cjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",

@@ -262,5 +262,5 @@ console.time("scrapeDuration");
   ];
   const results = await scrapeAndParse(urls);
   await saveToFile(path.join(publicDir, "statsforvalteren1.json"), results);
-  console.timeEnd("scrapeDuration");
+  console.timeEnd("Statsforvalteren scrape duration");
 })();
